@@ -1,0 +1,427 @@
+[7/23/20 2:03:09 AM] [main] Starting GSF service with concurrent process id = 552555.
+[7/23/20 2:03:09 AM] [main] Initialization Parameters: oracle.apps.fnd.cp.opp.OPPServiceThread:2:0:max_threads=5
+[7/23/20 2:03:09 AM] [Thread-28] Service thread starting up.
+[7/23/20 2:03:09 AM] [Thread-29] Service thread starting up.
+[7/23/20 5:12:12 PM] [OPPServiceThread1] Post-processing request 16566348.
+[7/23/20 5:13:46 PM] [OPPServiceThread0] Post-processing request 16566351.
+[7/23/20 5:24:27 PM] [OPPServiceThread1] Post-processing request 16566359.
+[7/23/20 5:31:18 PM] [OPPServiceThread1] Post-processing request 16566364.
+[7/23/20 5:37:51 PM] [OPPServiceThread0] Post-processing request 16566370.
+[7/23/20 5:38:32 PM] [OPPServiceThread1] Post-processing request 16566373.
+[7/23/20 5:38:32 PM] [552555:RT16566373] Executing post-processing actions for request 16566373.
+[7/23/20 5:38:32 PM] [552555:RT16566373] Starting XML Publisher post-processing action.
+[7/23/20 5:38:32 PM] [552555:RT16566373] 
+Template code: RTCR_GMIRDPIK_B
+Template app:  XBOL
+Language:      en
+Territory:     US
+Output type:   PDF
+[072320_173832620][][EXCEPTION] [DEBUG] ------- Preferences defined PreferenceStore -------
+[072320_173832621][][EXCEPTION] [DEBUG] ------- Environment variables stored in EnvironmentStore -------
+[072320_173832621][][EXCEPTION] [DEBUG]  [FND_JDBC_BUFFER_MAX]:[2]
+[072320_173832621][][EXCEPTION] [DEBUG]  [FND_JDBC_USABLE_CHECK]:[false]
+[072320_173832621][][EXCEPTION] [DEBUG]  [FND_JDBC_IDLE_THRESHOLD.HIGH]:[-1]
+[072320_173832621][][EXCEPTION] [DEBUG]  [FND_JDBC_BUFFER_DECAY_SIZE]:[5]
+[072320_173832621][][EXCEPTION] [DEBUG]  [FND_MAX_JDBC_CONNECTIONS]:[500]
+[072320_173832621][][EXCEPTION] [DEBUG]  [RESP_APPL_ID]:[-1]
+[072320_173832621][][EXCEPTION] [DEBUG]  [USER_ID]:[-1]
+[072320_173832621][][EXCEPTION] [DEBUG]  [SECURITY_GROUP_ID]:[0]
+[072320_173832621][][EXCEPTION] [DEBUG]  [LOGIN_ID]:[-1]
+[072320_173832621][][EXCEPTION] [DEBUG]  [FND_JDBC_IDLE_THRESHOLD.LOW]:[-1]
+[072320_173832621][][EXCEPTION] [DEBUG]  [APPS_JDBC_URL]:[jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=YES)(FAILOVER=YES)(ADDRESS=(PROTOCOL=tcp)(HOST=trniusuxt013.torani.com)(PORT=1529)))(CONNECT_DATA=(SERVICE_NAME=TTORANI)))]
+[072320_173832621][][EXCEPTION] [DEBUG]  [RESP_ID]:[-1]
+[072320_173832621][][EXCEPTION] [DEBUG]  [FND_JDBC_CONTEXT_CHECK]:[true]
+[072320_173832621][][EXCEPTION] [DEBUG]  [FND_JDBC_BUFFER_MIN]:[1]
+[072320_173832621][][EXCEPTION] [DEBUG]  [FND_JDBC_BUFFER_DECAY_INTERVAL]:[300]
+[072320_173832621][][EXCEPTION] [DEBUG]  [FND_JDBC_PLSQL_RESET]:[false]
+[072320_173832622][][EXCEPTION] [DEBUG] ------- Properties stored in Java System Properties -------
+[072320_173832622][][EXCEPTION] [DEBUG]  [java.vendor]:[Oracle Corporation]
+[072320_173832622][][EXCEPTION] [DEBUG]  [FND_JDBC_BUFFER_MIN]:[1]
+[072320_173832622][][EXCEPTION] [DEBUG]  [sun.java.launcher]:[SUN_STANDARD]
+[072320_173832622][][EXCEPTION] [DEBUG]  [sun.management.compiler]:[HotSpot Tiered Compilers]
+[072320_173832622][][EXCEPTION] [DEBUG]  [https.proxyHost]:[]
+[072320_173832622][][EXCEPTION] [DEBUG]  [os.name]:[Linux]
+[072320_173832622][][EXCEPTION] [DEBUG]  [sun.boot.class.path]:[/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/resources.jar:/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/rt.jar:/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/sunrsasign.jar:/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/jsse.jar:/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/jce.jar:/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/charsets.jar:/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/jfr.jar:/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/classes]
+[072320_173832622][][EXCEPTION] [DEBUG]  [java.vm.specification.vendor]:[Oracle Corporation]
+[072320_173832622][][EXCEPTION] [DEBUG]  [CACHEMODE]:[DISTRIBUTED]
+[072320_173832622][][EXCEPTION] [DEBUG]  [java.runtime.version]:[1.7.0_171-b11]
+[072320_173832622][][EXCEPTION] [DEBUG]  [dbcfile]:[/u01/inst/apps/TTORANI_trniusuxt016/appl/fnd/12.0.0/secure/TTORANI.dbc]
+[072320_173832622][][EXCEPTION] [DEBUG]  [APPLOUT]:[out]
+[072320_173832622][][EXCEPTION] [DEBUG]  [http.proxyPort]:[]
+[072320_173832622][][EXCEPTION] [DEBUG]  [user.name]:[appttorani]
+[072320_173832622][][EXCEPTION] [DEBUG]  [user.language]:[en]
+[072320_173832622][][EXCEPTION] [DEBUG]  [sun.boot.library.path]:[/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/i386]
+[072320_173832622][][EXCEPTION] [DEBUG]  [FND_JDBC_BUFFER_MAX]:[2]
+[072320_173832623][][EXCEPTION] [DEBUG]  [java.version]:[1.7.0_171]
+[072320_173832623][][EXCEPTION] [DEBUG]  [user.timezone]:[America/Vancouver]
+[072320_173832623][][EXCEPTION] [DEBUG]  [APPLTMP]:[/u01/inst/apps/TTORANI_trniusuxt016/appltmp]
+[072320_173832623][][EXCEPTION] [DEBUG]  [sun.arch.data.model]:[32]
+[072320_173832623][][EXCEPTION] [DEBUG]  [http.nonProxyHosts]:[]
+[072320_173832623][][EXCEPTION] [DEBUG]  [java.endorsed.dirs]:[/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/endorsed]
+[072320_173832623][][EXCEPTION] [DEBUG]  [sun.cpu.isalist]:[]
+[072320_173832623][][EXCEPTION] [DEBUG]  [sun.jnu.encoding]:[UTF-8]
+[072320_173832623][][EXCEPTION] [DEBUG]  [file.encoding.pkg]:[sun.io]
+[072320_173832623][][EXCEPTION] [DEBUG]  [DBCFILE]:[/u01/inst/apps/TTORANI_trniusuxt016/appl/fnd/12.0.0/secure/TTORANI.dbc]
+[072320_173832623][][EXCEPTION] [DEBUG]  [file.separator]:[/]
+[072320_173832623][][EXCEPTION] [DEBUG]  [java.specification.name]:[Java Platform API Specification]
+[072320_173832623][][EXCEPTION] [DEBUG]  [java.class.version]:[51.0]
+[072320_173832623][][EXCEPTION] [DEBUG]  [user.country]:[US]
+[072320_173832623][][EXCEPTION] [DEBUG]  [java.home]:[/u01/apps/tech_st/10.1.3/appsutil/jdk/jre]
+[072320_173832623][][EXCEPTION] [DEBUG]  [java.vm.info]:[mixed mode]
+[072320_173832623][][EXCEPTION] [DEBUG]  [os.version]:[3.8.13-118.21.1.el7uek.x86_64]
+[072320_173832623][][EXCEPTION] [DEBUG]  [https.proxyPort]:[]
+[072320_173832624][][EXCEPTION] [DEBUG]  [queue_appl_id]:[0]
+[072320_173832624][][EXCEPTION] [DEBUG]  [https.nonProxyHosts]:[]
+[072320_173832624][][EXCEPTION] [DEBUG]  [path.separator]:[:]
+[072320_173832624][][EXCEPTION] [DEBUG]  [java.vm.version]:[24.171-b11]
+[072320_173832624][][EXCEPTION] [DEBUG]  [conc_queue_id]:[3283]
+[072320_173832624][][EXCEPTION] [DEBUG]  [oracle.apps.fnd.common.Pool.leak.mode]:[stderr:off]
+[072320_173832624][][EXCEPTION] [DEBUG]  [java.awt.printerjob]:[sun.print.PSPrinterJob]
+[072320_173832624][][EXCEPTION] [DEBUG]  [cpid]:[552555]
+[072320_173832624][][EXCEPTION] [DEBUG]  [sun.io.unicode.encoding]:[UnicodeLittle]
+[072320_173832624][][EXCEPTION] [DEBUG]  [awt.toolkit]:[sun.awt.X11.XToolkit]
+[072320_173832624][][EXCEPTION] [DEBUG]  [JTFDBCFILE]:[/u01/inst/apps/TTORANI_trniusuxt016/appl/fnd/12.0.0/secure/TTORANI.dbc]
+[072320_173832624][][EXCEPTION] [DEBUG]  [user.home]:[/home/appttorani]
+[072320_173832624][][EXCEPTION] [DEBUG]  [java.specification.vendor]:[Oracle Corporation]
+[072320_173832624][][EXCEPTION] [DEBUG]  [java.library.path]:[/u01/apps/tech_st/10.1.3/lib32:/u01/apps/tech_st/10.1.3/lib:/u01/apps/apps_st/appl/cz/12.0.0/bin:/u01/apps/apps_st/appl/iby/12.0.0/bin:/u01/apps/apps_st/appl/pon/12.0.0/bin:/u01/apps/apps_st/appl/sht/12.0.0/lib:/usr/java/packages/lib/i386:/lib:/usr/lib]
+[072320_173832624][][EXCEPTION] [DEBUG]  [java.vendor.url]:[http://java.oracle.com/]
+[072320_173832624][][EXCEPTION] [DEBUG]  [java.vm.vendor]:[Oracle Corporation]
+[072320_173832624][][EXCEPTION] [DEBUG]  [java.runtime.name]:[Java(TM) SE Runtime Environment]
+[072320_173832624][][EXCEPTION] [DEBUG]  [sun.java.command]:[oracle.apps.fnd.cp.gsf.GSMServiceController]
+[072320_173832624][][EXCEPTION] [DEBUG]  [java.class.path]:[/u01/apps/tech_st/10.1.3/appsutil/jdk/lib/dt.jar:/u01/apps/tech_st/10.1.3/appsutil/jdk/lib/tools.jar:/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/rt.jar:/u01/apps/apps_st/comn/java/lib/appsborg2.zip:/u01/apps/apps_st/comn/java/classes]
+[072320_173832625][][EXCEPTION] [DEBUG]  [java.vm.specification.name]:[Java Virtual Machine Specification]
+[072320_173832625][][EXCEPTION] [DEBUG]  [java.vm.specification.version]:[1.7]
+[072320_173832625][][EXCEPTION] [DEBUG]  [sun.cpu.endian]:[little]
+[072320_173832625][][EXCEPTION] [DEBUG]  [sun.os.patch.level]:[unknown]
+[072320_173832625][][EXCEPTION] [DEBUG]  [java.io.tmpdir]:[/tmp]
+[072320_173832625][][EXCEPTION] [DEBUG]  [java.vendor.url.bug]:[http://bugreport.sun.com/bugreport/]
+[072320_173832625][][EXCEPTION] [DEBUG]  [http.proxyHost]:[]
+[072320_173832625][][EXCEPTION] [DEBUG]  [os.arch]:[i386]
+[072320_173832625][][EXCEPTION] [DEBUG]  [java.awt.graphicsenv]:[sun.awt.X11GraphicsEnvironment]
+[072320_173832625][][EXCEPTION] [DEBUG]  [java.ext.dirs]:[/u01/apps/tech_st/10.1.3/appsutil/jdk/jre/lib/ext:/usr/java/packages/lib/ext]
+[072320_173832625][][EXCEPTION] [DEBUG]  [CLIENT_PROCESSID]:[5058]
+[072320_173832625][][EXCEPTION] [DEBUG]  [user.dir]:[/u01/inst/apps/TTORANI_trniusuxt016/logs/appl/conc/log]
+[072320_173832625][][EXCEPTION] [DEBUG]  [line.separator]:[
+]
+[072320_173832625][][EXCEPTION] [DEBUG]  [LONG_RUNNING_JVM]:[true]
+[072320_173832625][][EXCEPTION] [DEBUG]  [java.vm.name]:[Java HotSpot(TM) Server VM]
+[072320_173832625][][EXCEPTION] [DEBUG]  [OVERRIDE_DBC]:[true]
+[072320_173832626][][EXCEPTION] [DEBUG]  [logfile]:[/u01/inst/apps/TTORANI_trniusuxt016/logs/appl/conc/log/FNDOPP552555.txt]
+[072320_173832626][][EXCEPTION] [DEBUG]  [APPLCSF]:[/u01/inst/apps/TTORANI_trniusuxt016/logs/appl/conc]
+[072320_173832626][][EXCEPTION] [DEBUG]  [file.encoding]:[UTF-8]
+[072320_173832626][][EXCEPTION] [DEBUG]  [java.specification.version]:[1.7]
+[7/23/20 5:38:35 PM] [552555:RT16566373] XML Publisher post-processing action complete.
+[7/23/20 5:38:36 PM] [552555:RT16566373] Completed post-processing actions for request 16566373.
+[7/23/20 5:45:41 PM] [OPPServiceThread0] Post-processing request 16566379.
+[7/23/20 5:45:57 PM] [OPPServiceThread1] Post-processing request 16566382.
+[7/24/20 3:42:46 AM] [OPPServiceThread1] Post-processing request 16567339.
+[7/24/20 4:17:39 AM] [OPPServiceThread0] Post-processing request 16568346.
+[7/24/20 4:20:42 AM] [OPPServiceThread1] Post-processing request 16568347.
+[7/24/20 4:26:18 AM] [OPPServiceThread0] Post-processing request 16568350.
+[7/24/20 4:37:55 AM] [OPPServiceThread1] Post-processing request 16568355.
+[7/24/20 4:43:21 AM] [OPPServiceThread1] Post-processing request 16568357.
+[7/24/20 4:49:21 AM] [OPPServiceThread0] Post-processing request 16568360.
+[7/24/20 4:50:21 AM] [OPPServiceThread1] Post-processing request 16568361.
+[7/24/20 5:00:25 AM] [OPPServiceThread0] Post-processing request 16568365.
+[7/24/20 5:15:54 AM] [OPPServiceThread0] Post-processing request 16568371.
+[7/24/20 5:31:56 AM] [OPPServiceThread1] Post-processing request 16568379.
+[7/24/20 5:44:27 AM] [OPPServiceThread0] Post-processing request 16568384.
+[7/24/20 6:26:27 AM] [OPPServiceThread0] Post-processing request 16568398.
+[7/27/20 2:32:42 AM] [OPPServiceThread1] Post-processing request 16571368.
+[7/27/20 2:36:47 AM] [OPPServiceThread0] Post-processing request 16571370.
+[7/27/20 2:45:13 AM] [OPPServiceThread0] Post-processing request 16571374.
+[7/27/20 2:45:13 AM] [552555:RT16571374] Executing post-processing actions for request 16571374.
+[7/27/20 2:45:13 AM] [552555:RT16571374] Starting XML Publisher post-processing action.
+[7/27/20 2:45:13 AM] [552555:RT16571374] 
+Template code: RTC_DEMAND_SUPPLY_RPT
+Template app:  XBOL
+Language:      en
+Territory:     00
+Output type:   EXCEL
+[7/27/20 2:45:13 AM] [552555:RT16571374] Output file was found but is zero sized - Deleted
+[7/27/20 2:45:13 AM] [UNEXPECTED] [552555:RT16571374] java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at oracle.apps.xdo.common.xml.XSLT10gR1.invokeNewXSLStylesheet(XSLT10gR1.java:732)
+	at oracle.apps.xdo.common.xml.XSLT10gR1.transform(XSLT10gR1.java:484)
+	at oracle.apps.xdo.common.xml.XSLT10gR1.transform(XSLT10gR1.java:258)
+	at oracle.apps.xdo.common.xml.XSLTWrapper.transform(XSLTWrapper.java:182)
+	at oracle.apps.xdo.template.fo.util.FOUtility.generateFO(FOUtility.java:1044)
+	at oracle.apps.xdo.template.fo.util.FOUtility.generateFO(FOUtility.java:997)
+	at oracle.apps.xdo.template.fo.util.FOUtility.generateFO(FOUtility.java:212)
+	at oracle.apps.xdo.template.FOProcessor.createFO(FOProcessor.java:1647)
+	at oracle.apps.xdo.template.FOProcessor.generate(FOProcessor.java:941)
+	at oracle.apps.xdo.oa.schema.server.TemplateHelper.runProcessTemplate(TemplateHelper.java:5978)
+	at oracle.apps.xdo.oa.schema.server.TemplateHelper.processTemplate(TemplateHelper.java:3470)
+	at oracle.apps.xdo.oa.schema.server.TemplateHelper.processTemplate(TemplateHelper.java:3559)
+	at oracle.apps.fnd.cp.opp.XMLPublisherProcessor.process(XMLPublisherProcessor.java:311)
+	at oracle.apps.fnd.cp.opp.OPPRequestThread.run(OPPRequestThread.java:184)
+Caused by: org.xml.sax.SAXException: Namespace prefix 'ref' used but not declared.
+oracle.xdo.parser.v2.XPathException: Namespace prefix 'ref' used but not declared.
+	at oracle.xdo.parser.v2.XSLProcessor.reportException(XSLProcessor.java:806)
+	at oracle.xdo.parser.v2.XSLProcessor.newXSLStylesheet(XSLProcessor.java:614)
+	... 18 more
+
+[7/27/20 2:45:13 AM] [552555:RT16571374] Completed post-processing actions for request 16571374.
+[7/27/20 2:48:56 AM] [OPPServiceThread1] Post-processing request 16571376.
+[7/27/20 2:54:43 AM] [OPPServiceThread1] Post-processing request 16571377.
+[7/27/20 3:08:26 AM] [OPPServiceThread0] Post-processing request 16571386.
+[7/27/20 3:15:47 AM] [OPPServiceThread0] Post-processing request 16571389.
+[7/27/20 3:15:47 AM] [552555:RT16571389] Executing post-processing actions for request 16571389.
+[7/27/20 3:15:47 AM] [552555:RT16571389] Starting XML Publisher post-processing action.
+[7/27/20 3:15:47 AM] [552555:RT16571389] 
+Template code: RTC_DEMAND_SUPPLY_RPT
+Template app:  XBOL
+Language:      en
+Territory:     00
+Output type:   EXCEL
+[7/27/20 3:15:47 AM] [552555:RT16571389] XML Publisher post-processing action complete.
+[7/27/20 3:15:47 AM] [552555:RT16571389] Completed post-processing actions for request 16571389.
+[7/27/20 3:22:13 AM] [OPPServiceThread0] Post-processing request 16571393.
+[7/27/20 3:25:58 AM] [OPPServiceThread1] Post-processing request 16571397.
+[7/27/20 3:28:08 AM] [OPPServiceThread0] Post-processing request 16571394.
+[7/27/20 3:43:47 AM] [OPPServiceThread1] Post-processing request 16571404.
+[7/27/20 3:49:30 AM] [OPPServiceThread0] Post-processing request 16571408.
+[7/27/20 9:52:41 AM] [OPPServiceThread1] Post-processing request 16571541.
+[7/27/20 9:55:06 AM] [OPPServiceThread1] Post-processing request 16571544.
+[7/27/20 9:59:14 AM] [OPPServiceThread0] Post-processing request 16571546.
+[7/27/20 10:02:36 AM] [OPPServiceThread0] Post-processing request 16571548.
+[7/27/20 10:09:14 AM] [OPPServiceThread1] Post-processing request 16571551.
+[7/27/20 10:12:07 AM] [OPPServiceThread1] Post-processing request 16571554.
+[7/27/20 10:17:09 AM] [OPPServiceThread0] Post-processing request 16571557.
+[7/27/20 10:23:07 AM] [OPPServiceThread0] Post-processing request 16571560.
+[7/27/20 10:54:38 AM] [OPPServiceThread1] Post-processing request 16571573.
+[7/27/20 11:13:25 AM] [OPPServiceThread0] Post-processing request 16571584.
+[7/27/20 11:16:42 AM] [OPPServiceThread0] Post-processing request 16571586.
+[7/27/20 11:16:42 AM] [552555:RT16571586] Executing post-processing actions for request 16571586.
+[7/27/20 11:16:42 AM] [552555:RT16571586] Starting XML Publisher post-processing action.
+[7/27/20 11:16:42 AM] [552555:RT16571586] 
+Template code: RTC_ACCT_RECON
+Template app:  XBOL
+Language:      en
+Territory:     00
+Output type:   EXCEL
+[7/27/20 11:16:50 AM] [552555:RT16571586] XML Publisher post-processing action complete.
+[7/27/20 11:16:50 AM] [552555:RT16571586] Completed post-processing actions for request 16571586.
+[7/27/20 11:31:44 AM] [OPPServiceThread1] Post-processing request 16571594.
+[7/27/20 11:35:04 AM] [OPPServiceThread0] Post-processing request 16571595.
+[7/27/20 11:35:05 AM] [552555:RT16571595] Executing post-processing actions for request 16571595.
+[7/27/20 11:35:05 AM] [552555:RT16571595] Starting XML Publisher post-processing action.
+[7/27/20 11:35:05 AM] [552555:RT16571595] 
+Template code: RTC_ACCT_RECON
+Template app:  XBOL
+Language:      en
+Territory:     00
+Output type:   EXCEL
+[7/27/20 11:35:23 AM] [552555:RT16571595] XML Publisher post-processing action complete.
+[7/27/20 11:35:24 AM] [552555:RT16571595] Completed post-processing actions for request 16571595.
+[7/27/20 4:57:28 PM] [OPPServiceThread0] Post-processing request 16571697.
+[7/27/20 5:18:38 PM] [OPPServiceThread1] Post-processing request 16571707.
+[7/29/20 10:33:59 PM] [OPPServiceThread0] Post-processing request 16572741.
+[7/29/20 10:38:09 PM] [OPPServiceThread1] Post-processing request 16572744.
+[7/29/20 10:44:13 PM] [OPPServiceThread0] Post-processing request 16572746.
+[7/29/20 10:44:13 PM] [552555:RT16572746] Executing post-processing actions for request 16572746.
+[7/29/20 10:44:13 PM] [552555:RT16572746] Starting XML Publisher post-processing action.
+[7/29/20 10:44:13 PM] [552555:RT16572746] 
+Template code: RTC_ACCT_RECON
+Template app:  XBOL
+Language:      en
+Territory:     00
+Output type:   EXCEL
+[7/29/20 10:44:15 PM] [552555:RT16572746] XML Publisher post-processing action complete.
+[7/29/20 10:44:16 PM] [552555:RT16572746] Completed post-processing actions for request 16572746.
+[7/30/20 3:41:58 AM] [OPPServiceThread1] Post-processing request 16572850.
+[7/30/20 3:48:24 AM] [OPPServiceThread1] Post-processing request 16572852.
+[7/30/20 4:00:25 AM] [OPPServiceThread0] Post-processing request 16572857.
+[7/30/20 4:02:55 AM] [OPPServiceThread1] Post-processing request 16572859.
+[7/31/20 6:20:06 AM] [OPPServiceThread0] Post-processing request 16574335.
+[7/31/20 8:00:24 AM] [OPPServiceThread1] Post-processing request 16574380.
+[7/31/20 8:00:24 AM] [552555:RT16574380] Executing post-processing actions for request 16574380.
+[7/31/20 8:00:24 AM] [552555:RT16574380] Starting XML Publisher post-processing action.
+[7/31/20 8:00:24 AM] [552555:RT16574380] 
+Template code: RTCR_GMIRDPIK_B
+Template app:  XBOL
+Language:      en
+Territory:     US
+Output type:   PDF
+[7/31/20 8:00:25 AM] [552555:RT16574380] XML Publisher post-processing action complete.
+[7/31/20 8:00:25 AM] [552555:RT16574380] Completed post-processing actions for request 16574380.
+[7/31/20 8:24:14 AM] [OPPServiceThread1] Post-processing request 16574398.
+[7/31/20 11:02:02 AM] [OPPServiceThread0] Post-processing request 16574456.
+[7/31/20 11:18:13 AM] [OPPServiceThread1] Post-processing request 16574463.
+[7/31/20 11:52:13 AM] [OPPServiceThread1] Post-processing request 16574475.
+[8/4/20 7:27:58 AM] [OPPServiceThread0] Post-processing request 16576267.
+[8/5/20 5:55:11 AM] [OPPServiceThread1] Post-processing request 16576718.
+[8/5/20 6:06:29 AM] [OPPServiceThread1] Post-processing request 16576722.
+[8/11/20 5:07:16 AM] [OPPServiceThread0] Post-processing request 16579574.
+[8/11/20 5:11:20 AM] [OPPServiceThread1] Post-processing request 16579584.
+[8/11/20 7:16:06 AM] [OPPServiceThread0] Post-processing request 16579654.
+[8/11/20 7:20:23 AM] [OPPServiceThread0] Post-processing request 16579658.
+[8/11/20 7:38:23 AM] [OPPServiceThread1] Post-processing request 16579671.
+[8/11/20 8:04:03 AM] [OPPServiceThread1] Post-processing request 16579687.
+[8/11/20 3:30:15 PM] [OPPServiceThread0] Post-processing request 16579842.
+[8/12/20 3:27:39 AM] [OPPServiceThread0] Post-processing request 16580088.
+[8/12/20 3:39:11 AM] [OPPServiceThread1] Post-processing request 16580093.
+[8/12/20 3:39:11 AM] [552555:RT16580093] Executing post-processing actions for request 16580093.
+[8/12/20 3:39:11 AM] [552555:RT16580093] Starting XML Publisher post-processing action.
+[8/12/20 3:39:11 AM] [552555:RT16580093] 
+Template code: RTC_BATCH_SCHEDULE
+Template app:  GME
+Language:      en
+Territory:     00
+Output type:   EXCEL
+[8/12/20 3:39:12 AM] [552555:RT16580093] XML Publisher post-processing action complete.
+[8/12/20 3:39:12 AM] [552555:RT16580093] Completed post-processing actions for request 16580093.
+[8/13/20 9:28:51 AM] [OPPServiceThread0] Post-processing request 16580729.
+[8/13/20 10:00:02 AM] [OPPServiceThread1] Post-processing request 16580742.
+[8/13/20 3:41:46 PM] [OPPServiceThread0] Post-processing request 16580852.
+[8/14/20 6:58:33 AM] [OPPServiceThread0] Post-processing request 16581514.
+[8/14/20 7:38:45 AM] [OPPServiceThread1] Post-processing request 16581549.
+[8/14/20 7:59:46 AM] [OPPServiceThread0] Post-processing request 16581562.
+[8/14/20 7:59:46 AM] [552555:RT16581562] Executing post-processing actions for request 16581562.
+[8/14/20 7:59:46 AM] [552555:RT16581562] Starting XML Publisher post-processing action.
+[8/14/20 7:59:46 AM] [552555:RT16581562] 
+Template code: RTC_BATCH_SCHEDULE
+Template app:  GME
+Language:      en
+Territory:     00
+Output type:   EXCEL
+[8/14/20 7:59:46 AM] [552555:RT16581562] XML Publisher post-processing action complete.
+[8/14/20 7:59:46 AM] [552555:RT16581562] Completed post-processing actions for request 16581562.
+[8/17/20 7:36:35 AM] [OPPServiceThread1] Post-processing request 16583007.
+[8/17/20 3:01:34 PM] [OPPServiceThread1] Post-processing request 16583154.
+[8/17/20 3:03:34 PM] [OPPServiceThread1] Post-processing request 16583155.
+[8/17/20 3:03:39 PM] [OPPServiceThread0] Post-processing request 16583156.
+[8/17/20 3:03:39 PM] [552555:RT16583156] Executing post-processing actions for request 16583156.
+[8/17/20 3:03:39 PM] [552555:RT16583156] Starting XML Publisher post-processing action.
+[8/17/20 3:03:39 PM] [552555:RT16583156] 
+Template code: RTC_BATCH_SCHEDULE
+Template app:  GME
+Language:      en
+Territory:     00
+Output type:   EXCEL
+[8/17/20 3:03:40 PM] [552555:RT16583156] XML Publisher post-processing action complete.
+[8/17/20 3:03:40 PM] [552555:RT16583156] Completed post-processing actions for request 16583156.
+[8/17/20 8:18:23 PM] [OPPServiceThread1] Post-processing request 16583257.
+[8/18/20 12:59:44 AM] [OPPServiceThread1] Post-processing request 16583350.
+[8/18/20 2:47:50 PM] [OPPServiceThread0] Post-processing request 16584541.
+[8/18/20 8:25:50 PM] [OPPServiceThread0] Post-processing request 16584649.
+[8/18/20 8:28:39 PM] [OPPServiceThread1] Post-processing request 16584650.
+[8/18/20 8:28:39 PM] [552555:RT16584650] Executing post-processing actions for request 16584650.
+[8/18/20 8:28:39 PM] [552555:RT16584650] CONC-OPP-DELIV BEGIN (REQID=16584650)
+[8/18/20 8:28:39 PM] [552555:RT16584650] Beginning email delivery
+[8/18/20 8:28:39 PM] [552555:RT16584650] Completed post-processing actions for request 16584650.
+[8/18/20 8:29:00 PM] [OPPServiceThread1] Post-processing request 16584651.
+[8/18/20 8:29:12 PM] [OPPServiceThread0] Post-processing request 16584652.
+[8/18/20 8:29:44 PM] [Thread-139] Delivery completed for request 16584650 (E)
+Delivery status: 12
+Delivery message: Message has not been sent for following addresses by some reason: tmekala@torani.com hari.nayanipati@appsnext.com 
+
+[8/18/20 8:38:12 PM] [OPPServiceThread1] Post-processing request 16584656.
+[8/18/20 8:38:13 PM] [OPPServiceThread0] Post-processing request 16584657.
+[8/18/20 8:38:23 PM] [OPPServiceThread1] Post-processing request 16584658.
+[8/18/20 8:38:46 PM] [OPPServiceThread1] Post-processing request 16584659.
+[8/18/20 8:38:55 PM] [OPPServiceThread0] Post-processing request 16584660.
+[8/18/20 8:38:55 PM] [552555:RT16584660] Executing post-processing actions for request 16584660.
+[8/18/20 8:38:55 PM] [552555:RT16584660] CONC-OPP-DELIV BEGIN (REQID=16584660)
+[8/18/20 8:38:55 PM] [552555:RT16584660] Beginning email delivery
+[8/18/20 8:38:56 PM] [552555:RT16584660] Completed post-processing actions for request 16584660.
+[8/18/20 8:39:02 PM] [OPPServiceThread1] Post-processing request 16584661.
+[8/18/20 8:39:02 PM] [552555:RT16584661] Executing post-processing actions for request 16584661.
+[8/18/20 8:39:02 PM] [552555:RT16584661] CONC-OPP-DELIV BEGIN (REQID=16584661)
+[8/18/20 8:39:03 PM] [552555:RT16584661] Beginning email delivery
+[8/18/20 8:39:03 PM] [552555:RT16584661] Completed post-processing actions for request 16584661.
+[8/18/20 8:40:00 PM] [Thread-147] Delivery completed for request 16584660 (E)
+Delivery status: 12
+Delivery message: Message has not been sent for following addresses by some reason: tmekala@torani.com hari.nayanipati@appsnext.com 
+
+[8/18/20 8:40:08 PM] [Thread-149] Delivery completed for request 16584661 (E)
+Delivery status: 12
+Delivery message: Message has not been sent for following addresses by some reason: tmekala@torani.com hari.nayanipati@appsnext.com 
+
+[8/18/20 9:13:46 PM] [OPPServiceThread0] Post-processing request 16584674.
+[8/18/20 9:13:49 PM] [OPPServiceThread1] Post-processing request 16584675.
+[8/18/20 9:13:59 PM] [OPPServiceThread0] Post-processing request 16584676.
+[8/18/20 9:14:18 PM] [OPPServiceThread1] Post-processing request 16584677.
+[8/18/20 9:14:18 PM] [552555:RT16584677] Executing post-processing actions for request 16584677.
+[8/18/20 9:14:18 PM] [552555:RT16584677] CONC-OPP-DELIV BEGIN (REQID=16584677)
+[8/18/20 9:14:18 PM] [552555:RT16584677] Beginning email delivery
+[8/18/20 9:14:18 PM] [552555:RT16584677] Completed post-processing actions for request 16584677.
+[8/18/20 9:14:27 PM] [OPPServiceThread0] Post-processing request 16584678.
+[8/18/20 9:14:32 PM] [OPPServiceThread1] Post-processing request 16584679.
+[8/18/20 9:15:23 PM] [Thread-154] Delivery completed for request 16584677 (E)
+Delivery status: 12
+Delivery message: Message has not been sent for following addresses by some reason: tmekala@torani.com hari.nayanipati@appsnext.com 
+
+[8/18/20 9:21:30 PM] [OPPServiceThread1] Post-processing request 16584682.
+[8/18/20 9:21:31 PM] [OPPServiceThread0] Post-processing request 16584683.
+[8/18/20 9:21:40 PM] [OPPServiceThread1] Post-processing request 16584684.
+[8/18/20 9:21:50 PM] [OPPServiceThread0] Post-processing request 16584685.
+[8/18/20 9:22:00 PM] [OPPServiceThread1] Post-processing request 16584686.
+[8/18/20 9:22:01 PM] [OPPServiceThread0] Post-processing request 16584687.
+[8/19/20 9:16:20 AM] [OPPServiceThread1] Post-processing request 16584940.
+[8/19/20 9:16:20 AM] [552555:RT16584940] Executing post-processing actions for request 16584940.
+[8/19/20 9:16:20 AM] [552555:RT16584940] CONC-OPP-DELIV BEGIN (REQID=16584940)
+[8/19/20 9:16:20 AM] [552555:RT16584940] Beginning email delivery
+[8/19/20 9:16:20 AM] [552555:RT16584940] Completed post-processing actions for request 16584940.
+[8/19/20 9:17:25 AM] [Thread-164] Delivery completed for request 16584940 (E)
+Delivery status: 12
+Delivery message: Message has not been sent for following addresses by some reason: tmekala@torani.com hari.nayanipati@appsnext.com 
+
+[8/19/20 9:47:58 AM] [OPPServiceThread0] Post-processing request 16584950.
+[8/19/20 9:47:58 AM] [552555:RT16584950] Executing post-processing actions for request 16584950.
+[8/19/20 9:47:58 AM] [552555:RT16584950] CONC-OPP-DELIV BEGIN (REQID=16584950)
+[8/19/20 9:47:58 AM] [552555:RT16584950] Beginning email delivery
+[8/19/20 9:47:58 AM] [552555:RT16584950] Completed post-processing actions for request 16584950.
+[8/19/20 9:49:03 AM] [Thread-166] Delivery completed for request 16584950 (E)
+Delivery status: 12
+Delivery message: Message has not been sent for following addresses by some reason: tmekala@torani.com hari.nayanipati@appsnext.com 
+
+[8/19/20 10:15:40 AM] [OPPServiceThread1] Post-processing request 16584969.
+[8/19/20 10:15:40 AM] [552555:RT16584969] Executing post-processing actions for request 16584969.
+[8/19/20 10:15:40 AM] [552555:RT16584969] CONC-OPP-DELIV BEGIN (REQID=16584969)
+[8/19/20 10:15:40 AM] [552555:RT16584969] Beginning email delivery
+[8/19/20 10:15:40 AM] [552555:RT16584969] Completed post-processing actions for request 16584969.
+[8/19/20 10:16:12 AM] [OPPServiceThread0] Post-processing request 16584970.
+[8/19/20 10:16:12 AM] [552555:RT16584970] Executing post-processing actions for request 16584970.
+[8/19/20 10:16:12 AM] [552555:RT16584970] CONC-OPP-DELIV BEGIN (REQID=16584970)
+[8/19/20 10:16:12 AM] [552555:RT16584970] Beginning email delivery
+[8/19/20 10:16:12 AM] [552555:RT16584970] Completed post-processing actions for request 16584970.
+[8/19/20 10:16:45 AM] [Thread-176] Delivery completed for request 16584969 (E)
+Delivery status: 12
+Delivery message: Message has not been sent for following addresses by some reason: tmekala@torani.com hari.nayanipati@appsnext.com 
+
+[8/19/20 10:17:18 AM] [Thread-178] Delivery completed for request 16584970 (E)
+Delivery status: 12
+Delivery message: Message has not been sent for following addresses by some reason: tmekala@torani.com hari.nayanipati@appsnext.com 
+
+[8/19/20 10:26:17 AM] [OPPServiceThread1] Post-processing request 16584974.
+[8/19/20 10:58:19 AM] [OPPServiceThread0] Post-processing request 16584984.
+[8/19/20 10:58:57 AM] [OPPServiceThread1] Post-processing request 16584985.
+[8/19/20 10:58:57 AM] [552555:RT16584985] Executing post-processing actions for request 16584985.
+[8/19/20 10:58:57 AM] [552555:RT16584985] CONC-OPP-DELIV BEGIN (REQID=16584985)
+[8/19/20 10:58:57 AM] [552555:RT16584985] Beginning email delivery
+[8/19/20 10:58:57 AM] [552555:RT16584985] Completed post-processing actions for request 16584985.
+[8/19/20 10:59:58 AM] [Thread-182] Delivery completed for request 16584985 (E)
+Delivery status: 12
+Delivery message: Message has not been sent for following invalid addresses: 
+Message has not been sent for following addresses by some reason: harendra.gotla@appsnext.com tmekala@torani.com 
+
+[8/19/20 11:26:21 AM] [OPPServiceThread1] Post-processing request 16584997.
+[8/19/20 11:51:22 AM] [OPPServiceThread0] Post-processing request 16585010.
+[8/19/20 11:51:22 AM] [552555:RT16585010] Executing post-processing actions for request 16585010.
+[8/19/20 11:51:22 AM] [552555:RT16585010] CONC-OPP-DELIV BEGIN (REQID=16585010)
+[8/19/20 11:51:22 AM] [552555:RT16585010] Beginning email delivery
+[8/19/20 11:51:22 AM] [552555:RT16585010] Completed post-processing actions for request 16585010.
+[8/19/20 11:51:52 AM] [OPPServiceThread1] Post-processing request 16585011.
+[8/19/20 11:52:23 AM] [Thread-201] Delivery completed for request 16585010 (E)
+Delivery status: 12
+Delivery message: Message has not been sent for following invalid addresses: 
+Message has not been sent for following addresses by some reason: tmekala@torani.com hari.nayanipati@appsnext.com 
+
+[8/19/20 11:31:05 PM] [OPPServiceThread0] Post-processing request 16585244.
+[8/19/20 11:31:05 PM] [OPPServiceThread1] Post-processing request 16585245.
+K(102004K), 0.0023760 secs]
+[GC 73706K->45559K(102004K), 0.0024360 secs]

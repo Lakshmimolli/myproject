@@ -1,0 +1,21 @@
+[7/23/20 1:43:45 AM] [main] Starting GSF service with concurrent process id = 552500.
+[7/23/20 1:43:45 AM] [main] Initialization Parameters: oracle.apps.fnd.cp.opp.OPPServiceThread:2:0:max_threads=5
+[7/23/20 1:43:45 AM] [Thread-32] Service thread starting up.
+[7/23/20 1:43:45 AM] [Thread-33] Service thread starting up.
+[7/23/20 1:52:03 AM] [GSMServiceController:552500] Received shutdown request.
+[7/23/20 1:52:03 AM] [GSMServiceController:552500] Preparing to shutdown service.
+[7/23/20 1:52:03 AM] [GSMServiceController:552500] Stopping all Service Threads.
+[7/23/20 1:52:03 AM] [OPPServiceThread0] Preparing to shut down service thread.
+[7/23/20 1:52:03 AM] [OPPServiceThread1] Preparing to shut down service thread.
+[7/23/20 1:52:18 AM] [UNEXPECTED] [OPPServiceThread0] java.lang.NoSuchFieldError: _immediate_shutdown
+	at oracle.apps.fnd.cp.opp.OPPServiceThread.okToShutdown(OPPServiceThread.java:279)
+	at oracle.apps.fnd.cp.opp.OPPServiceThread.mainLoop(OPPServiceThread.java:150)
+	at oracle.apps.fnd.cp.gsf.BaseServiceThread.run(BaseServiceThread.java:136)
+
+[7/23/20 1:52:18 AM] [UNEXPECTED] [OPPServiceThread1] java.lang.NoSuchFieldError: _immediate_shutdown
+	at oracle.apps.fnd.cp.opp.OPPServiceThread.okToShutdown(OPPServiceThread.java:279)
+	at oracle.apps.fnd.cp.opp.OPPServiceThread.mainLoop(OPPServiceThread.java:150)
+	at oracle.apps.fnd.cp.gsf.BaseServiceThread.run(BaseServiceThread.java:136)
+
+[7/23/20 1:52:18 AM] [GSMServiceController:552500] All Service Threads have completed.
+[7/23/20 1:52:18 AM] [GSMServiceController:552500] Service has shut down.

@@ -1,0 +1,3720 @@
+
++---------------------------------------------------------------------------+
+Application Object Library: Concurrent Processing version 12.1
+
+Copyright (c) 1998, 2013, Oracle and/or its affiliates. All rights reserved.
+
+STANDARD Concurrent Manager started : 23-JUL-2020 02:01:35
+
++---------------------------------------------------------------------------+
+
+23-JUL-2020 03:01:35
+Starting concurrent program FNDWFBG for concurrent request 16555343 (MODULE=FNDWFBG)
+
+23-JUL-2020 03:26:36
+Starting concurrent program FNDWFBG for concurrent request 16558337 (MODULE=FNDWFBG)
+
+23-JUL-2020 03:36:37
+Starting concurrent program FNDOAMCOL for concurrent request 16558338 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+23-JUL-2020 08:51:14
+Starting concurrent program FNDOAMCOL for concurrent request 16564393 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+23-JUL-2020 09:22:46
+Starting concurrent program FNDOAMCOL for concurrent request 16564404 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+23-JUL-2020 12:41:49
+Starting concurrent program FNDWFBG for concurrent request 16565405 (MODULE=FNDWFBG)
+
+23-JUL-2020 13:06:49
+Starting concurrent program FNDWFBG for concurrent request 16565412 (MODULE=FNDWFBG)
+
+23-JUL-2020 13:36:51
+Starting concurrent program FNDWFBG for concurrent request 16565422 (MODULE=FNDWFBG)
+
+23-JUL-2020 16:26:55
+Starting concurrent program FNDWFBG for concurrent request 16565477 (MODULE=FNDWFBG)
+
+23-JUL-2020 16:32:55
+Starting concurrent program FNDOAMCOL for concurrent request 16565483 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+23-JUL-2020 17:07:27
+Starting concurrent program RTCR_PLTSGN for concurrent request 16566350 (MODULE=RTCR_PLTSGN)
+
+23-JUL-2020 17:32:03
+Starting concurrent program RTCR_PLTSGN for concurrent request 16566372 (MODULE=RTCR_PLTSGN)
+
+23-JUL-2020 17:33:07
+Starting concurrent program RTCR_GMIRDPAK_B for concurrent request 16566374 (MODULE=RTCR_GMIRDPAK_B)
+
+23-JUL-2020 17:41:33
+Starting concurrent program FNDWFBG for concurrent request 16566377 (MODULE=FNDWFBG)
+
+23-JUL-2020 17:46:33
+Starting concurrent program FNDWFBG for concurrent request 16566378 (MODULE=FNDWFBG)
+
+23-JUL-2020 19:31:34
+Starting concurrent program FNDWFBG for concurrent request 16566419 (MODULE=FNDWFBG)
+
+23-JUL-2020 19:41:34
+Starting concurrent program FNDWFBG for concurrent request 16566422 (MODULE=FNDWFBG)
+
+23-JUL-2020 19:51:35
+Starting concurrent program FNDWFBG for concurrent request 16566425 (MODULE=FNDWFBG)
+
+23-JUL-2020 20:01:35
+Starting concurrent program FNDWFBG for concurrent request 16566428 (MODULE=FNDWFBG)
+
+23-JUL-2020 20:06:35
+Starting concurrent program FNDWFBG for concurrent request 16566429 (MODULE=FNDWFBG)
+
+23-JUL-2020 20:10:05
+Starting concurrent program FNDWFBG for concurrent request 16566414 (MODULE=FNDWFBG)
+
+23-JUL-2020 20:12:35
+Starting concurrent program FNDOAMCOL for concurrent request 16566430 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+23-JUL-2020 20:46:37
+Starting concurrent program FNDWFBG for concurrent request 16566442 (MODULE=FNDWFBG)
+
+23-JUL-2020 20:56:37
+Starting concurrent program FNDWFBG for concurrent request 16566445 (MODULE=FNDWFBG)
+
+23-JUL-2020 21:11:38
+Starting concurrent program FNDWFBG for concurrent request 16566450 (MODULE=FNDWFBG)
+
+23-JUL-2020 21:26:38
+Starting concurrent program FNDWFBG for concurrent request 16566455 (MODULE=FNDWFBG)
+
+23-JUL-2020 21:41:38
+Starting concurrent program FNDWFBG for concurrent request 16566460 (MODULE=FNDWFBG)
+
+23-JUL-2020 22:46:39
+Starting concurrent program FNDWFBG for concurrent request 16566480 (MODULE=FNDWFBG)
+
+23-JUL-2020 23:16:39
+Starting concurrent program FNDWFBG for concurrent request 16566491 (MODULE=FNDWFBG)
+
+23-JUL-2020 23:31:39
+Starting concurrent program FNDWFBG for concurrent request 16566495 (MODULE=FNDWFBG)
+
+23-JUL-2020 23:46:40
+Starting concurrent program FNDWFBG for concurrent request 16566499 (MODULE=FNDWFBG)
+
+24-JUL-2020 00:01:40
+Starting concurrent program FNDWFBG for concurrent request 16566504 (MODULE=FNDWFBG)
+
+24-JUL-2020 00:11:40
+Starting concurrent program FNDWFBG for concurrent request 16566518 (MODULE=FNDWFBG)
+
+24-JUL-2020 00:26:40
+Starting concurrent program FNDWFBG for concurrent request 16566523 (MODULE=FNDWFBG)
+
+24-JUL-2020 00:42:11
+Starting concurrent program FNDWFLSC for concurrent request 16566529 (MODULE=WFLOCALBS)
+
+24-JUL-2020 00:45:43
+Starting concurrent program FNDWFDSURV for concurrent request 16566532 (MODULE=FNDWFDSURV)
+
+24-JUL-2020 05:00:20
+Starting concurrent program RTC_DEMAND_SUPPLY_RPT for concurrent request 16568365 (MODULE=oracle.apps.xdo.oa.cp.JCP4XDODataEngine)
+
+24-JUL-2020 05:09:55
+Starting concurrent program FNDWFBG for concurrent request 16568342 (MODULE=FNDWFBG)
+
+24-JUL-2020 07:34:56
+Starting concurrent program FNDOAMCOL for concurrent request 16568420 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 08:06:35
+Starting concurrent program FNDOAMCOL for concurrent request 16568429 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 08:27:36
+Starting concurrent program FNDOAMCOL for concurrent request 16568437 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 09:51:38
+Starting concurrent program FNDWFAASTATCC for concurrent request 16565346 (MODULE=FNDWFAASTATCC)
+
+24-JUL-2020 11:56:14
+Starting concurrent program FNDOAMCOL for concurrent request 16568506 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 12:17:15
+Starting concurrent program FNDOAMCOL for concurrent request 16568513 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 14:43:47
+Starting concurrent program FNDOAMCOL for concurrent request 16568559 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 15:04:49
+Starting concurrent program FNDOAMCOL for concurrent request 16568565 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 15:36:21
+Starting concurrent program FNDOAMCOL for concurrent request 16568575 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 15:36:29
+Starting concurrent program FNDWFBG for concurrent request 16568577 (MODULE=FNDWFBG)
+
+24-JUL-2020 15:41:31
+Starting concurrent program FNDWFBG for concurrent request 16568580 (MODULE=FNDWFBG)
+
+24-JUL-2020 15:46:32
+Starting concurrent program FNDWFBG for concurrent request 16568581 (MODULE=FNDWFBG)
+
+24-JUL-2020 15:47:02
+Starting concurrent program FNDOAMCOL for concurrent request 16568579 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 15:51:33
+Starting concurrent program FNDWFBG for concurrent request 16568582 (MODULE=FNDWFBG)
+
+24-JUL-2020 15:56:34
+Starting concurrent program FNDWFBG for concurrent request 16568584 (MODULE=FNDWFBG)
+
+24-JUL-2020 15:57:34
+Starting concurrent program FNDOAMCOL for concurrent request 16568583 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 16:01:35
+Starting concurrent program FNDWFBG for concurrent request 16568585 (MODULE=FNDWFBG)
+
+24-JUL-2020 16:06:36
+Starting concurrent program FNDWFBG for concurrent request 16568587 (MODULE=FNDWFBG)
+
+24-JUL-2020 16:08:06
+Starting concurrent program FNDOAMCOL for concurrent request 16568586 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 16:10:07
+Starting concurrent program FNDWFBG for concurrent request 16568570 (MODULE=FNDWFBG)
+
+24-JUL-2020 16:11:38
+Starting concurrent program FNDWFBG for concurrent request 16568588 (MODULE=FNDWFBG)
+
+24-JUL-2020 16:16:39
+Starting concurrent program FNDWFBG for concurrent request 16568591 (MODULE=FNDWFBG)
+
+24-JUL-2020 16:21:39
+Starting concurrent program FNDWFBG for concurrent request 16568592 (MODULE=FNDWFBG)
+
+24-JUL-2020 16:26:39
+Starting concurrent program FNDWFBG for concurrent request 16568594 (MODULE=FNDWFBG)
+
+24-JUL-2020 16:29:09
+Starting concurrent program FNDOAMCOL for concurrent request 16568593 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 17:11:41
+Starting concurrent program FNDWFBG for concurrent request 16568607 (MODULE=FNDWFBG)
+
+24-JUL-2020 17:21:41
+Starting concurrent program FNDOAMCOL for concurrent request 16568609 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 20:11:43
+Starting concurrent program FNDWFBG for concurrent request 16568663 (MODULE=FNDWFBG)
+
+24-JUL-2020 20:26:44
+Starting concurrent program FNDWFBG for concurrent request 16568669 (MODULE=FNDWFBG)
+
+24-JUL-2020 20:41:44
+Starting concurrent program FNDWFBG for concurrent request 16568673 (MODULE=FNDWFBG)
+
+24-JUL-2020 20:56:44
+Starting concurrent program FNDWFBG for concurrent request 16568677 (MODULE=FNDWFBG)
+
+24-JUL-2020 21:10:14
+Starting concurrent program FNDWFBG for concurrent request 16568665 (MODULE=FNDWFBG)
+
+24-JUL-2020 21:21:45
+Starting concurrent program FNDWFBG for concurrent request 16568686 (MODULE=FNDWFBG)
+
+24-JUL-2020 21:41:45
+Starting concurrent program FNDWFBG for concurrent request 16568692 (MODULE=FNDWFBG)
+
+24-JUL-2020 21:51:45
+Starting concurrent program FNDWFBG for concurrent request 16568695 (MODULE=FNDWFBG)
+
+24-JUL-2020 22:05:15
+Starting concurrent program FNDOAMCOL for concurrent request 16568697 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+24-JUL-2020 22:56:47
+Starting concurrent program FNDWFBG for concurrent request 16568715 (MODULE=FNDWFBG)
+
+24-JUL-2020 23:49:17
+Starting concurrent program FNDOAMCOL for concurrent request 16568731 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 02:56:50
+Starting concurrent program FNDWFBG for concurrent request 16568795 (MODULE=FNDWFBG)
+
+25-JUL-2020 03:01:50
+Starting concurrent program FNDWFBG for concurrent request 16568796 (MODULE=FNDWFBG)
+
+25-JUL-2020 03:11:50
+Starting concurrent program FNDWFBG for concurrent request 16568800 (MODULE=FNDWFBG)
+
+25-JUL-2020 03:19:20
+Starting concurrent program FNDOAMCOL for concurrent request 16568801 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 06:37:23
+Starting concurrent program FNDOAMCOL for concurrent request 16568865 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 06:41:36
+Starting concurrent program FNDWFBG for concurrent request 16568867 (MODULE=FNDWFBG)
+
+25-JUL-2020 06:44:06
+Starting concurrent program FNDSCPRG for concurrent request 16543583 (MODULE=FNDSCPRG)
+
+25-JUL-2020 06:46:37
+Starting concurrent program FNDWFBG for concurrent request 16568869 (MODULE=FNDWFBG)
+
+25-JUL-2020 06:48:07
+Starting concurrent program FNDOAMCOL for concurrent request 16568868 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 06:51:38
+Starting concurrent program FNDWFBG for concurrent request 16568871 (MODULE=FNDWFBG)
+
+25-JUL-2020 06:56:39
+Starting concurrent program FNDWFBG for concurrent request 16568873 (MODULE=FNDWFBG)
+
+25-JUL-2020 06:58:39
+Starting concurrent program FNDOAMCOL for concurrent request 16568872 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 06:58:41
+Starting concurrent program OE_24_48_ALERT for concurrent request 16568409 (MODULE=OE_24_48_ALERT)
+
+25-JUL-2020 07:09:51
+Starting concurrent program FNDWFBG for concurrent request 16568859 (MODULE=FNDWFBG)
+
+25-JUL-2020 07:30:21
+Starting concurrent program FNDOAMCOL for concurrent request 16568884 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 07:41:28
+Starting concurrent program FNDWFBG for concurrent request 16568890 (MODULE=FNDWFBG)
+
+25-JUL-2020 07:46:28
+Starting concurrent program FNDWFBG for concurrent request 16568892 (MODULE=FNDWFBG)
+
+25-JUL-2020 07:51:28
+Starting concurrent program FNDWFBG for concurrent request 16568893 (MODULE=FNDWFBG)
+
+25-JUL-2020 07:56:28
+Starting concurrent program FNDWFBG for concurrent request 16568895 (MODULE=FNDWFBG)
+
+25-JUL-2020 08:01:28
+Starting concurrent program FNDWFBG for concurrent request 16568896 (MODULE=FNDWFBG)
+
+25-JUL-2020 08:06:29
+Starting concurrent program FNDWFBG for concurrent request 16568897 (MODULE=FNDWFBG)
+
+25-JUL-2020 08:11:29
+Starting concurrent program FNDWFBG for concurrent request 16568899 (MODULE=FNDWFBG)
+
+25-JUL-2020 12:14:00
+Starting concurrent program FNDOAMCOL for concurrent request 16568976 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 14:41:32
+Starting concurrent program FNDWFBG for concurrent request 16569024 (MODULE=FNDWFBG)
+
+25-JUL-2020 14:56:32
+Starting concurrent program FNDWFBG for concurrent request 16569028 (MODULE=FNDWFBG)
+
+25-JUL-2020 15:11:32
+Starting concurrent program FNDWFBG for concurrent request 16569033 (MODULE=FNDWFBG)
+
+25-JUL-2020 15:26:33
+Starting concurrent program FNDWFBG for concurrent request 16569038 (MODULE=FNDWFBG)
+
+25-JUL-2020 15:36:34
+Starting concurrent program FNDWFBG for concurrent request 16569041 (MODULE=FNDWFBG)
+
+25-JUL-2020 18:32:37
+Starting concurrent program FNDOAMCOL for concurrent request 16569096 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 19:46:39
+Starting concurrent program FNDWFBG for concurrent request 16569120 (MODULE=FNDWFBG)
+
+25-JUL-2020 20:01:39
+Starting concurrent program FNDWFBG for concurrent request 16569125 (MODULE=FNDWFBG)
+
+25-JUL-2020 20:59:10
+Starting concurrent program FNDGSCST for concurrent request 16548805 (MODULE=FNDGSCST)
+
+25-JUL-2020 21:09:52
+Starting concurrent program FNDWFBG for concurrent request 16569129 (MODULE=FNDWFBG)
+
+25-JUL-2020 22:09:52
+Starting concurrent program FNDWFBG for concurrent request 16569148 (MODULE=FNDWFBG)
+
+25-JUL-2020 22:44:22
+Starting concurrent program FNDOAMCOL for concurrent request 16569175 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 22:46:24
+Starting concurrent program FNDWFBG for concurrent request 16569177 (MODULE=FNDWFBG)
+
+25-JUL-2020 22:51:24
+Starting concurrent program FNDWFBG for concurrent request 16569179 (MODULE=FNDWFBG)
+
+25-JUL-2020 22:54:54
+Starting concurrent program FNDOAMCOL for concurrent request 16569178 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 22:56:26
+Starting concurrent program FNDWFBG for concurrent request 16569180 (MODULE=FNDWFBG)
+
+25-JUL-2020 23:16:26
+Starting concurrent program FNDWFBG for concurrent request 16569188 (MODULE=FNDWFBG)
+
+25-JUL-2020 23:21:26
+Starting concurrent program FNDWFBG for concurrent request 16569190 (MODULE=FNDWFBG)
+
+25-JUL-2020 23:26:26
+Starting concurrent program FNDOAMCOL for concurrent request 16569189 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+25-JUL-2020 23:36:58
+Starting concurrent program FNDOAMCOL for concurrent request 16569193 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 00:01:35
+Starting concurrent program FNDWFBG for concurrent request 16569201 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:01:36
+Starting concurrent program MRCSCW1 for concurrent request 16569206 (MODULE=/u01/apps/apps_st/appl/mrp/12.0.0/bin/MRCSCW)
+
+26-JUL-2020 00:06:27
+Starting concurrent program FNDWFBG for concurrent request 16569207 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:08:27
+Starting concurrent program FNDOAMCOL for concurrent request 16569202 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 00:09:58
+Starting concurrent program FNDWFBG for concurrent request 16569187 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:11:30
+Starting concurrent program FNDWFBG for concurrent request 16569208 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:16:30
+Starting concurrent program FNDWFBG for concurrent request 16569211 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:19:00
+Starting concurrent program FNDOAMCOL for concurrent request 16569209 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 00:21:32
+Starting concurrent program FNDWFBG for concurrent request 16569212 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:26:32
+Starting concurrent program FNDWFBG for concurrent request 16569214 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:29:32
+Starting concurrent program FNDOAMCOL for concurrent request 16569213 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 00:31:34
+Starting concurrent program FNDWFBG for concurrent request 16569215 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:36:34
+Starting concurrent program FNDWFBG for concurrent request 16569217 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:41:38
+Starting concurrent program FNDWFBG for concurrent request 16569218 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:46:38
+Starting concurrent program FNDWFBG for concurrent request 16569220 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:51:38
+Starting concurrent program FNDWFBG for concurrent request 16569221 (MODULE=FNDWFBG)
+
+26-JUL-2020 00:56:38
+Starting concurrent program FNDWFBG for concurrent request 16569223 (MODULE=FNDWFBG)
+
+26-JUL-2020 01:01:08
+Starting concurrent program FNDOAMCOL for concurrent request 16569222 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 01:11:40
+Starting concurrent program FNDOAMCOL for concurrent request 16569225 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 01:26:42
+Starting concurrent program FNDWFBG for concurrent request 16569232 (MODULE=FNDWFBG)
+
+26-JUL-2020 01:31:42
+Starting concurrent program FNDWFBG for concurrent request 16569234 (MODULE=FNDWFBG)
+
+26-JUL-2020 01:32:42
+Starting concurrent program FNDOAMCOL for concurrent request 16569233 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 01:53:48
+Starting concurrent program FNDOAMCOL for concurrent request 16569239 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 02:09:50
+Starting concurrent program FNDWFBG for concurrent request 16569228 (MODULE=FNDWFBG)
+
+26-JUL-2020 02:11:40
+Starting concurrent program FNDWFBG for concurrent request 16569246 (MODULE=FNDWFBG)
+
+26-JUL-2020 02:16:41
+Starting concurrent program FNDWFBG for concurrent request 16569248 (MODULE=FNDWFBG)
+
+26-JUL-2020 02:21:41
+Starting concurrent program FNDWFBG for concurrent request 16569250 (MODULE=FNDWFBG)
+
+26-JUL-2020 03:11:41
+Starting concurrent program FNDWFBG for concurrent request 16569264 (MODULE=FNDWFBG)
+
+26-JUL-2020 03:16:41
+Starting concurrent program FNDWFBG for concurrent request 16569267 (MODULE=FNDWFBG)
+
+26-JUL-2020 03:21:42
+Starting concurrent program FNDWFBG for concurrent request 16569268 (MODULE=FNDWFBG)
+
+26-JUL-2020 03:26:42
+Starting concurrent program FNDWFBG for concurrent request 16569270 (MODULE=FNDWFBG)
+
+26-JUL-2020 03:28:42
+Starting concurrent program FNDOAMCOL for concurrent request 16569269 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 03:49:44
+Starting concurrent program FNDOAMCOL for concurrent request 16569276 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 06:58:46
+Starting concurrent program OE_24_48_ALERT for concurrent request 16568876 (MODULE=OE_24_48_ALERT)
+
+26-JUL-2020 07:01:30
+Starting concurrent program FNDWFBG for concurrent request 16569337 (MODULE=FNDWFBG)
+
+26-JUL-2020 07:11:30
+Starting concurrent program FNDWFBG for concurrent request 16569343 (MODULE=FNDWFBG)
+
+26-JUL-2020 07:21:30
+Starting concurrent program FNDWFBG for concurrent request 16569347 (MODULE=FNDWFBG)
+
+26-JUL-2020 07:31:31
+Starting concurrent program FNDWFBG for concurrent request 16569350 (MODULE=FNDWFBG)
+
+26-JUL-2020 07:46:31
+Starting concurrent program FNDWFBG for concurrent request 16569355 (MODULE=FNDWFBG)
+
+26-JUL-2020 07:56:31
+Starting concurrent program FNDWFBG for concurrent request 16569358 (MODULE=FNDWFBG)
+
+26-JUL-2020 08:06:31
+Starting concurrent program FNDWFBG for concurrent request 16569361 (MODULE=FNDWFBG)
+
+26-JUL-2020 08:11:32
+Starting concurrent program FNDWFBG for concurrent request 16569362 (MODULE=FNDWFBG)
+
+26-JUL-2020 08:21:32
+Starting concurrent program FNDWFBG for concurrent request 16569366 (MODULE=FNDWFBG)
+
+26-JUL-2020 08:31:32
+Starting concurrent program FNDWFBG for concurrent request 16569369 (MODULE=FNDWFBG)
+
+26-JUL-2020 08:53:32
+Starting concurrent program FNDOAMCOL for concurrent request 16569374 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 09:14:34
+Starting concurrent program FNDOAMCOL for concurrent request 16569380 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 09:51:06
+Starting concurrent program FNDWFWITSTATCC for concurrent request 16568933 (MODULE=FNDWFWITSTATCC)
+
+26-JUL-2020 10:17:40
+Starting concurrent program FNDOAMCOL for concurrent request 16569403 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 12:44:12
+Starting concurrent program FNDOAMCOL for concurrent request 16569449 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 13:05:14
+Starting concurrent program FNDOAMCOL for concurrent request 16569455 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 13:26:15
+Starting concurrent program FNDOAMCOL for concurrent request 16569462 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 15:09:47
+Starting concurrent program FNDWFBG for concurrent request 16569479 (MODULE=FNDWFBG)
+
+26-JUL-2020 15:42:48
+Starting concurrent program FNDOAMCOL for concurrent request 16569506 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 19:43:50
+Starting concurrent program FNDOAMCOL for concurrent request 16570358 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 19:46:21
+Starting concurrent program FNDWFBG for concurrent request 16570360 (MODULE=FNDWFBG)
+
+26-JUL-2020 19:51:22
+Starting concurrent program FNDWFBG for concurrent request 16570362 (MODULE=FNDWFBG)
+
+26-JUL-2020 20:04:52
+Starting concurrent program FNDOAMCOL for concurrent request 16570364 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 20:21:24
+Starting concurrent program FNDWFBG for concurrent request 16570372 (MODULE=FNDWFBG)
+
+26-JUL-2020 20:26:24
+Starting concurrent program FNDWFBG for concurrent request 16570373 (MODULE=FNDWFBG)
+
+26-JUL-2020 20:36:24
+Starting concurrent program FNDOAMCOL for concurrent request 16570374 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 20:47:03
+Starting concurrent program FNDOAMCOL for concurrent request 16570378 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 20:57:34
+Starting concurrent program FNDOAMCOL for concurrent request 16570381 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 21:08:06
+Starting concurrent program FNDOAMCOL for concurrent request 16570384 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 21:18:37
+Starting concurrent program FNDOAMCOL for concurrent request 16570387 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 21:29:09
+Starting concurrent program FNDOAMCOL for concurrent request 16570391 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 21:50:11
+Starting concurrent program FNDOAMCOL for concurrent request 16570397 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 22:11:12
+Starting concurrent program FNDOAMCOL for concurrent request 16570405 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+26-JUL-2020 22:21:44
+Starting concurrent program FNDOAMCOL for concurrent request 16570409 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+27-JUL-2020 00:09:46
+Starting concurrent program FNDWFBG for concurrent request 16570430 (MODULE=FNDWFBG)
+
+27-JUL-2020 00:52:46
+Starting concurrent program XXRTC_945_SNAME for concurrent request 16570493 (MODULE=/u01/apps/apps_st/appl/ont/12.0.0/bin/XXRTC_945_IN1)
+
+27-JUL-2020 01:09:46
+Starting concurrent program FNDWFBG for concurrent request 16570468 (MODULE=FNDWFBG)
+
+27-JUL-2020 01:20:17
+Starting concurrent program FNDOAMCOL for concurrent request 16571339 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+27-JUL-2020 03:08:19
+Starting concurrent program RTC_DEMAND_SUPPLY_RPT for concurrent request 16571386 (MODULE=oracle.apps.xdo.oa.cp.JCP4XDODataEngine)
+
+27-JUL-2020 04:49:27
+Starting concurrent program FNDWFBG for concurrent request 16571433 (MODULE=FNDWFBG)
+
+27-JUL-2020 05:31:28
+Starting concurrent program FNDWFBG for concurrent request 16571446 (MODULE=FNDWFBG)
+
+27-JUL-2020 05:51:28
+Starting concurrent program FNDWFBG for concurrent request 16571452 (MODULE=FNDWFBG)
+
+27-JUL-2020 05:56:29
+Starting concurrent program FNDWFBG for concurrent request 16571453 (MODULE=FNDWFBG)
+
+27-JUL-2020 06:06:29
+Starting concurrent program FNDWFBG for concurrent request 16571456 (MODULE=FNDWFBG)
+
+27-JUL-2020 06:11:29
+Starting concurrent program FNDWFBG for concurrent request 16571458 (MODULE=FNDWFBG)
+
+27-JUL-2020 06:21:29
+Starting concurrent program FNDWFBG for concurrent request 16571462 (MODULE=FNDWFBG)
+
+27-JUL-2020 06:32:30
+Starting concurrent program IBY_FD_SRA_FORMAT for concurrent request 16571468 (MODULE=oracle.apps.iby.scheduler.FDSeparateRemittanceAdvice)
+
+27-JUL-2020 09:43:05
+Starting concurrent program FNDOAMCOL for concurrent request 16571529 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+27-JUL-2020 09:51:07
+Starting concurrent program FNDWFWITSTATCC for concurrent request 16569396 (MODULE=FNDWFWITSTATCC)
+
+27-JUL-2020 10:09:11
+Starting concurrent program RTC_ACCT_RECON for concurrent request 16571551 (MODULE=oracle.apps.xdo.oa.cp.JCP4XDODataEngine)
+
+27-JUL-2020 10:09:44
+Starting concurrent program FNDWFBG for concurrent request 16571521 (MODULE=FNDWFBG)
+
+27-JUL-2020 17:09:46
+Starting concurrent program FNDWFBG for concurrent request 16571682 (MODULE=FNDWFBG)
+
+27-JUL-2020 17:16:32
+Starting concurrent program FNDWFBG for concurrent request 16571704 (MODULE=FNDWFBG)
+
+27-JUL-2020 17:24:04
+Starting concurrent program FNDOAMCOL for concurrent request 16571706 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+27-JUL-2020 17:34:35
+Starting concurrent program FNDOAMCOL for concurrent request 16571712 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+27-JUL-2020 17:45:07
+Starting concurrent program FNDOAMCOL for concurrent request 16571715 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+27-JUL-2020 17:55:38
+Starting concurrent program FNDOAMCOL for concurrent request 16571718 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+27-JUL-2020 23:41:41
+Starting concurrent program FNDOAMCOL for concurrent request 16571828 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 00:23:43
+Starting concurrent program FNDOAMCOL for concurrent request 16571845 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 01:05:44
+Starting concurrent program FNDOAMCOL for concurrent request 16571858 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 02:11:16
+Starting concurrent program FNDWFBG for concurrent request 16571880 (MODULE=FNDWFBG)
+
+28-JUL-2020 02:16:16
+Starting concurrent program FNDWFBG for concurrent request 16571883 (MODULE=FNDWFBG)
+
+28-JUL-2020 02:21:17
+Starting concurrent program FNDWFBG for concurrent request 16571884 (MODULE=FNDWFBG)
+
+28-JUL-2020 02:26:17
+Starting concurrent program FNDWFBG for concurrent request 16571886 (MODULE=FNDWFBG)
+
+28-JUL-2020 02:31:17
+Starting concurrent program FNDWFBG for concurrent request 16571887 (MODULE=FNDWFBG)
+
+28-JUL-2020 02:36:19
+Starting concurrent program FNDWFBG for concurrent request 16571889 (MODULE=FNDWFBG)
+
+28-JUL-2020 02:56:20
+Starting concurrent program FNDWFBG for concurrent request 16571895 (MODULE=FNDWFBG)
+
+28-JUL-2020 03:00:50
+Starting concurrent program FNDOAMCOL for concurrent request 16571894 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 03:21:22
+Starting concurrent program FNDWFBG for concurrent request 16571903 (MODULE=FNDWFBG)
+
+28-JUL-2020 03:26:22
+Starting concurrent program FNDWFBG for concurrent request 16571904 (MODULE=FNDWFBG)
+
+28-JUL-2020 03:31:22
+Starting concurrent program FNDWFBG for concurrent request 16571906 (MODULE=FNDWFBG)
+
+28-JUL-2020 03:31:52
+Starting concurrent program FNDWFBES_CONTROL_QUEUE_CLEANUP for concurrent request 16571671 (MODULE=FNDWFBES_CONTROL_QUEUE_CLEANUP)
+
+28-JUL-2020 03:36:24
+Starting concurrent program FNDWFBG for concurrent request 16571907 (MODULE=FNDWFBG)
+
+28-JUL-2020 03:51:25
+Starting concurrent program FNDWFBG for concurrent request 16571913 (MODULE=FNDWFBG)
+
+28-JUL-2020 04:01:25
+Starting concurrent program FNDWFBG for concurrent request 16571916 (MODULE=FNDWFBG)
+
+28-JUL-2020 04:09:56
+Starting concurrent program FNDWFBG for concurrent request 16571902 (MODULE=FNDWFBG)
+
+28-JUL-2020 04:21:26
+Starting concurrent program FNDWFBG for concurrent request 16571923 (MODULE=FNDWFBG)
+
+28-JUL-2020 04:24:56
+Starting concurrent program FNDOAMCOL for concurrent request 16571922 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 04:45:58
+Starting concurrent program FNDOAMCOL for concurrent request 16571928 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 05:10:00
+Starting concurrent program FNDWFBG for concurrent request 16571920 (MODULE=FNDWFBG)
+
+28-JUL-2020 05:51:31
+Starting concurrent program FNDWFBG for concurrent request 16571950 (MODULE=FNDWFBG)
+
+28-JUL-2020 06:58:31
+Starting concurrent program OE_24_48_ALERT for concurrent request 16571477 (MODULE=OE_24_48_ALERT)
+
+28-JUL-2020 12:09:42
+Starting concurrent program FNDWFBG for concurrent request 16572060 (MODULE=FNDWFBG)
+
+28-JUL-2020 17:43:13
+Starting concurrent program FNDOAMCOL for concurrent request 16572184 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 18:35:45
+Starting concurrent program FNDOAMCOL for concurrent request 16572200 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 19:38:24
+Starting concurrent program FNDOAMCOL for concurrent request 16572220 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 19:49:01
+Starting concurrent program FNDOAMCOL for concurrent request 16572223 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 19:59:33
+Starting concurrent program FNDOAMCOL for concurrent request 16572226 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 20:20:34
+Starting concurrent program FNDOAMCOL for concurrent request 16572233 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 20:41:36
+Starting concurrent program FNDOAMCOL for concurrent request 16572239 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 21:02:37
+Starting concurrent program FNDOAMCOL for concurrent request 16572246 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 21:23:39
+Starting concurrent program FNDOAMCOL for concurrent request 16572253 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 22:09:41
+Starting concurrent program FNDWFBG for concurrent request 16572251 (MODULE=FNDWFBG)
+
+28-JUL-2020 22:47:41
+Starting concurrent program FNDOAMCOL for concurrent request 16572279 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 23:08:42
+Starting concurrent program FNDOAMCOL for concurrent request 16572285 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 23:09:44
+Starting concurrent program FNDWFBG for concurrent request 16572270 (MODULE=FNDWFBG)
+
+28-JUL-2020 23:11:14
+Starting concurrent program FNDWFBG for concurrent request 16572288 (MODULE=FNDWFBG)
+
+28-JUL-2020 23:16:15
+Starting concurrent program FNDWFBG for concurrent request 16572291 (MODULE=FNDWFBG)
+
+28-JUL-2020 23:21:15
+Starting concurrent program FNDWFBG for concurrent request 16572292 (MODULE=FNDWFBG)
+
+28-JUL-2020 23:26:15
+Starting concurrent program FNDWFBG for concurrent request 16572294 (MODULE=FNDWFBG)
+
+28-JUL-2020 23:29:45
+Starting concurrent program FNDOAMCOL for concurrent request 16572293 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+28-JUL-2020 23:31:17
+Starting concurrent program FNDWFBG for concurrent request 16572295 (MODULE=FNDWFBG)
+
+28-JUL-2020 23:36:18
+Starting concurrent program FNDWFBG for concurrent request 16572297 (MODULE=FNDWFBG)
+
+28-JUL-2020 23:40:20
+Starting concurrent program FNDOAMCOL for concurrent request 16572296 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 01:25:26
+Starting concurrent program FNDOAMCOL for concurrent request 16572334 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 05:01:28
+Starting concurrent program FNDWFBG for concurrent request 16572404 (MODULE=FNDWFBG)
+
+29-JUL-2020 05:26:58
+Starting concurrent program FNDOAMCOL for concurrent request 16572411 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 07:12:00
+Starting concurrent program FNDOAMCOL for concurrent request 16572446 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 08:36:02
+Starting concurrent program FNDOAMCOL for concurrent request 16572472 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 09:09:40
+Starting concurrent program FNDWFBG for concurrent request 16572468 (MODULE=FNDWFBG)
+
+29-JUL-2020 09:28:40
+Starting concurrent program FNDOAMCOL for concurrent request 16572489 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 10:09:42
+Starting concurrent program FNDWFBG for concurrent request 16572486 (MODULE=FNDWFBG)
+
+29-JUL-2020 10:11:12
+Starting concurrent program FNDWFBG for concurrent request 16572506 (MODULE=FNDWFBG)
+
+29-JUL-2020 10:16:12
+Starting concurrent program FNDWFBG for concurrent request 16572509 (MODULE=FNDWFBG)
+
+29-JUL-2020 10:21:13
+Starting concurrent program FNDWFBG for concurrent request 16572510 (MODULE=FNDWFBG)
+
+29-JUL-2020 10:26:13
+Starting concurrent program FNDWFBG for concurrent request 16572512 (MODULE=FNDWFBG)
+
+29-JUL-2020 10:31:13
+Starting concurrent program FNDWFBG for concurrent request 16572513 (MODULE=FNDWFBG)
+
+29-JUL-2020 10:36:15
+Starting concurrent program FNDWFBG for concurrent request 16572514 (MODULE=FNDWFBG)
+
+29-JUL-2020 10:41:19
+Starting concurrent program FNDWFBG for concurrent request 16572516 (MODULE=FNDWFBG)
+
+29-JUL-2020 10:46:20
+Starting concurrent program FNDWFBG for concurrent request 16572517 (MODULE=FNDWFBG)
+
+29-JUL-2020 10:51:20
+Starting concurrent program FNDWFBG for concurrent request 16572519 (MODULE=FNDWFBG)
+
+29-JUL-2020 10:56:20
+Starting concurrent program FNDWFBG for concurrent request 16572520 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:01:21
+Starting concurrent program FNDWFBG for concurrent request 16572522 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:06:21
+Starting concurrent program FNDWFBG for concurrent request 16572523 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:09:51
+Starting concurrent program FNDWFBG for concurrent request 16572507 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:11:21
+Starting concurrent program FNDWFBG for concurrent request 16572525 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:16:22
+Starting concurrent program FNDWFBG for concurrent request 16572527 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:21:22
+Starting concurrent program FNDWFBG for concurrent request 16572529 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:26:22
+Starting concurrent program FNDWFBG for concurrent request 16572530 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:31:22
+Starting concurrent program FNDWFBG for concurrent request 16572532 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:36:24
+Starting concurrent program FNDWFBG for concurrent request 16572533 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:41:27
+Starting concurrent program FNDWFBG for concurrent request 16572535 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:44:57
+Starting concurrent program FNDOAMCOL for concurrent request 16572534 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 11:46:29
+Starting concurrent program FNDWFBG for concurrent request 16572536 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:51:29
+Starting concurrent program FNDWFBG for concurrent request 16572538 (MODULE=FNDWFBG)
+
+29-JUL-2020 11:55:29
+Starting concurrent program FNDOAMCOL for concurrent request 16572537 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 11:56:31
+Starting concurrent program FNDWFBG for concurrent request 16572539 (MODULE=FNDWFBG)
+
+29-JUL-2020 12:01:31
+Starting concurrent program FNDWFBG for concurrent request 16572541 (MODULE=FNDWFBG)
+
+29-JUL-2020 12:06:01
+Starting concurrent program FNDOAMCOL for concurrent request 16572540 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 12:06:33
+Starting concurrent program FNDWFBG for concurrent request 16572542 (MODULE=FNDWFBG)
+
+29-JUL-2020 12:16:33
+Starting concurrent program FNDWFBG for concurrent request 16572546 (MODULE=FNDWFBG)
+
+29-JUL-2020 12:58:33
+Starting concurrent program FNDOAMCOL for concurrent request 16572557 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 17:06:36
+Starting concurrent program FNDWFBG for concurrent request 16572637 (MODULE=FNDWFBG)
+
+29-JUL-2020 17:20:36
+Starting concurrent program FNDOAMCOL for concurrent request 16572640 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 18:16:38
+Starting concurrent program FNDWFBG for concurrent request 16572659 (MODULE=FNDWFBG)
+
+29-JUL-2020 18:23:38
+Starting concurrent program FNDOAMCOL for concurrent request 16572660 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 19:58:10
+Starting concurrent program FNDOAMCOL for concurrent request 16572689 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 20:01:11
+Starting concurrent program FNDWFBG for concurrent request 16572691 (MODULE=FNDWFBG)
+
+29-JUL-2020 20:11:11
+Starting concurrent program FNDWFBG for concurrent request 16572694 (MODULE=FNDWFBG)
+
+29-JUL-2020 20:26:12
+Starting concurrent program FNDWFBG for concurrent request 16572700 (MODULE=FNDWFBG)
+
+29-JUL-2020 21:11:12
+Starting concurrent program FNDOAMCOL for concurrent request 16572711 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+29-JUL-2020 22:26:14
+Starting concurrent program FNDWFBG for concurrent request 16572737 (MODULE=FNDWFBG)
+
+29-JUL-2020 22:45:15
+Starting concurrent program FNDOAMCOL for concurrent request 16572742 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 00:01:46
+Starting concurrent program MRCSCW1 for concurrent request 16572776 (MODULE=/u01/apps/apps_st/appl/mrp/12.0.0/bin/MRCSCW)
+
+30-JUL-2020 00:09:05
+Starting concurrent program FNDOAMCOL for concurrent request 16572771 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 00:09:36
+Starting concurrent program FNDWFBG for concurrent request 16572756 (MODULE=FNDWFBG)
+
+30-JUL-2020 00:30:07
+Starting concurrent program FNDOAMCOL for concurrent request 16572785 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 01:09:38
+Starting concurrent program FNDWFBG for concurrent request 16572780 (MODULE=FNDWFBG)
+
+30-JUL-2020 01:43:09
+Starting concurrent program FNDOAMCOL for concurrent request 16572808 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 01:46:11
+Starting concurrent program FNDWFBG for concurrent request 16572810 (MODULE=FNDWFBG)
+
+30-JUL-2020 01:51:11
+Starting concurrent program FNDWFBG for concurrent request 16572812 (MODULE=FNDWFBG)
+
+30-JUL-2020 01:56:12
+Starting concurrent program FNDWFBG for concurrent request 16572813 (MODULE=FNDWFBG)
+
+30-JUL-2020 02:01:12
+Starting concurrent program FNDWFBG for concurrent request 16572815 (MODULE=FNDWFBG)
+
+30-JUL-2020 02:04:12
+Starting concurrent program FNDOAMCOL for concurrent request 16572814 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 02:06:14
+Starting concurrent program FNDWFBG for concurrent request 16572816 (MODULE=FNDWFBG)
+
+30-JUL-2020 02:09:44
+Starting concurrent program FNDWFBG for concurrent request 16572800 (MODULE=FNDWFBG)
+
+30-JUL-2020 02:11:14
+Starting concurrent program FNDWFBG for concurrent request 16572818 (MODULE=FNDWFBG)
+
+30-JUL-2020 02:16:15
+Starting concurrent program FNDWFBG for concurrent request 16572820 (MODULE=FNDWFBG)
+
+30-JUL-2020 02:21:15
+Starting concurrent program FNDWFBG for concurrent request 16572822 (MODULE=FNDWFBG)
+
+30-JUL-2020 02:25:15
+Starting concurrent program FNDOAMCOL for concurrent request 16572821 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 02:26:16
+Starting concurrent program FNDWFBG for concurrent request 16572823 (MODULE=FNDWFBG)
+
+30-JUL-2020 02:31:17
+Starting concurrent program FNDWFBG for concurrent request 16572825 (MODULE=FNDWFBG)
+
+30-JUL-2020 02:36:18
+Starting concurrent program FNDWFBG for concurrent request 16572826 (MODULE=FNDWFBG)
+
+30-JUL-2020 02:41:21
+Starting concurrent program FNDWFBG for concurrent request 16572828 (MODULE=FNDWFBG)
+
+30-JUL-2020 04:02:53
+Starting concurrent program RTC_ACCT_RECON for concurrent request 16572859 (MODULE=oracle.apps.xdo.oa.cp.JCP4XDODataEngine)
+
+30-JUL-2020 05:12:59
+Starting concurrent program FNDOAMCOL for concurrent request 16572881 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 05:34:00
+Starting concurrent program FNDOAMCOL for concurrent request 16572888 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 13:18:03
+Starting concurrent program RTCR_OEXOEACK_B for concurrent request 16573044 (MODULE=RTCR_OEXOEACK_B)
+
+30-JUL-2020 14:26:08
+Starting concurrent program FNDWFBG for concurrent request 16573067 (MODULE=FNDWFBG)
+
+30-JUL-2020 14:26:38
+Starting concurrent program RTCR_GMIRDPAK_B for concurrent request 16573069 (MODULE=RTCR_GMIRDPAK_B)
+
+30-JUL-2020 14:28:57
+Starting concurrent program FNDOAMCOL for concurrent request 16573066 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 16:54:59
+Starting concurrent program FNDOAMCOL for concurrent request 16573114 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 17:05:31
+Starting concurrent program FNDOAMCOL for concurrent request 16573117 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 21:06:03
+Starting concurrent program FNDOAMCOL for concurrent request 16573194 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 23:43:05
+Starting concurrent program FNDOAMCOL for concurrent request 16573245 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+30-JUL-2020 23:46:08
+Starting concurrent program FNDWFBG for concurrent request 16573247 (MODULE=FNDWFBG)
+
+30-JUL-2020 23:51:09
+Starting concurrent program FNDWFBG for concurrent request 16573249 (MODULE=FNDWFBG)
+
+31-JUL-2020 00:16:09
+Starting concurrent program FNDWFBG for concurrent request 16573263 (MODULE=FNDWFBG)
+
+31-JUL-2020 00:21:09
+Starting concurrent program FNDWFBG for concurrent request 16573265 (MODULE=FNDWFBG)
+
+31-JUL-2020 00:25:09
+Starting concurrent program FNDOAMCOL for concurrent request 16573264 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 00:36:17
+Starting concurrent program FNDWFBG for concurrent request 16573269 (MODULE=FNDWFBG)
+
+31-JUL-2020 01:21:20
+Starting concurrent program FNDWFBG for concurrent request 16573283 (MODULE=FNDWFBG)
+
+31-JUL-2020 01:31:20
+Starting concurrent program FNDWFBG for concurrent request 16573286 (MODULE=FNDWFBG)
+
+31-JUL-2020 01:41:21
+Starting concurrent program FNDWFBG for concurrent request 16573289 (MODULE=FNDWFBG)
+
+31-JUL-2020 03:02:54
+Starting concurrent program FNDOAMCOL for concurrent request 16573313 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 04:41:27
+Starting concurrent program FNDWFBG for concurrent request 16573346 (MODULE=FNDWFBG)
+
+31-JUL-2020 07:04:00
+Starting concurrent program FNDOAMCOL for concurrent request 16574352 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 08:20:31
+Starting concurrent program POCISO for concurrent request 16574394 (MODULE=POCSOPG)
+
+31-JUL-2020 08:59:32
+Starting concurrent program FNDOAMCOL for concurrent request 16574411 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 09:31:04
+Starting concurrent program FNDOAMCOL for concurrent request 16574421 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 11:51:05
+Starting concurrent program FNDWFBG for concurrent request 16574473 (MODULE=FNDWFBG)
+
+31-JUL-2020 12:19:06
+Starting concurrent program FNDOAMCOL for concurrent request 16574482 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 12:40:07
+Starting concurrent program FNDOAMCOL for concurrent request 16574489 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 12:50:39
+Starting concurrent program FNDOAMCOL for concurrent request 16574492 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 13:11:41
+Starting concurrent program FNDOAMCOL for concurrent request 16574499 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 13:32:43
+Starting concurrent program FNDOAMCOL for concurrent request 16574506 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 14:51:15
+Starting concurrent program FNDWFBG for concurrent request 16574531 (MODULE=FNDWFBG)
+
+31-JUL-2020 15:01:15
+Starting concurrent program FNDWFBG for concurrent request 16574534 (MODULE=FNDWFBG)
+
+31-JUL-2020 15:07:15
+Starting concurrent program FNDOAMCOL for concurrent request 16574535 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 15:41:17
+Starting concurrent program FNDWFBG for concurrent request 16574548 (MODULE=FNDWFBG)
+
+31-JUL-2020 16:31:19
+Starting concurrent program FNDOAMCOL for concurrent request 16574562 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 16:51:51
+Starting concurrent program FNDOAMCOL for concurrent request 16574569 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 17:23:23
+Starting concurrent program FNDOAMCOL for concurrent request 16574579 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 20:46:25
+Starting concurrent program FNDWFBG for concurrent request 16574643 (MODULE=FNDWFBG)
+
+31-JUL-2020 21:03:56
+Starting concurrent program FNDOAMCOL for concurrent request 16574647 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+31-JUL-2020 22:51:27
+Starting concurrent program FNDWFBG for concurrent request 16574682 (MODULE=FNDWFBG)
+
+31-JUL-2020 22:58:28
+Starting concurrent program FNDWFBG for concurrent request 16573233 (MODULE=FNDWFBG)
+
+31-JUL-2020 23:01:09
+Starting concurrent program FNDWFBG for concurrent request 16574685 (MODULE=FNDWFBG)
+
+31-JUL-2020 23:06:09
+Starting concurrent program FNDWFBG for concurrent request 16574688 (MODULE=FNDWFBG)
+
+31-JUL-2020 23:11:09
+Starting concurrent program FNDWFBG for concurrent request 16574689 (MODULE=FNDWFBG)
+
+31-JUL-2020 23:16:09
+Starting concurrent program FNDWFBG for concurrent request 16574692 (MODULE=FNDWFBG)
+
+31-JUL-2020 23:21:09
+Starting concurrent program FNDWFBG for concurrent request 16574693 (MODULE=FNDWFBG)
+
+31-JUL-2020 23:26:10
+Starting concurrent program FNDWFBG for concurrent request 16574695 (MODULE=FNDWFBG)
+
+31-JUL-2020 23:31:10
+Starting concurrent program FNDWFBG for concurrent request 16574696 (MODULE=FNDWFBG)
+
+31-JUL-2020 23:36:11
+Starting concurrent program FNDWFBG for concurrent request 16574698 (MODULE=FNDWFBG)
+
+31-JUL-2020 23:56:13
+Starting concurrent program FNDWFBG for concurrent request 16574703 (MODULE=FNDWFBG)
+
+01-AUG-2020 01:06:13
+Starting concurrent program FNDWFBG for concurrent request 16574729 (MODULE=FNDWFBG)
+
+01-AUG-2020 01:15:13
+Starting concurrent program FNDOAMCOL for concurrent request 16574730 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+01-AUG-2020 01:41:16
+Starting concurrent program FNDWFBG for concurrent request 16574740 (MODULE=FNDWFBG)
+
+01-AUG-2020 02:31:17
+Starting concurrent program FNDWFBG for concurrent request 16574756 (MODULE=FNDWFBG)
+
+01-AUG-2020 02:41:19
+Starting concurrent program FNDWFBG for concurrent request 16574759 (MODULE=FNDWFBG)
+
+01-AUG-2020 05:27:21
+Starting concurrent program FNDOAMCOL for concurrent request 16574812 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+01-AUG-2020 08:35:24
+Starting concurrent program FNDOAMCOL for concurrent request 16574874 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+01-AUG-2020 08:56:30
+Starting concurrent program FNDOAMCOL for concurrent request 16574880 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+01-AUG-2020 09:09:32
+Starting concurrent program FNDWFBG for concurrent request 16574869 (MODULE=FNDWFBG)
+
+01-AUG-2020 09:17:32
+Starting concurrent program FNDOAMCOL for concurrent request 16574887 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+01-AUG-2020 09:21:04
+Starting concurrent program FNDWFBG for concurrent request 16574890 (MODULE=FNDWFBG)
+
+01-AUG-2020 09:26:04
+Starting concurrent program FNDWFBG for concurrent request 16574892 (MODULE=FNDWFBG)
+
+01-AUG-2020 09:31:04
+Starting concurrent program FNDWFBG for concurrent request 16574893 (MODULE=FNDWFBG)
+
+01-AUG-2020 09:36:06
+Starting concurrent program FNDWFBG for concurrent request 16574895 (MODULE=FNDWFBG)
+
+01-AUG-2020 09:41:09
+Starting concurrent program FNDWFBG for concurrent request 16574896 (MODULE=FNDWFBG)
+
+01-AUG-2020 09:46:10
+Starting concurrent program FNDWFBG for concurrent request 16574898 (MODULE=FNDWFBG)
+
+01-AUG-2020 09:48:40
+Starting concurrent program FNDOAMCOL for concurrent request 16574897 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+01-AUG-2020 09:50:12
+Starting concurrent program FNDWFMLRSTATCC for concurrent request 16574430 (MODULE=FNDWFMLRSTATCC)
+
+01-AUG-2020 09:51:12
+Starting concurrent program FNDWFBG for concurrent request 16574899 (MODULE=FNDWFBG)
+
+01-AUG-2020 09:52:42
+Starting concurrent program FNDWFAASTATCC for concurrent request 16574434 (MODULE=FNDWFAASTATCC)
+
+01-AUG-2020 10:51:50
+Starting concurrent program FNDOAMCOL for concurrent request 16574923 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+01-AUG-2020 11:26:22
+Starting concurrent program FNDWFBG for concurrent request 16574935 (MODULE=FNDWFBG)
+
+01-AUG-2020 11:33:52
+Starting concurrent program FNDOAMCOL for concurrent request 16574936 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+01-AUG-2020 11:56:24
+Starting concurrent program FNDWFBG for concurrent request 16574944 (MODULE=FNDWFBG)
+
+01-AUG-2020 12:06:24
+Starting concurrent program FNDWFBG for concurrent request 16574947 (MODULE=FNDWFBG)
+
+01-AUG-2020 12:11:24
+Starting concurrent program FNDWFBG for concurrent request 16574949 (MODULE=FNDWFBG)
+
+01-AUG-2020 12:15:54
+Starting concurrent program FNDOAMCOL for concurrent request 16574948 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+01-AUG-2020 16:31:27
+Starting concurrent program FNDWFBG for concurrent request 16575031 (MODULE=FNDWFBG)
+
+01-AUG-2020 16:36:28
+Starting concurrent program FNDWFBG for concurrent request 16575033 (MODULE=FNDWFBG)
+
+01-AUG-2020 21:16:01
+Starting concurrent program FNDWFBG for concurrent request 16575121 (MODULE=FNDWFBG)
+
+01-AUG-2020 21:21:01
+Starting concurrent program FNDWFBG for concurrent request 16575123 (MODULE=FNDWFBG)
+
+01-AUG-2020 21:21:32
+Starting concurrent program FNDOAMCOL for concurrent request 16575122 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+01-AUG-2020 22:36:04
+Starting concurrent program FNDWFBG for concurrent request 16575146 (MODULE=FNDWFBG)
+
+01-AUG-2020 23:46:06
+Starting concurrent program FNDWFBG for concurrent request 16575169 (MODULE=FNDWFBG)
+
+01-AUG-2020 23:51:06
+Starting concurrent program FNDWFBG for concurrent request 16575170 (MODULE=FNDWFBG)
+
+01-AUG-2020 23:58:36
+Starting concurrent program FNDCPPUR for concurrent request 16574707 (MODULE=/u01/apps/apps_st/appl/fnd/12.0.0/bin/FNDCPPUR)
+
+02-AUG-2020 00:41:08
+Starting concurrent program FNDWFBG for concurrent request 16575190 (MODULE=FNDWFBG)
+
+02-AUG-2020 03:11:10
+Starting concurrent program FNDWFBG for concurrent request 16575236 (MODULE=FNDWFBG)
+
+02-AUG-2020 03:16:10
+Starting concurrent program FNDWFBG for concurrent request 16575238 (MODULE=FNDWFBG)
+
+02-AUG-2020 03:18:41
+Starting concurrent program FNDOAMCOL for concurrent request 16575237 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 03:51:12
+Starting concurrent program FNDWFBG for concurrent request 16575250 (MODULE=FNDWFBG)
+
+02-AUG-2020 03:56:13
+Starting concurrent program FNDWFBG for concurrent request 16575252 (MODULE=FNDWFBG)
+
+02-AUG-2020 04:06:13
+Starting concurrent program FNDWFBG for concurrent request 16575255 (MODULE=FNDWFBG)
+
+02-AUG-2020 04:11:13
+Starting concurrent program FNDWFBG for concurrent request 16575256 (MODULE=FNDWFBG)
+
+02-AUG-2020 04:16:13
+Starting concurrent program FNDWFBG for concurrent request 16575258 (MODULE=FNDWFBG)
+
+02-AUG-2020 04:21:44
+Starting concurrent program FNDOAMCOL for concurrent request 16575259 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 06:21:15
+Starting concurrent program FNDWFBG for concurrent request 16575297 (MODULE=FNDWFBG)
+
+02-AUG-2020 06:38:16
+Starting concurrent program FNDOAMCOL for concurrent request 16575301 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 12:03:25
+Starting concurrent program FNDOAMCOL for concurrent request 16575408 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 12:34:57
+Starting concurrent program FNDOAMCOL for concurrent request 16575418 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 12:36:06
+Starting concurrent program FNDWFBG for concurrent request 16575420 (MODULE=FNDWFBG)
+
+02-AUG-2020 12:41:09
+Starting concurrent program FNDWFBG for concurrent request 16575422 (MODULE=FNDWFBG)
+
+02-AUG-2020 12:45:11
+Starting concurrent program FNDOAMCOL for concurrent request 16575421 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 12:46:13
+Starting concurrent program FNDWFBG for concurrent request 16575423 (MODULE=FNDWFBG)
+
+02-AUG-2020 12:51:13
+Starting concurrent program FNDWFBG for concurrent request 16575425 (MODULE=FNDWFBG)
+
+02-AUG-2020 12:55:43
+Starting concurrent program FNDOAMCOL for concurrent request 16575424 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 12:56:15
+Starting concurrent program FNDWFBG for concurrent request 16575426 (MODULE=FNDWFBG)
+
+02-AUG-2020 13:01:15
+Starting concurrent program FNDWFBG for concurrent request 16575428 (MODULE=FNDWFBG)
+
+02-AUG-2020 13:06:15
+Starting concurrent program FNDOAMCOL for concurrent request 16575427 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 13:11:17
+Starting concurrent program FNDWFBG for concurrent request 16575431 (MODULE=FNDWFBG)
+
+02-AUG-2020 13:16:47
+Starting concurrent program FNDOAMCOL for concurrent request 16575430 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 13:31:19
+Starting concurrent program FNDWFBG for concurrent request 16575437 (MODULE=FNDWFBG)
+
+02-AUG-2020 13:36:20
+Starting concurrent program FNDWFBG for concurrent request 16575439 (MODULE=FNDWFBG)
+
+02-AUG-2020 13:48:22
+Starting concurrent program FNDOAMCOL for concurrent request 16575441 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 14:51:24
+Starting concurrent program FNDOAMCOL for concurrent request 16575460 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 15:01:56
+Starting concurrent program FNDOAMCOL for concurrent request 16575464 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 15:22:57
+Starting concurrent program FNDOAMCOL for concurrent request 16575471 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+02-AUG-2020 15:25:59
+Starting concurrent program FNDWFBG for concurrent request 16575473 (MODULE=FNDWFBG)
+
+02-AUG-2020 15:30:59
+Starting concurrent program FNDWFBG for concurrent request 16575475 (MODULE=FNDWFBG)
+
+02-AUG-2020 15:36:01
+Starting concurrent program FNDWFBG for concurrent request 16575476 (MODULE=FNDWFBG)
+
+02-AUG-2020 16:46:03
+Starting concurrent program FNDWFBG for concurrent request 16575499 (MODULE=FNDWFBG)
+
+02-AUG-2020 16:51:03
+Starting concurrent program FNDWFBG for concurrent request 16575500 (MODULE=FNDWFBG)
+
+02-AUG-2020 16:56:03
+Starting concurrent program FNDWFBG for concurrent request 16575502 (MODULE=FNDWFBG)
+
+02-AUG-2020 17:41:05
+Starting concurrent program FNDWFBG for concurrent request 16575516 (MODULE=FNDWFBG)
+
+02-AUG-2020 19:26:08
+Starting concurrent program FNDWFBG for concurrent request 16575549 (MODULE=FNDWFBG)
+
+02-AUG-2020 19:34:38
+Starting concurrent program FNDOAMCOL for concurrent request 16575550 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 01:11:10
+Starting concurrent program FNDWFBG for concurrent request 16575674 (MODULE=FNDWFBG)
+
+03-AUG-2020 01:20:11
+Starting concurrent program FNDOAMCOL for concurrent request 16575675 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 03:01:12
+Starting concurrent program FNDWFBG for concurrent request 16575709 (MODULE=FNDWFBG)
+
+03-AUG-2020 04:21:13
+Starting concurrent program FNDWFBG for concurrent request 16575737 (MODULE=FNDWFBG)
+
+03-AUG-2020 04:31:13
+Starting concurrent program FNDWFBG for concurrent request 16575740 (MODULE=FNDWFBG)
+
+03-AUG-2020 04:36:15
+Starting concurrent program FNDWFBG for concurrent request 16575742 (MODULE=FNDWFBG)
+
+03-AUG-2020 04:49:47
+Starting concurrent program FNDOAMCOL for concurrent request 16575744 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 05:10:49
+Starting concurrent program FNDOAMCOL for concurrent request 16575750 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 05:41:56
+Starting concurrent program FNDOAMCOL for concurrent request 16575761 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 05:45:57
+Starting concurrent program FNDWFBG for concurrent request 16575763 (MODULE=FNDWFBG)
+
+03-AUG-2020 05:50:57
+Starting concurrent program FNDWFBG for concurrent request 16575765 (MODULE=FNDWFBG)
+
+03-AUG-2020 05:52:28
+Starting concurrent program FNDOAMCOL for concurrent request 16575764 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 05:55:59
+Starting concurrent program FNDWFBG for concurrent request 16575766 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:00:59
+Starting concurrent program FNDWFBG for concurrent request 16575768 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:02:59
+Starting concurrent program FNDOAMCOL for concurrent request 16575767 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 06:06:01
+Starting concurrent program FNDWFBG for concurrent request 16575770 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:09:31
+Starting concurrent program FNDWFBG for concurrent request 16575755 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:11:02
+Starting concurrent program FNDWFBG for concurrent request 16575772 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:13:32
+Starting concurrent program FNDOAMCOL for concurrent request 16575771 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 06:16:04
+Starting concurrent program FNDWFBG for concurrent request 16575774 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:21:04
+Starting concurrent program FNDWFBG for concurrent request 16575776 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:24:04
+Starting concurrent program FNDOAMCOL for concurrent request 16575775 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 06:26:06
+Starting concurrent program FNDWFBG for concurrent request 16575777 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:31:06
+Starting concurrent program FNDWFBG for concurrent request 16575779 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:34:36
+Starting concurrent program FNDOAMCOL for concurrent request 16575778 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 06:36:09
+Starting concurrent program FNDWFBG for concurrent request 16575780 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:41:13
+Starting concurrent program FNDWFBG for concurrent request 16575782 (MODULE=FNDWFBG)
+
+03-AUG-2020 06:44:44
+Starting concurrent program FNDOAMCOL for concurrent request 16575781 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 07:05:46
+Starting concurrent program FNDOAMCOL for concurrent request 16575787 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 07:47:47
+Starting concurrent program FNDOAMCOL for concurrent request 16575804 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 10:45:20
+Starting concurrent program FNDOAMCOL for concurrent request 16575862 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 13:01:51
+Starting concurrent program FNDOAMCOL for concurrent request 16575905 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 14:06:23
+Starting concurrent program FNDWFBG for concurrent request 16575926 (MODULE=FNDWFBG)
+
+03-AUG-2020 14:16:23
+Starting concurrent program FNDWFBG for concurrent request 16575930 (MODULE=FNDWFBG)
+
+03-AUG-2020 15:09:24
+Starting concurrent program FNDWFBG for concurrent request 16575929 (MODULE=FNDWFBG)
+
+03-AUG-2020 19:09:25
+Starting concurrent program FNDWFBG for concurrent request 16576006 (MODULE=FNDWFBG)
+
+03-AUG-2020 19:10:55
+Starting concurrent program FNDWFBG for concurrent request 16576022 (MODULE=FNDWFBG)
+
+03-AUG-2020 19:15:55
+Starting concurrent program FNDWFBG for concurrent request 16576025 (MODULE=FNDWFBG)
+
+03-AUG-2020 19:20:56
+Starting concurrent program FNDWFBG for concurrent request 16576026 (MODULE=FNDWFBG)
+
+03-AUG-2020 19:25:56
+Starting concurrent program FNDWFBG for concurrent request 16576028 (MODULE=FNDWFBG)
+
+03-AUG-2020 19:30:56
+Starting concurrent program FNDWFBG for concurrent request 16576029 (MODULE=FNDWFBG)
+
+03-AUG-2020 19:40:58
+Starting concurrent program FNDWFBG for concurrent request 16576032 (MODULE=FNDWFBG)
+
+03-AUG-2020 20:15:59
+Starting concurrent program FNDWFBG for concurrent request 16576043 (MODULE=FNDWFBG)
+
+03-AUG-2020 20:26:00
+Starting concurrent program FNDWFBG for concurrent request 16576046 (MODULE=FNDWFBG)
+
+03-AUG-2020 20:43:00
+Starting concurrent program FNDOAMCOL for concurrent request 16576050 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 21:25:02
+Starting concurrent program FNDOAMCOL for concurrent request 16576063 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+03-AUG-2020 23:56:04
+Starting concurrent program FNDWFBG for concurrent request 16576112 (MODULE=FNDWFBG)
+
+04-AUG-2020 00:16:04
+Starting concurrent program FNDWFBG for concurrent request 16576123 (MODULE=FNDWFBG)
+
+04-AUG-2020 00:21:05
+Starting concurrent program FNDWFBG for concurrent request 16576125 (MODULE=FNDWFBG)
+
+04-AUG-2020 00:23:35
+Starting concurrent program FNDOAMCOL for concurrent request 16576124 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 01:01:07
+Starting concurrent program FNDWFBG for concurrent request 16576137 (MODULE=FNDWFBG)
+
+04-AUG-2020 01:09:37
+Starting concurrent program FNDWFBG for concurrent request 16576122 (MODULE=FNDWFBG)
+
+04-AUG-2020 03:09:38
+Starting concurrent program FNDWFBG for concurrent request 16576160 (MODULE=FNDWFBG)
+
+04-AUG-2020 04:09:22
+Starting concurrent program FNDWFBG for concurrent request 16576181 (MODULE=FNDWFBG)
+
+04-AUG-2020 04:45:53
+Starting concurrent program FNDOAMCOL for concurrent request 16576209 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 04:45:54
+Starting concurrent program FNDWFBG for concurrent request 16576211 (MODULE=FNDWFBG)
+
+04-AUG-2020 04:50:55
+Starting concurrent program FNDWFBG for concurrent request 16576213 (MODULE=FNDWFBG)
+
+04-AUG-2020 04:55:55
+Starting concurrent program FNDWFBG for concurrent request 16576214 (MODULE=FNDWFBG)
+
+04-AUG-2020 04:56:25
+Starting concurrent program FNDOAMCOL for concurrent request 16576212 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 05:00:57
+Starting concurrent program FNDWFBG for concurrent request 16576215 (MODULE=FNDWFBG)
+
+04-AUG-2020 05:05:57
+Starting concurrent program FNDWFBG for concurrent request 16576217 (MODULE=FNDWFBG)
+
+04-AUG-2020 05:06:57
+Starting concurrent program FNDOAMCOL for concurrent request 16576216 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 05:09:29
+Starting concurrent program FNDWFBG for concurrent request 16576201 (MODULE=FNDWFBG)
+
+04-AUG-2020 05:11:06
+Starting concurrent program FNDWFBG for concurrent request 16576218 (MODULE=FNDWFBG)
+
+04-AUG-2020 05:16:06
+Starting concurrent program FNDWFBG for concurrent request 16576221 (MODULE=FNDWFBG)
+
+04-AUG-2020 05:17:36
+Starting concurrent program FNDOAMCOL for concurrent request 16576219 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 05:21:08
+Starting concurrent program FNDWFBG for concurrent request 16576222 (MODULE=FNDWFBG)
+
+04-AUG-2020 05:26:08
+Starting concurrent program FNDWFBG for concurrent request 16576224 (MODULE=FNDWFBG)
+
+04-AUG-2020 05:28:08
+Starting concurrent program FNDOAMCOL for concurrent request 16576223 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 05:31:10
+Starting concurrent program FNDWFBG for concurrent request 16576225 (MODULE=FNDWFBG)
+
+04-AUG-2020 05:36:11
+Starting concurrent program FNDWFBG for concurrent request 16576227 (MODULE=FNDWFBG)
+
+04-AUG-2020 06:10:13
+Starting concurrent program FNDOAMCOL for concurrent request 16576235 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 06:51:15
+Starting concurrent program FNDWFBG for concurrent request 16576250 (MODULE=FNDWFBG)
+
+04-AUG-2020 06:56:15
+Starting concurrent program FNDWFBG for concurrent request 16576251 (MODULE=FNDWFBG)
+
+04-AUG-2020 06:58:45
+Starting concurrent program FNDWFLSC for concurrent request 16575791 (MODULE=WFLOCALBS)
+
+04-AUG-2020 07:40:59
+Starting concurrent program FNDWFBG for concurrent request 16576270 (MODULE=FNDWFBG)
+
+04-AUG-2020 08:46:02
+Starting concurrent program FNDWFBG for concurrent request 16576290 (MODULE=FNDWFBG)
+
+04-AUG-2020 08:47:32
+Starting concurrent program FNDOAMCOL for concurrent request 16576289 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 08:51:03
+Starting concurrent program FNDWFBG for concurrent request 16576291 (MODULE=FNDWFBG)
+
+04-AUG-2020 08:56:03
+Starting concurrent program FNDWFBG for concurrent request 16576293 (MODULE=FNDWFBG)
+
+04-AUG-2020 08:58:04
+Starting concurrent program FNDOAMCOL for concurrent request 16576292 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 09:21:05
+Starting concurrent program FNDWFBG for concurrent request 16576301 (MODULE=FNDWFBG)
+
+04-AUG-2020 09:26:05
+Starting concurrent program FNDWFBG for concurrent request 16576303 (MODULE=FNDWFBG)
+
+04-AUG-2020 09:29:36
+Starting concurrent program FNDOAMCOL for concurrent request 16576302 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 09:46:07
+Starting concurrent program FNDWFBG for concurrent request 16576309 (MODULE=FNDWFBG)
+
+04-AUG-2020 09:50:08
+Starting concurrent program FNDWFMLRSTATCC for concurrent request 16575845 (MODULE=FNDWFMLRSTATCC)
+
+04-AUG-2020 09:51:08
+Starting concurrent program FNDWFBG for concurrent request 16576310 (MODULE=FNDWFBG)
+
+04-AUG-2020 09:53:08
+Starting concurrent program FNDWFAASTATCC for concurrent request 16575848 (MODULE=FNDWFAASTATCC)
+
+04-AUG-2020 10:42:46
+Starting concurrent program FNDOAMCOL for concurrent request 16576328 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 10:45:53
+Starting concurrent program FNDWFBG for concurrent request 16576330 (MODULE=FNDWFBG)
+
+04-AUG-2020 10:50:54
+Starting concurrent program FNDWFBG for concurrent request 16576332 (MODULE=FNDWFBG)
+
+04-AUG-2020 10:55:54
+Starting concurrent program FNDWFBG for concurrent request 16576333 (MODULE=FNDWFBG)
+
+04-AUG-2020 11:00:54
+Starting concurrent program FNDWFBG for concurrent request 16576335 (MODULE=FNDWFBG)
+
+04-AUG-2020 11:05:54
+Starting concurrent program FNDWFBG for concurrent request 16576336 (MODULE=FNDWFBG)
+
+04-AUG-2020 11:10:55
+Starting concurrent program FNDWFBG for concurrent request 16576338 (MODULE=FNDWFBG)
+
+04-AUG-2020 11:15:55
+Starting concurrent program FNDWFBG for concurrent request 16576340 (MODULE=FNDWFBG)
+
+04-AUG-2020 11:20:55
+Starting concurrent program FNDWFBG for concurrent request 16576342 (MODULE=FNDWFBG)
+
+04-AUG-2020 11:25:55
+Starting concurrent program FNDWFBG for concurrent request 16576343 (MODULE=FNDWFBG)
+
+04-AUG-2020 11:30:55
+Starting concurrent program FNDWFBG for concurrent request 16576345 (MODULE=FNDWFBG)
+
+04-AUG-2020 11:35:57
+Starting concurrent program FNDWFBG for concurrent request 16576346 (MODULE=FNDWFBG)
+
+04-AUG-2020 11:40:59
+Starting concurrent program FNDWFBG for concurrent request 16576348 (MODULE=FNDWFBG)
+
+04-AUG-2020 11:45:31
+Starting concurrent program FNDOAMCOL for concurrent request 16576347 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 11:56:02
+Starting concurrent program FNDWFBG for concurrent request 16576352 (MODULE=FNDWFBG)
+
+04-AUG-2020 12:01:03
+Starting concurrent program FNDWFBG for concurrent request 16576353 (MODULE=FNDWFBG)
+
+04-AUG-2020 12:06:03
+Starting concurrent program FNDWFBG for concurrent request 16576355 (MODULE=FNDWFBG)
+
+04-AUG-2020 12:11:03
+Starting concurrent program FNDWFBG for concurrent request 16576356 (MODULE=FNDWFBG)
+
+04-AUG-2020 12:16:03
+Starting concurrent program FNDWFBG for concurrent request 16576359 (MODULE=FNDWFBG)
+
+04-AUG-2020 12:17:04
+Starting concurrent program FNDOAMCOL for concurrent request 16576357 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 12:31:05
+Starting concurrent program FNDWFBG for concurrent request 16576363 (MODULE=FNDWFBG)
+
+04-AUG-2020 12:36:07
+Starting concurrent program FNDWFBG for concurrent request 16576365 (MODULE=FNDWFBG)
+
+04-AUG-2020 12:41:10
+Starting concurrent program FNDWFBG for concurrent request 16576367 (MODULE=FNDWFBG)
+
+04-AUG-2020 13:09:42
+Starting concurrent program FNDOAMCOL for concurrent request 16576374 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 13:40:44
+Starting concurrent program FNDOAMCOL for concurrent request 16576384 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 15:35:53
+Starting concurrent program FNDWFBG for concurrent request 16576424 (MODULE=FNDWFBG)
+
+04-AUG-2020 15:40:56
+Starting concurrent program FNDWFBG for concurrent request 16576428 (MODULE=FNDWFBG)
+
+04-AUG-2020 15:45:57
+Starting concurrent program FNDWFBG for concurrent request 16576430 (MODULE=FNDWFBG)
+
+04-AUG-2020 15:50:57
+Starting concurrent program FNDWFBG for concurrent request 16576431 (MODULE=FNDWFBG)
+
+04-AUG-2020 15:55:57
+Starting concurrent program FNDWFBG for concurrent request 16576433 (MODULE=FNDWFBG)
+
+04-AUG-2020 16:00:58
+Starting concurrent program FNDWFBG for concurrent request 16576434 (MODULE=FNDWFBG)
+
+04-AUG-2020 16:05:58
+Starting concurrent program FNDWFBG for concurrent request 16576436 (MODULE=FNDWFBG)
+
+04-AUG-2020 16:10:58
+Starting concurrent program FNDWFBG for concurrent request 16576437 (MODULE=FNDWFBG)
+
+04-AUG-2020 16:15:58
+Starting concurrent program FNDWFBG for concurrent request 16576440 (MODULE=FNDWFBG)
+
+04-AUG-2020 16:20:59
+Starting concurrent program FNDWFBG for concurrent request 16576441 (MODULE=FNDWFBG)
+
+04-AUG-2020 16:25:59
+Starting concurrent program FNDWFBG for concurrent request 16576443 (MODULE=FNDWFBG)
+
+04-AUG-2020 16:30:59
+Starting concurrent program FNDWFBG for concurrent request 16576444 (MODULE=FNDWFBG)
+
+04-AUG-2020 16:36:01
+Starting concurrent program FNDWFBG for concurrent request 16576446 (MODULE=FNDWFBG)
+
+04-AUG-2020 16:41:03
+Starting concurrent program FNDWFBG for concurrent request 16576447 (MODULE=FNDWFBG)
+
+04-AUG-2020 17:42:05
+Starting concurrent program FNDOAMCOL for concurrent request 16576465 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 17:52:37
+Starting concurrent program FNDOAMCOL for concurrent request 16576468 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 18:03:08
+Starting concurrent program FNDOAMCOL for concurrent request 16576471 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 18:13:40
+Starting concurrent program FNDOAMCOL for concurrent request 16576474 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 18:24:11
+Starting concurrent program FNDOAMCOL for concurrent request 16576478 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 18:34:43
+Starting concurrent program FNDOAMCOL for concurrent request 16576481 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 18:45:14
+Starting concurrent program FNDOAMCOL for concurrent request 16576484 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 18:55:46
+Starting concurrent program FNDOAMCOL for concurrent request 16576487 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 19:06:17
+Starting concurrent program FNDOAMCOL for concurrent request 16576490 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 19:09:19
+Starting concurrent program FNDWFBG for concurrent request 16576476 (MODULE=FNDWFBG)
+
+04-AUG-2020 19:27:19
+Starting concurrent program FNDOAMCOL for concurrent request 16576498 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 19:58:51
+Starting concurrent program FNDOAMCOL for concurrent request 16576507 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 20:00:53
+Starting concurrent program FNDWFBG for concurrent request 16576509 (MODULE=FNDWFBG)
+
+04-AUG-2020 20:05:53
+Starting concurrent program FNDWFBG for concurrent request 16576511 (MODULE=FNDWFBG)
+
+04-AUG-2020 20:09:23
+Starting concurrent program FNDOAMCOL for concurrent request 16576510 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 20:10:55
+Starting concurrent program FNDWFBG for concurrent request 16576512 (MODULE=FNDWFBG)
+
+04-AUG-2020 20:30:25
+Starting concurrent program FNDOAMCOL for concurrent request 16576517 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+04-AUG-2020 21:10:57
+Starting concurrent program FNDWFBG for concurrent request 16576532 (MODULE=FNDWFBG)
+
+04-AUG-2020 21:40:58
+Starting concurrent program FNDWFBG for concurrent request 16576542 (MODULE=FNDWFBG)
+
+04-AUG-2020 23:00:59
+Starting concurrent program FNDWFBG for concurrent request 16576576 (MODULE=FNDWFBG)
+
+04-AUG-2020 23:16:00
+Starting concurrent program FNDWFBG for concurrent request 16576583 (MODULE=FNDWFBG)
+
+04-AUG-2020 23:26:00
+Starting concurrent program FNDWFBG for concurrent request 16576586 (MODULE=FNDWFBG)
+
+04-AUG-2020 23:31:00
+Starting concurrent program FNDWFBG for concurrent request 16576587 (MODULE=FNDWFBG)
+
+04-AUG-2020 23:41:01
+Starting concurrent program FNDWFBG for concurrent request 16576590 (MODULE=FNDWFBG)
+
+05-AUG-2020 00:21:02
+Starting concurrent program FNDOAMCOL for concurrent request 16576610 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 01:51:04
+Starting concurrent program FNDWFBG for concurrent request 16576640 (MODULE=FNDWFBG)
+
+05-AUG-2020 02:06:04
+Starting concurrent program FNDWFBG for concurrent request 16576644 (MODULE=FNDWFBG)
+
+05-AUG-2020 02:16:04
+Starting concurrent program FNDWFBG for concurrent request 16576648 (MODULE=FNDWFBG)
+
+05-AUG-2020 02:26:04
+Starting concurrent program FNDWFBG for concurrent request 16576651 (MODULE=FNDWFBG)
+
+05-AUG-2020 02:36:06
+Starting concurrent program FNDWFBG for concurrent request 16576654 (MODULE=FNDWFBG)
+
+05-AUG-2020 03:40:09
+Starting concurrent program FNDOAMCOL for concurrent request 16576672 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 04:01:10
+Starting concurrent program FNDOAMCOL for concurrent request 16576679 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 04:22:12
+Starting concurrent program FNDOAMCOL for concurrent request 16576687 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 05:09:17
+Starting concurrent program FNDWFBG for concurrent request 16576685 (MODULE=FNDWFBG)
+
+05-AUG-2020 06:09:18
+Starting concurrent program FNDWFBG for concurrent request 16576704 (MODULE=FNDWFBG)
+
+05-AUG-2020 12:45:19
+Starting concurrent program FNDOAMCOL for concurrent request 16576861 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 12:45:51
+Starting concurrent program FNDWFBG for concurrent request 16576863 (MODULE=FNDWFBG)
+
+05-AUG-2020 12:50:51
+Starting concurrent program FNDWFBG for concurrent request 16576865 (MODULE=FNDWFBG)
+
+05-AUG-2020 13:00:52
+Starting concurrent program FNDWFBG for concurrent request 16576868 (MODULE=FNDWFBG)
+
+05-AUG-2020 13:06:22
+Starting concurrent program FNDOAMCOL for concurrent request 16576867 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 13:20:53
+Starting concurrent program FNDWFBG for concurrent request 16576874 (MODULE=FNDWFBG)
+
+05-AUG-2020 13:25:53
+Starting concurrent program FNDWFBG for concurrent request 16576876 (MODULE=FNDWFBG)
+
+05-AUG-2020 13:27:24
+Starting concurrent program FNDOAMCOL for concurrent request 16576875 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 13:37:56
+Starting concurrent program FNDOAMCOL for concurrent request 16576878 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 14:11:03
+Starting concurrent program FNDWFBG for concurrent request 16576889 (MODULE=FNDWFBG)
+
+05-AUG-2020 14:16:03
+Starting concurrent program FNDWFBG for concurrent request 16576892 (MODULE=FNDWFBG)
+
+05-AUG-2020 14:20:04
+Starting concurrent program FNDOAMCOL for concurrent request 16576891 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 14:41:06
+Starting concurrent program FNDWFBG for concurrent request 16576899 (MODULE=FNDWFBG)
+
+05-AUG-2020 15:43:38
+Starting concurrent program FNDOAMCOL for concurrent request 16576918 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 15:46:10
+Starting concurrent program FNDWFBG for concurrent request 16576920 (MODULE=FNDWFBG)
+
+05-AUG-2020 15:51:10
+Starting concurrent program FNDWFBG for concurrent request 16576922 (MODULE=FNDWFBG)
+
+05-AUG-2020 15:56:10
+Starting concurrent program FNDWFBG for concurrent request 16576923 (MODULE=FNDWFBG)
+
+05-AUG-2020 16:01:10
+Starting concurrent program FNDWFBG for concurrent request 16576925 (MODULE=FNDWFBG)
+
+05-AUG-2020 16:04:41
+Starting concurrent program FNDOAMCOL for concurrent request 16576924 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 16:26:12
+Starting concurrent program FNDWFBG for concurrent request 16576933 (MODULE=FNDWFBG)
+
+05-AUG-2020 16:31:13
+Starting concurrent program FNDWFBG for concurrent request 16576935 (MODULE=FNDWFBG)
+
+05-AUG-2020 16:36:14
+Starting concurrent program FNDWFBG for concurrent request 16576936 (MODULE=FNDWFBG)
+
+05-AUG-2020 18:09:16
+Starting concurrent program FNDWFBG for concurrent request 16576948 (MODULE=FNDWFBG)
+
+05-AUG-2020 18:10:46
+Starting concurrent program FNDOAMCOL for concurrent request 16576963 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 18:42:18
+Starting concurrent program FNDOAMCOL for concurrent request 16576974 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 18:45:50
+Starting concurrent program FNDWFBG for concurrent request 16576976 (MODULE=FNDWFBG)
+
+05-AUG-2020 18:50:50
+Starting concurrent program FNDWFBG for concurrent request 16576978 (MODULE=FNDWFBG)
+
+05-AUG-2020 18:55:50
+Starting concurrent program FNDWFBG for concurrent request 16576979 (MODULE=FNDWFBG)
+
+05-AUG-2020 19:00:50
+Starting concurrent program FNDWFBG for concurrent request 16576981 (MODULE=FNDWFBG)
+
+05-AUG-2020 19:34:51
+Starting concurrent program FNDOAMCOL for concurrent request 16576990 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+05-AUG-2020 19:45:52
+Starting concurrent program FNDWFBG for concurrent request 16576995 (MODULE=FNDWFBG)
+
+05-AUG-2020 19:50:53
+Starting concurrent program FNDWFBG for concurrent request 16576997 (MODULE=FNDWFBG)
+
+05-AUG-2020 19:55:53
+Starting concurrent program FNDWFBG for concurrent request 16576998 (MODULE=FNDWFBG)
+
+05-AUG-2020 20:00:53
+Starting concurrent program FNDWFBG for concurrent request 16577000 (MODULE=FNDWFBG)
+
+05-AUG-2020 20:05:53
+Starting concurrent program FNDWFBG for concurrent request 16577001 (MODULE=FNDWFBG)
+
+05-AUG-2020 20:10:53
+Starting concurrent program FNDWFBG for concurrent request 16577002 (MODULE=FNDWFBG)
+
+05-AUG-2020 23:10:54
+Starting concurrent program FNDWFBG for concurrent request 16577060 (MODULE=FNDWFBG)
+
+05-AUG-2020 23:35:56
+Starting concurrent program FNDWFBG for concurrent request 16577068 (MODULE=FNDWFBG)
+
+06-AUG-2020 02:20:58
+Starting concurrent program FNDWFBG for concurrent request 16577124 (MODULE=FNDWFBG)
+
+06-AUG-2020 02:25:58
+Starting concurrent program FNDWFBG for concurrent request 16577125 (MODULE=FNDWFBG)
+
+06-AUG-2020 02:35:59
+Starting concurrent program FNDWFBG for concurrent request 16577128 (MODULE=FNDWFBG)
+
+06-AUG-2020 04:31:02
+Starting concurrent program FNDWFBG for concurrent request 16577165 (MODULE=FNDWFBG)
+
+06-AUG-2020 04:41:02
+Starting concurrent program FNDOAMCOL for concurrent request 16577166 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 06:46:08
+Starting concurrent program FNDWFBG for concurrent request 16577207 (MODULE=FNDWFBG)
+
+06-AUG-2020 06:51:08
+Starting concurrent program FNDWFBG for concurrent request 16577208 (MODULE=FNDWFBG)
+
+06-AUG-2020 06:58:08
+Starting concurrent program OE_24_48_ALERT for concurrent request 16576741 (MODULE=OE_24_48_ALERT)
+
+06-AUG-2020 06:58:18
+Starting concurrent program FNDCPPUR for concurrent request 16576740 (MODULE=/u01/apps/apps_st/appl/fnd/12.0.0/bin/FNDCPPUR)
+
+06-AUG-2020 06:58:21
+Starting concurrent program FNDWFLSC for concurrent request 16576742 (MODULE=WFLOCALBS)
+
+06-AUG-2020 07:01:03
+Starting concurrent program FNDWFBG for concurrent request 16577211 (MODULE=FNDWFBG)
+
+06-AUG-2020 07:06:03
+Starting concurrent program FNDWFBG for concurrent request 16577216 (MODULE=FNDWFBG)
+
+06-AUG-2020 07:08:33
+Starting concurrent program FNDOAMCOL for concurrent request 16577212 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 07:09:35
+Starting concurrent program FNDWFBG for concurrent request 16577197 (MODULE=FNDWFBG)
+
+06-AUG-2020 07:11:05
+Starting concurrent program FNDWFBG for concurrent request 16577217 (MODULE=FNDWFBG)
+
+06-AUG-2020 07:16:05
+Starting concurrent program FNDWFBG for concurrent request 16577220 (MODULE=FNDWFBG)
+
+06-AUG-2020 07:21:06
+Starting concurrent program FNDWFBG for concurrent request 16577221 (MODULE=FNDWFBG)
+
+06-AUG-2020 07:26:06
+Starting concurrent program FNDWFBG for concurrent request 16577223 (MODULE=FNDWFBG)
+
+06-AUG-2020 07:29:36
+Starting concurrent program FNDOAMCOL for concurrent request 16577222 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 07:31:08
+Starting concurrent program FNDWFBG for concurrent request 16577224 (MODULE=FNDWFBG)
+
+06-AUG-2020 07:50:38
+Starting concurrent program FNDOAMCOL for concurrent request 16577228 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 08:43:10
+Starting concurrent program FNDOAMCOL for concurrent request 16577247 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 09:46:12
+Starting concurrent program FNDOAMCOL for concurrent request 16577267 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 12:09:14
+Starting concurrent program FNDWFBG for concurrent request 16577301 (MODULE=FNDWFBG)
+
+06-AUG-2020 12:10:52
+Starting concurrent program FNDWFBG for concurrent request 16577317 (MODULE=FNDWFBG)
+
+06-AUG-2020 12:15:52
+Starting concurrent program FNDWFBG for concurrent request 16577319 (MODULE=FNDWFBG)
+
+06-AUG-2020 12:20:52
+Starting concurrent program FNDWFBG for concurrent request 16577321 (MODULE=FNDWFBG)
+
+06-AUG-2020 12:25:52
+Starting concurrent program FNDWFBG for concurrent request 16577322 (MODULE=FNDWFBG)
+
+06-AUG-2020 12:30:53
+Starting concurrent program FNDWFBG for concurrent request 16577324 (MODULE=FNDWFBG)
+
+06-AUG-2020 12:35:54
+Starting concurrent program FNDWFBG for concurrent request 16577325 (MODULE=FNDWFBG)
+
+06-AUG-2020 12:40:56
+Starting concurrent program FNDWFBG for concurrent request 16577327 (MODULE=FNDWFBG)
+
+06-AUG-2020 12:45:57
+Starting concurrent program FNDWFBG for concurrent request 16577328 (MODULE=FNDWFBG)
+
+06-AUG-2020 12:50:57
+Starting concurrent program FNDWFBG for concurrent request 16577330 (MODULE=FNDWFBG)
+
+06-AUG-2020 12:55:57
+Starting concurrent program FNDWFBG for concurrent request 16577331 (MODULE=FNDWFBG)
+
+06-AUG-2020 13:00:57
+Starting concurrent program FNDWFBG for concurrent request 16577333 (MODULE=FNDWFBG)
+
+06-AUG-2020 13:05:58
+Starting concurrent program FNDWFBG for concurrent request 16577334 (MODULE=FNDWFBG)
+
+06-AUG-2020 14:38:59
+Starting concurrent program FNDOAMCOL for concurrent request 16577362 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 16:34:42
+Starting concurrent program FNDOAMCOL for concurrent request 16577399 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 19:09:14
+Starting concurrent program FNDWFBG for concurrent request 16577432 (MODULE=FNDWFBG)
+
+06-AUG-2020 19:10:51
+Starting concurrent program FNDWFBG for concurrent request 16577449 (MODULE=FNDWFBG)
+
+06-AUG-2020 19:15:51
+Starting concurrent program FNDWFBG for concurrent request 16577451 (MODULE=FNDWFBG)
+
+06-AUG-2020 19:20:51
+Starting concurrent program FNDWFBG for concurrent request 16577453 (MODULE=FNDWFBG)
+
+06-AUG-2020 19:25:52
+Starting concurrent program FNDWFBG for concurrent request 16577454 (MODULE=FNDWFBG)
+
+06-AUG-2020 19:30:52
+Starting concurrent program FNDWFBG for concurrent request 16577456 (MODULE=FNDWFBG)
+
+06-AUG-2020 19:35:52
+Starting concurrent program FNDWFBG for concurrent request 16577457 (MODULE=FNDWFBG)
+
+06-AUG-2020 19:40:54
+Starting concurrent program FNDWFBG for concurrent request 16577459 (MODULE=FNDWFBG)
+
+06-AUG-2020 20:40:56
+Starting concurrent program FNDWFBG for concurrent request 16577478 (MODULE=FNDWFBG)
+
+06-AUG-2020 20:45:56
+Starting concurrent program FNDOAMCOL for concurrent request 16577477 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 21:17:28
+Starting concurrent program FNDOAMCOL for concurrent request 16577487 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 22:31:00
+Starting concurrent program FNDOAMCOL for concurrent request 16577510 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+06-AUG-2020 23:51:02
+Starting concurrent program FNDWFBG for concurrent request 16577538 (MODULE=FNDWFBG)
+
+06-AUG-2020 23:58:32
+Starting concurrent program FNDCPPUR for concurrent request 16577078 (MODULE=/u01/apps/apps_st/appl/fnd/12.0.0/bin/FNDCPPUR)
+
+07-AUG-2020 01:29:33
+Starting concurrent program FNDOAMCOL for concurrent request 16577573 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 03:06:05
+Starting concurrent program FNDWFBG for concurrent request 16577604 (MODULE=FNDWFBG)
+
+07-AUG-2020 03:14:35
+Starting concurrent program FNDOAMCOL for concurrent request 16577605 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 04:17:37
+Starting concurrent program FNDOAMCOL for concurrent request 16577626 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 07:58:40
+Starting concurrent program FNDOAMCOL for concurrent request 16577724 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 08:40:47
+Starting concurrent program FNDWFBG for concurrent request 16577739 (MODULE=FNDWFBG)
+
+07-AUG-2020 08:45:47
+Starting concurrent program FNDWFBG for concurrent request 16577741 (MODULE=FNDWFBG)
+
+07-AUG-2020 08:50:48
+Starting concurrent program FNDOAMCOL for concurrent request 16577740 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 09:11:49
+Starting concurrent program FNDOAMCOL for concurrent request 16577747 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 09:35:51
+Starting concurrent program FNDWFBG for concurrent request 16577756 (MODULE=FNDWFBG)
+
+07-AUG-2020 09:45:51
+Starting concurrent program FNDWFBG for concurrent request 16577759 (MODULE=FNDWFBG)
+
+07-AUG-2020 09:54:51
+Starting concurrent program FNDWFAASTATCC for concurrent request 16577275 (MODULE=FNDWFAASTATCC)
+
+07-AUG-2020 10:03:59
+Starting concurrent program FNDOAMCOL for concurrent request 16577765 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 10:14:31
+Starting concurrent program FNDOAMCOL for concurrent request 16577769 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 10:25:03
+Starting concurrent program FNDOAMCOL for concurrent request 16577773 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 10:35:34
+Starting concurrent program FNDOAMCOL for concurrent request 16577776 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 12:41:06
+Starting concurrent program FNDOAMCOL for concurrent request 16577816 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 12:51:38
+Starting concurrent program FNDOAMCOL for concurrent request 16577819 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 13:02:10
+Starting concurrent program FNDOAMCOL for concurrent request 16577822 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 13:09:11
+Starting concurrent program FNDWFBG for concurrent request 16577808 (MODULE=FNDWFBG)
+
+07-AUG-2020 21:15:58
+Starting concurrent program FNDWFBG for concurrent request 16577979 (MODULE=FNDWFBG)
+
+07-AUG-2020 21:26:59
+Starting concurrent program FNDOAMCOL for concurrent request 16577981 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 23:11:00
+Starting concurrent program FNDWFBG for concurrent request 16578015 (MODULE=FNDWFBG)
+
+07-AUG-2020 23:22:31
+Starting concurrent program FNDOAMCOL for concurrent request 16578018 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+07-AUG-2020 23:58:32
+Starting concurrent program FNDCPPUR for concurrent request 16577543 (MODULE=/u01/apps/apps_st/appl/fnd/12.0.0/bin/FNDCPPUR)
+
+08-AUG-2020 00:57:04
+Starting concurrent program FNDOAMCOL for concurrent request 16578051 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+08-AUG-2020 04:16:36
+Starting concurrent program FNDOAMCOL for concurrent request 16578115 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+08-AUG-2020 05:09:07
+Starting concurrent program FNDWFBG for concurrent request 16578116 (MODULE=FNDWFBG)
+
+08-AUG-2020 09:11:09
+Starting concurrent program FNDOAMCOL for concurrent request 16578210 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+08-AUG-2020 10:14:10
+Starting concurrent program FNDOAMCOL for concurrent request 16578233 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+08-AUG-2020 10:55:42
+Starting concurrent program FNDWFBG for concurrent request 16578248 (MODULE=FNDWFBG)
+
+08-AUG-2020 11:20:42
+Starting concurrent program FNDWFBG for concurrent request 16578256 (MODULE=FNDWFBG)
+
+08-AUG-2020 11:55:43
+Starting concurrent program FNDWFBG for concurrent request 16578267 (MODULE=FNDWFBG)
+
+08-AUG-2020 12:25:43
+Starting concurrent program FNDWFBG for concurrent request 16578277 (MODULE=FNDWFBG)
+
+08-AUG-2020 12:40:43
+Starting concurrent program FNDWFBG for concurrent request 16578281 (MODULE=FNDWFBG)
+
+08-AUG-2020 13:01:44
+Starting concurrent program FNDOAMCOL for concurrent request 16578286 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+08-AUG-2020 13:45:45
+Starting concurrent program FNDWFBG for concurrent request 16578301 (MODULE=FNDWFBG)
+
+08-AUG-2020 13:55:46
+Starting concurrent program FNDWFBG for concurrent request 16578304 (MODULE=FNDWFBG)
+
+08-AUG-2020 14:04:46
+Starting concurrent program FNDOAMCOL for concurrent request 16578305 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+08-AUG-2020 14:50:48
+Starting concurrent program FNDWFBG for concurrent request 16578321 (MODULE=FNDWFBG)
+
+08-AUG-2020 15:00:48
+Starting concurrent program FNDWFBG for concurrent request 16578324 (MODULE=FNDWFBG)
+
+08-AUG-2020 15:10:48
+Starting concurrent program FNDWFBG for concurrent request 16578327 (MODULE=FNDWFBG)
+
+08-AUG-2020 15:20:48
+Starting concurrent program FNDWFBG for concurrent request 16578331 (MODULE=FNDWFBG)
+
+08-AUG-2020 15:31:19
+Starting concurrent program FNDWFBES_CONTROL_QUEUE_CLEANUP for concurrent request 16578104 (MODULE=FNDWFBES_CONTROL_QUEUE_CLEANUP)
+
+08-AUG-2020 15:50:49
+Starting concurrent program FNDWFBG for concurrent request 16578341 (MODULE=FNDWFBG)
+
+08-AUG-2020 16:05:49
+Starting concurrent program FNDWFBG for concurrent request 16578346 (MODULE=FNDWFBG)
+
+08-AUG-2020 16:30:50
+Starting concurrent program FNDWFBG for concurrent request 16578354 (MODULE=FNDWFBG)
+
+08-AUG-2020 17:05:50
+Starting concurrent program FNDWFBG for concurrent request 16578364 (MODULE=FNDWFBG)
+
+08-AUG-2020 17:15:50
+Starting concurrent program FNDWFBG for concurrent request 16578368 (MODULE=FNDWFBG)
+
+08-AUG-2020 17:23:50
+Starting concurrent program FNDOAMCOL for concurrent request 16578369 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+08-AUG-2020 18:00:52
+Starting concurrent program FNDWFBG for concurrent request 16578382 (MODULE=FNDWFBG)
+
+08-AUG-2020 18:05:52
+Starting concurrent program FNDWFBG for concurrent request 16578383 (MODULE=FNDWFBG)
+
+08-AUG-2020 18:16:23
+Starting concurrent program FNDOAMCOL for concurrent request 16578385 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+08-AUG-2020 23:00:55
+Starting concurrent program FNDWFBG for concurrent request 16578476 (MODULE=FNDWFBG)
+
+08-AUG-2020 23:09:25
+Starting concurrent program FNDWFBG for concurrent request 16578462 (MODULE=FNDWFBG)
+
+08-AUG-2020 23:10:56
+Starting concurrent program FNDWFBG for concurrent request 16578480 (MODULE=FNDWFBG)
+
+08-AUG-2020 23:20:56
+Starting concurrent program FNDWFBG for concurrent request 16578484 (MODULE=FNDWFBG)
+
+08-AUG-2020 23:31:26
+Starting concurrent program FNDOAMCOL for concurrent request 16578486 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+09-AUG-2020 00:13:28
+Starting concurrent program FNDOAMCOL for concurrent request 16578502 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+09-AUG-2020 05:21:00
+Starting concurrent program FNDWFBG for concurrent request 16578601 (MODULE=FNDWFBG)
+
+09-AUG-2020 05:36:01
+Starting concurrent program FNDWFBG for concurrent request 16578606 (MODULE=FNDWFBG)
+
+09-AUG-2020 06:00:01
+Starting concurrent program FNDOAMCOL for concurrent request 16578611 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+09-AUG-2020 10:11:33
+Starting concurrent program FNDOAMCOL for concurrent request 16578712 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+09-AUG-2020 14:09:06
+Starting concurrent program FNDWFBG for concurrent request 16578770 (MODULE=FNDWFBG)
+
+09-AUG-2020 16:45:37
+Starting concurrent program FNDWFBG for concurrent request 16578838 (MODULE=FNDWFBG)
+
+09-AUG-2020 16:55:37
+Starting concurrent program FNDWFBG for concurrent request 16578841 (MODULE=FNDWFBG)
+
+09-AUG-2020 17:05:37
+Starting concurrent program FNDWFBG for concurrent request 16578843 (MODULE=FNDWFBG)
+
+09-AUG-2020 17:10:37
+Starting concurrent program FNDWFBG for concurrent request 16578845 (MODULE=FNDWFBG)
+
+09-AUG-2020 17:15:38
+Starting concurrent program FNDWFBG for concurrent request 16578846 (MODULE=FNDWFBG)
+
+09-AUG-2020 17:25:38
+Starting concurrent program FNDWFBG for concurrent request 16578850 (MODULE=FNDWFBG)
+
+09-AUG-2020 17:40:38
+Starting concurrent program FNDWFBG for concurrent request 16578855 (MODULE=FNDWFBG)
+
+09-AUG-2020 18:00:38
+Starting concurrent program FNDWFBG for concurrent request 16578861 (MODULE=FNDWFBG)
+
+09-AUG-2020 18:55:39
+Starting concurrent program FNDWFBG for concurrent request 16578878 (MODULE=FNDWFBG)
+
+09-AUG-2020 19:17:09
+Starting concurrent program FNDOAMCOL for concurrent request 16578883 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 01:03:47
+Starting concurrent program FNDOAMCOL for concurrent request 16579005 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 02:40:49
+Starting concurrent program FNDWFBG for concurrent request 16579037 (MODULE=FNDWFBG)
+
+10-AUG-2020 03:05:49
+Starting concurrent program FNDWFBG for concurrent request 16579045 (MODULE=FNDWFBG)
+
+10-AUG-2020 03:25:49
+Starting concurrent program FNDWFBG for concurrent request 16579052 (MODULE=FNDWFBG)
+
+10-AUG-2020 03:45:49
+Starting concurrent program FNDWFBG for concurrent request 16579058 (MODULE=FNDWFBG)
+
+10-AUG-2020 04:05:50
+Starting concurrent program FNDWFBG for concurrent request 16579064 (MODULE=FNDWFBG)
+
+10-AUG-2020 04:15:50
+Starting concurrent program FNDWFBG for concurrent request 16579068 (MODULE=FNDWFBG)
+
+10-AUG-2020 04:25:50
+Starting concurrent program FNDWFBG for concurrent request 16579071 (MODULE=FNDWFBG)
+
+10-AUG-2020 04:35:50
+Starting concurrent program FNDWFBG for concurrent request 16579074 (MODULE=FNDWFBG)
+
+10-AUG-2020 04:44:21
+Starting concurrent program FNDOAMCOL for concurrent request 16579075 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 06:05:52
+Starting concurrent program FNDWFBG for concurrent request 16579102 (MODULE=FNDWFBG)
+
+10-AUG-2020 08:00:53
+Starting concurrent program FNDWFBG for concurrent request 16579147 (MODULE=FNDWFBG)
+
+10-AUG-2020 08:30:54
+Starting concurrent program FNDWFBG for concurrent request 16579157 (MODULE=FNDWFBG)
+
+10-AUG-2020 08:56:24
+Starting concurrent program FNDOAMCOL for concurrent request 16579163 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 18:24:28
+Starting concurrent program FNDOAMCOL for concurrent request 16579345 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 18:45:00
+Starting concurrent program FNDOAMCOL for concurrent request 16579351 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 19:06:01
+Starting concurrent program FNDOAMCOL for concurrent request 16579357 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 19:16:33
+Starting concurrent program FNDOAMCOL for concurrent request 16579361 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 19:20:34
+Starting concurrent program FNDWFBG for concurrent request 16579364 (MODULE=FNDWFBG)
+
+10-AUG-2020 19:25:35
+Starting concurrent program FNDWFBG for concurrent request 16579366 (MODULE=FNDWFBG)
+
+10-AUG-2020 19:27:05
+Starting concurrent program FNDOAMCOL for concurrent request 16579365 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 19:35:36
+Starting concurrent program FNDWFBG for concurrent request 16579369 (MODULE=FNDWFBG)
+
+10-AUG-2020 19:37:37
+Starting concurrent program FNDOAMCOL for concurrent request 16579368 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 19:48:15
+Starting concurrent program FNDOAMCOL for concurrent request 16579371 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 20:09:16
+Starting concurrent program FNDOAMCOL for concurrent request 16579377 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 20:30:18
+Starting concurrent program FNDOAMCOL for concurrent request 16579384 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 20:51:19
+Starting concurrent program FNDOAMCOL for concurrent request 16579391 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 21:12:21
+Starting concurrent program FNDOAMCOL for concurrent request 16579397 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 21:33:23
+Starting concurrent program FNDOAMCOL for concurrent request 16579404 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+10-AUG-2020 23:09:00
+Starting concurrent program FNDWFBG for concurrent request 16579418 (MODULE=FNDWFBG)
+
+11-AUG-2020 01:35:01
+Starting concurrent program FNDOAMCOL for concurrent request 16579490 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+11-AUG-2020 01:35:33
+Starting concurrent program FNDWFBG for concurrent request 16579492 (MODULE=FNDWFBG)
+
+11-AUG-2020 01:45:33
+Starting concurrent program FNDWFBG for concurrent request 16579495 (MODULE=FNDWFBG)
+
+11-AUG-2020 02:10:34
+Starting concurrent program FNDWFBG for concurrent request 16579502 (MODULE=FNDWFBG)
+
+11-AUG-2020 02:20:34
+Starting concurrent program FNDWFBG for concurrent request 16579506 (MODULE=FNDWFBG)
+
+11-AUG-2020 05:04:35
+Starting concurrent program FNDOAMCOL for concurrent request 16579562 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+11-AUG-2020 05:05:34
+Starting concurrent program FNDWFBG for concurrent request 16579573 (MODULE=FNDWFBG)
+
+11-AUG-2020 05:07:05
+Starting concurrent program FNDRSSUB for concurrent request 16579579 (MODULE=FNDRSSUB)
+
+11-AUG-2020 05:07:05
+Starting concurrent program FNDRSSTG for concurrent request 16579580 (MODULE=FNDRSSTG)
+
+11-AUG-2020 05:07:06
+Starting concurrent program RTCEXTSOMV for concurrent request 16579581 (MODULE=/u01/apps/apps_st/appl/xbol/12.0.0/bin/RTCEXTSOMV)
+
+11-AUG-2020 05:07:06
+Starting concurrent program FNDRSSTG for concurrent request 16579580 (MODULE=FNDRSSTG)
+
+11-AUG-2020 05:07:36
+Starting concurrent program RTCR_GMIRDPAK_B for concurrent request 16579585 (MODULE=RTCR_GMIRDPAK_B)
+
+11-AUG-2020 06:05:35
+Starting concurrent program FNDWFBG for concurrent request 16579623 (MODULE=FNDWFBG)
+
+11-AUG-2020 06:15:36
+Starting concurrent program FNDWFBG for concurrent request 16579627 (MODULE=FNDWFBG)
+
+11-AUG-2020 06:20:36
+Starting concurrent program FNDWFBG for concurrent request 16579628 (MODULE=FNDWFBG)
+
+11-AUG-2020 06:40:36
+Starting concurrent program FNDWFBG for concurrent request 16579634 (MODULE=FNDWFBG)
+
+11-AUG-2020 06:50:37
+Starting concurrent program FNDWFBG for concurrent request 16579637 (MODULE=FNDWFBG)
+
+11-AUG-2020 06:59:37
+Starting concurrent program FNDOAMCOL for concurrent request 16579638 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+11-AUG-2020 07:15:38
+Starting concurrent program FNDWFBG for concurrent request 16579649 (MODULE=FNDWFBG)
+
+11-AUG-2020 07:17:10
+Starting concurrent program RTCR_GMIRDPAK_B for concurrent request 16579659 (MODULE=RTCR_GMIRDPAK_B)
+
+11-AUG-2020 07:20:27
+Starting concurrent program FNDOAMCOL for concurrent request 16579648 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+11-AUG-2020 07:22:29
+Starting concurrent program RCVDLPDT for concurrent request 16579664 (MODULE=RTCR_POXDLPDT)
+
+11-AUG-2020 07:31:04
+Starting concurrent program OEOIMP for concurrent request 16579668 (MODULE=Order Import)
+
+11-AUG-2020 07:31:34
+Starting concurrent program OEOIMP for concurrent request 16579669 (MODULE=Order Import)
+
+11-AUG-2020 07:31:37
+Starting concurrent program OEOIMP for concurrent request 16579668 (MODULE=Order Import)
+
+11-AUG-2020 07:35:07
+Starting concurrent program RTCR_GMIRDPAK_B for concurrent request 16579672 (MODULE=RTCR_GMIRDPAK_B)
+
+11-AUG-2020 08:00:21
+Starting concurrent program WSHINTERFACE for concurrent request 16579690 (MODULE=WSHINTERFACE)
+
+11-AUG-2020 11:09:00
+Starting concurrent program FNDWFBG for concurrent request 16579737 (MODULE=FNDWFBG)
+
+11-AUG-2020 11:55:31
+Starting concurrent program FNDWFBG for concurrent request 16579770 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:00:31
+Starting concurrent program FNDWFBG for concurrent request 16579772 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:05:31
+Starting concurrent program FNDWFBG for concurrent request 16579773 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:09:02
+Starting concurrent program FNDWFBG for concurrent request 16579757 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:10:32
+Starting concurrent program FNDWFBG for concurrent request 16579775 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:15:32
+Starting concurrent program FNDWFBG for concurrent request 16579777 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:20:33
+Starting concurrent program FNDWFBG for concurrent request 16579779 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:25:33
+Starting concurrent program FNDWFBG for concurrent request 16579780 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:30:33
+Starting concurrent program FNDWFBG for concurrent request 16579782 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:35:33
+Starting concurrent program FNDWFBG for concurrent request 16579783 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:40:33
+Starting concurrent program FNDWFBG for concurrent request 16579785 (MODULE=FNDWFBG)
+
+11-AUG-2020 12:45:34
+Starting concurrent program FNDWFBG for concurrent request 16579786 (MODULE=FNDWFBG)
+
+11-AUG-2020 13:00:34
+Starting concurrent program FNDWFBG for concurrent request 16579790 (MODULE=FNDWFBG)
+
+11-AUG-2020 13:15:34
+Starting concurrent program FNDWFBG for concurrent request 16579796 (MODULE=FNDWFBG)
+
+11-AUG-2020 13:30:34
+Starting concurrent program FNDWFBG for concurrent request 16579800 (MODULE=FNDWFBG)
+
+11-AUG-2020 13:45:35
+Starting concurrent program FNDWFBG for concurrent request 16579805 (MODULE=FNDWFBG)
+
+11-AUG-2020 13:55:35
+Starting concurrent program FNDWFBG for concurrent request 16579808 (MODULE=FNDWFBG)
+
+11-AUG-2020 14:05:35
+Starting concurrent program FNDWFBG for concurrent request 16579811 (MODULE=FNDWFBG)
+
+11-AUG-2020 14:10:36
+Starting concurrent program FNDWFBG for concurrent request 16579812 (MODULE=FNDWFBG)
+
+11-AUG-2020 14:15:36
+Starting concurrent program FNDWFBG for concurrent request 16579815 (MODULE=FNDWFBG)
+
+11-AUG-2020 14:20:06
+Starting concurrent program FNDOAMCOL for concurrent request 16579814 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+11-AUG-2020 15:30:09
+Starting concurrent program FNDMLSUB for concurrent request 16579841 (MODULE=FNDMLSUB)
+
+11-AUG-2020 15:30:09
+Starting concurrent program RTCR_RAXINV_XML for concurrent request 16579842 (MODULE=RTCR_RAXINV)
+
+11-AUG-2020 15:30:17
+Starting concurrent program FNDMLSUB for concurrent request 16579841 (MODULE=FNDMLSUB)
+
+11-AUG-2020 15:33:17
+Starting concurrent program FNDOAMCOL for concurrent request 16579839 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+11-AUG-2020 17:49:19
+Starting concurrent program FNDOAMCOL for concurrent request 16579887 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+11-AUG-2020 18:08:56
+Starting concurrent program FNDWFBG for concurrent request 16579878 (MODULE=FNDWFBG)
+
+11-AUG-2020 18:52:27
+Starting concurrent program FNDOAMCOL for concurrent request 16579907 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+11-AUG-2020 22:05:30
+Starting concurrent program FNDWFBG for concurrent request 16579968 (MODULE=FNDWFBG)
+
+11-AUG-2020 22:10:30
+Starting concurrent program FNDWFBG for concurrent request 16579970 (MODULE=FNDWFBG)
+
+11-AUG-2020 22:15:30
+Starting concurrent program FNDWFBG for concurrent request 16579972 (MODULE=FNDWFBG)
+
+11-AUG-2020 22:20:30
+Starting concurrent program FNDWFBG for concurrent request 16579974 (MODULE=FNDWFBG)
+
+11-AUG-2020 22:25:31
+Starting concurrent program FNDWFBG for concurrent request 16579975 (MODULE=FNDWFBG)
+
+11-AUG-2020 22:30:31
+Starting concurrent program FNDWFBG for concurrent request 16579977 (MODULE=FNDWFBG)
+
+11-AUG-2020 22:35:31
+Starting concurrent program FNDWFBG for concurrent request 16579978 (MODULE=FNDWFBG)
+
+11-AUG-2020 22:40:32
+Starting concurrent program FNDWFBG for concurrent request 16579980 (MODULE=FNDWFBG)
+
+11-AUG-2020 22:45:32
+Starting concurrent program FNDWFBG for concurrent request 16579981 (MODULE=FNDWFBG)
+
+12-AUG-2020 01:50:33
+Starting concurrent program FNDWFBG for concurrent request 16580052 (MODULE=FNDWFBG)
+
+12-AUG-2020 02:02:33
+Starting concurrent program FNDOAMCOL for concurrent request 16580054 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 03:05:35
+Starting concurrent program FNDWFBG for concurrent request 16580078 (MODULE=FNDWFBG)
+
+12-AUG-2020 03:25:35
+Starting concurrent program FNDWFBG for concurrent request 16580085 (MODULE=FNDWFBG)
+
+12-AUG-2020 03:40:36
+Starting concurrent program FNDWFBG for concurrent request 16580091 (MODULE=FNDWFBG)
+
+12-AUG-2020 05:00:38
+Starting concurrent program FNDOAMCOL for concurrent request 16580115 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 05:08:57
+Starting concurrent program FNDWFBG for concurrent request 16580103 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:08:56
+Starting concurrent program FNDWFBG for concurrent request 16580121 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:10:29
+Starting concurrent program FNDWFBG for concurrent request 16580139 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:15:29
+Starting concurrent program FNDWFBG for concurrent request 16580141 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:20:29
+Starting concurrent program FNDWFBG for concurrent request 16580143 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:25:29
+Starting concurrent program FNDWFBG for concurrent request 16580144 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:30:30
+Starting concurrent program FNDWFBG for concurrent request 16580146 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:35:30
+Starting concurrent program FNDWFBG for concurrent request 16580147 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:40:30
+Starting concurrent program FNDWFBG for concurrent request 16580148 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:45:31
+Starting concurrent program FNDWFBG for concurrent request 16580150 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:50:31
+Starting concurrent program FNDWFBG for concurrent request 16580151 (MODULE=FNDWFBG)
+
+12-AUG-2020 06:55:32
+Starting concurrent program FNDWFBG for concurrent request 16580153 (MODULE=FNDWFBG)
+
+12-AUG-2020 07:05:32
+Starting concurrent program FNDWFBG for concurrent request 16580159 (MODULE=FNDWFBG)
+
+12-AUG-2020 07:09:02
+Starting concurrent program FNDWFBG for concurrent request 16580140 (MODULE=FNDWFBG)
+
+12-AUG-2020 07:38:23
+Starting concurrent program FNDOAMCOL for concurrent request 16580168 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 07:40:31
+Starting concurrent program FNDWFBG for concurrent request 16580170 (MODULE=FNDWFBG)
+
+12-AUG-2020 07:45:31
+Starting concurrent program FNDWFBG for concurrent request 16580172 (MODULE=FNDWFBG)
+
+12-AUG-2020 07:49:01
+Starting concurrent program FNDOAMCOL for concurrent request 16580171 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 07:50:33
+Starting concurrent program FNDWFBG for concurrent request 16580173 (MODULE=FNDWFBG)
+
+12-AUG-2020 07:55:33
+Starting concurrent program FNDWFBG for concurrent request 16580175 (MODULE=FNDWFBG)
+
+12-AUG-2020 07:59:33
+Starting concurrent program FNDOAMCOL for concurrent request 16580174 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 08:00:35
+Starting concurrent program FNDWFBG for concurrent request 16580176 (MODULE=FNDWFBG)
+
+12-AUG-2020 08:05:35
+Starting concurrent program FNDWFBG for concurrent request 16580178 (MODULE=FNDWFBG)
+
+12-AUG-2020 08:35:36
+Starting concurrent program FNDWFBG for concurrent request 16580188 (MODULE=FNDWFBG)
+
+12-AUG-2020 08:40:36
+Starting concurrent program FNDWFBG for concurrent request 16580190 (MODULE=FNDWFBG)
+
+12-AUG-2020 08:41:36
+Starting concurrent program FNDOAMCOL for concurrent request 16580189 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 08:55:38
+Starting concurrent program FNDWFBG for concurrent request 16580194 (MODULE=FNDWFBG)
+
+12-AUG-2020 09:00:38
+Starting concurrent program FNDWFBG for concurrent request 16580196 (MODULE=FNDWFBG)
+
+12-AUG-2020 09:02:38
+Starting concurrent program FNDOAMCOL for concurrent request 16580195 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 09:10:40
+Starting concurrent program FNDWFBG for concurrent request 16580202 (MODULE=FNDWFBG)
+
+12-AUG-2020 09:13:10
+Starting concurrent program FNDOAMCOL for concurrent request 16580198 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 09:15:42
+Starting concurrent program FNDWFBG for concurrent request 16580203 (MODULE=FNDWFBG)
+
+12-AUG-2020 09:20:42
+Starting concurrent program FNDWFBG for concurrent request 16580206 (MODULE=FNDWFBG)
+
+12-AUG-2020 09:23:42
+Starting concurrent program FNDOAMCOL for concurrent request 16580205 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 09:50:44
+Starting concurrent program FNDWFBG for concurrent request 16580215 (MODULE=FNDWFBG)
+
+12-AUG-2020 10:00:44
+Starting concurrent program FNDWFBG for concurrent request 16580220 (MODULE=FNDWFBG)
+
+12-AUG-2020 10:05:44
+Starting concurrent program FNDWFBG for concurrent request 16580222 (MODULE=FNDWFBG)
+
+12-AUG-2020 10:20:45
+Starting concurrent program FNDWFBG for concurrent request 16580227 (MODULE=FNDWFBG)
+
+12-AUG-2020 10:30:45
+Starting concurrent program FNDWFBG for concurrent request 16580230 (MODULE=FNDWFBG)
+
+12-AUG-2020 10:40:45
+Starting concurrent program FNDWFBG for concurrent request 16580233 (MODULE=FNDWFBG)
+
+12-AUG-2020 10:50:46
+Starting concurrent program FNDWFBG for concurrent request 16580236 (MODULE=FNDWFBG)
+
+12-AUG-2020 11:39:46
+Starting concurrent program FNDOAMCOL for concurrent request 16580250 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 11:40:29
+Starting concurrent program FNDWFBG for concurrent request 16580252 (MODULE=FNDWFBG)
+
+12-AUG-2020 11:45:29
+Starting concurrent program FNDWFBG for concurrent request 16580254 (MODULE=FNDWFBG)
+
+12-AUG-2020 11:50:29
+Starting concurrent program FNDWFBG for concurrent request 16580255 (MODULE=FNDWFBG)
+
+12-AUG-2020 11:55:30
+Starting concurrent program FNDWFBG for concurrent request 16580257 (MODULE=FNDWFBG)
+
+12-AUG-2020 12:00:30
+Starting concurrent program FNDWFBG for concurrent request 16580258 (MODULE=FNDWFBG)
+
+12-AUG-2020 12:05:30
+Starting concurrent program FNDWFBG for concurrent request 16580259 (MODULE=FNDWFBG)
+
+12-AUG-2020 12:10:30
+Starting concurrent program FNDWFBG for concurrent request 16580261 (MODULE=FNDWFBG)
+
+12-AUG-2020 12:15:31
+Starting concurrent program FNDWFBG for concurrent request 16580263 (MODULE=FNDWFBG)
+
+12-AUG-2020 12:20:31
+Starting concurrent program FNDWFBG for concurrent request 16580265 (MODULE=FNDWFBG)
+
+12-AUG-2020 12:25:31
+Starting concurrent program FNDWFBG for concurrent request 16580266 (MODULE=FNDWFBG)
+
+12-AUG-2020 12:30:31
+Starting concurrent program FNDWFBG for concurrent request 16580270 (MODULE=FNDWFBG)
+
+12-AUG-2020 12:35:31
+Starting concurrent program FNDWFBG for concurrent request 16580278 (MODULE=FNDWFBG)
+
+12-AUG-2020 12:40:32
+Starting concurrent program FNDWFBG for concurrent request 16580282 (MODULE=FNDWFBG)
+
+12-AUG-2020 12:55:32
+Starting concurrent program FNDWFBG for concurrent request 16580287 (MODULE=FNDWFBG)
+
+12-AUG-2020 13:05:32
+Starting concurrent program FNDWFBG for concurrent request 16580291 (MODULE=FNDWFBG)
+
+12-AUG-2020 13:20:33
+Starting concurrent program FNDWFBG for concurrent request 16580297 (MODULE=FNDWFBG)
+
+12-AUG-2020 13:30:33
+Starting concurrent program FNDWFBG for concurrent request 16580300 (MODULE=FNDWFBG)
+
+12-AUG-2020 13:40:33
+Starting concurrent program FNDWFBG for concurrent request 16580304 (MODULE=FNDWFBG)
+
+12-AUG-2020 13:55:33
+Starting concurrent program FNDWFBG for concurrent request 16580309 (MODULE=FNDWFBG)
+
+12-AUG-2020 14:15:34
+Starting concurrent program FNDWFBG for concurrent request 16580316 (MODULE=FNDWFBG)
+
+12-AUG-2020 14:40:34
+Starting concurrent program FNDWFBG for concurrent request 16580323 (MODULE=FNDWFBG)
+
+12-AUG-2020 14:48:34
+Starting concurrent program FNDOAMCOL for concurrent request 16580324 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 15:10:36
+Starting concurrent program FNDWFBG for concurrent request 16580332 (MODULE=FNDWFBG)
+
+12-AUG-2020 15:20:06
+Starting concurrent program FNDOAMCOL for concurrent request 16580334 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 15:55:38
+Starting concurrent program FNDWFBG for concurrent request 16580347 (MODULE=FNDWFBG)
+
+12-AUG-2020 16:00:39
+Starting concurrent program FNDWFBG for concurrent request 16580349 (MODULE=FNDWFBG)
+
+12-AUG-2020 16:15:39
+Starting concurrent program FNDWFBG for concurrent request 16580354 (MODULE=FNDWFBG)
+
+12-AUG-2020 16:30:39
+Starting concurrent program FNDWFBG for concurrent request 16580359 (MODULE=FNDWFBG)
+
+12-AUG-2020 16:50:39
+Starting concurrent program FNDWFBG for concurrent request 16580368 (MODULE=FNDWFBG)
+
+12-AUG-2020 17:00:40
+Starting concurrent program FNDWFBG for concurrent request 16580371 (MODULE=FNDWFBG)
+
+12-AUG-2020 17:15:40
+Starting concurrent program FNDWFBG for concurrent request 16580376 (MODULE=FNDWFBG)
+
+12-AUG-2020 17:46:40
+Starting concurrent program FNDOAMCOL for concurrent request 16580384 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 18:39:12
+Starting concurrent program FNDOAMCOL for concurrent request 16580400 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 20:24:21
+Starting concurrent program FNDOAMCOL for concurrent request 16580433 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 21:08:53
+Starting concurrent program FNDWFBG for concurrent request 16580431 (MODULE=FNDWFBG)
+
+12-AUG-2020 23:22:23
+Starting concurrent program FNDOAMCOL for concurrent request 16580491 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 23:53:55
+Starting concurrent program FNDOAMCOL for concurrent request 16580500 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+12-AUG-2020 23:55:27
+Starting concurrent program FNDWFBG for concurrent request 16580502 (MODULE=FNDWFBG)
+
+13-AUG-2020 00:00:27
+Starting concurrent program FNDWFBG for concurrent request 16580509 (MODULE=FNDWFBG)
+
+13-AUG-2020 00:14:57
+Starting concurrent program FNDOAMCOL for concurrent request 16580515 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+13-AUG-2020 00:40:29
+Starting concurrent program FNDWFBG for concurrent request 16580530 (MODULE=FNDWFBG)
+
+13-AUG-2020 00:45:29
+Starting concurrent program FNDWFBG for concurrent request 16580532 (MODULE=FNDWFBG)
+
+13-AUG-2020 01:28:30
+Starting concurrent program FNDOAMCOL for concurrent request 16580544 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+13-AUG-2020 02:15:31
+Starting concurrent program FNDWFBG for concurrent request 16580570 (MODULE=FNDWFBG)
+
+13-AUG-2020 02:45:32
+Starting concurrent program FNDWFBG for concurrent request 16580579 (MODULE=FNDWFBG)
+
+13-AUG-2020 02:55:32
+Starting concurrent program FNDWFBG for concurrent request 16580582 (MODULE=FNDWFBG)
+
+13-AUG-2020 03:00:32
+Starting concurrent program FNDWFBG for concurrent request 16580584 (MODULE=FNDWFBG)
+
+13-AUG-2020 03:20:32
+Starting concurrent program FNDWFBG for concurrent request 16580592 (MODULE=FNDWFBG)
+
+13-AUG-2020 03:40:33
+Starting concurrent program FNDWFBG for concurrent request 16580600 (MODULE=FNDWFBG)
+
+13-AUG-2020 04:00:33
+Starting concurrent program FNDWFBG for concurrent request 16580605 (MODULE=FNDWFBG)
+
+13-AUG-2020 04:10:33
+Starting concurrent program FNDWFBG for concurrent request 16580608 (MODULE=FNDWFBG)
+
+13-AUG-2020 04:15:34
+Starting concurrent program FNDWFBG for concurrent request 16580611 (MODULE=FNDWFBG)
+
+13-AUG-2020 04:25:34
+Starting concurrent program FNDWFBG for concurrent request 16580614 (MODULE=FNDWFBG)
+
+13-AUG-2020 04:35:34
+Starting concurrent program FNDWFBG for concurrent request 16580617 (MODULE=FNDWFBG)
+
+13-AUG-2020 04:50:34
+Starting concurrent program FNDWFBG for concurrent request 16580621 (MODULE=FNDWFBG)
+
+13-AUG-2020 04:55:35
+Starting concurrent program FNDWFBG for concurrent request 16580623 (MODULE=FNDWFBG)
+
+13-AUG-2020 05:25:35
+Starting concurrent program FNDWFBG for concurrent request 16580633 (MODULE=FNDWFBG)
+
+13-AUG-2020 05:46:05
+Starting concurrent program OEOIMP for concurrent request 16580646 (MODULE=Order Import)
+
+13-AUG-2020 08:07:38
+Starting concurrent program FNDOAMCOL for concurrent request 16580696 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+13-AUG-2020 14:04:11
+Starting concurrent program FNDOAMCOL for concurrent request 16580816 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+13-AUG-2020 18:48:14
+Starting concurrent program FNDOAMCOL for concurrent request 16580912 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+13-AUG-2020 20:54:15
+Starting concurrent program FNDOAMCOL for concurrent request 16580951 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+13-AUG-2020 22:15:47
+Starting concurrent program FNDWFBG for concurrent request 16581338 (MODULE=FNDWFBG)
+
+13-AUG-2020 22:20:48
+Starting concurrent program FNDWFBG for concurrent request 16581339 (MODULE=FNDWFBG)
+
+13-AUG-2020 22:35:48
+Starting concurrent program FNDWFBG for concurrent request 16581344 (MODULE=FNDWFBG)
+
+14-AUG-2020 04:35:20
+Starting concurrent program FNDOAMCOL for concurrent request 16581462 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+14-AUG-2020 04:55:52
+Starting concurrent program FNDOAMCOL for concurrent request 16581468 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+14-AUG-2020 05:00:23
+Starting concurrent program FNDWFBG for concurrent request 16581471 (MODULE=FNDWFBG)
+
+14-AUG-2020 05:05:23
+Starting concurrent program FNDWFBG for concurrent request 16581473 (MODULE=FNDWFBG)
+
+14-AUG-2020 05:06:24
+Starting concurrent program FNDOAMCOL for concurrent request 16581472 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+14-AUG-2020 05:20:25
+Starting concurrent program FNDWFBG for concurrent request 16581478 (MODULE=FNDWFBG)
+
+14-AUG-2020 05:25:25
+Starting concurrent program FNDWFBG for concurrent request 16581480 (MODULE=FNDWFBG)
+
+14-AUG-2020 05:30:26
+Starting concurrent program FNDWFBG for concurrent request 16581481 (MODULE=FNDWFBG)
+
+14-AUG-2020 05:35:26
+Starting concurrent program FNDWFBG for concurrent request 16581483 (MODULE=FNDWFBG)
+
+14-AUG-2020 05:37:56
+Starting concurrent program FNDOAMCOL for concurrent request 16581482 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+14-AUG-2020 06:57:34
+Starting concurrent program RTCR_PLTSGN for concurrent request 16581516 (MODULE=RTCR_PLTSGN)
+
+14-AUG-2020 07:06:10
+Starting concurrent program WSHINTERFACE for concurrent request 16581523 (MODULE=WSHINTERFACE)
+
+14-AUG-2020 07:12:44
+Starting concurrent program RTC_850_IN_GENTRAN for concurrent request 16581529 (MODULE=/u01/apps/apps_st/appl/xbol/12.0.0/bin/RTC_850_IN_GENTRAN)
+
+14-AUG-2020 07:14:15
+Starting concurrent program RTCLOADDIST for concurrent request 16581531 (MODULE=RTCLOADDIST)
+
+14-AUG-2020 07:32:18
+Starting concurrent program POCISO for concurrent request 16581539 (MODULE=POCSOPG)
+
+14-AUG-2020 07:33:18
+Starting concurrent program FNDOAMCOL for concurrent request 16581536 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+14-AUG-2020 07:34:20
+Starting concurrent program OEOIMP for concurrent request 16581541 (MODULE=Order Import)
+
+14-AUG-2020 07:34:50
+Starting concurrent program OEOIMP for concurrent request 16581542 (MODULE=Order Import)
+
+14-AUG-2020 07:34:54
+Starting concurrent program OEOIMP for concurrent request 16581541 (MODULE=Order Import)
+
+14-AUG-2020 07:36:56
+Starting concurrent program OEOIMP for concurrent request 16581547 (MODULE=Order Import)
+
+14-AUG-2020 07:37:10
+Starting concurrent program OEOIMP for concurrent request 16581544 (MODULE=Order Import)
+
+14-AUG-2020 07:37:11
+Starting concurrent program RTCR_PLTSGN for concurrent request 16581551 (MODULE=RTCR_PLTSGN)
+
+14-AUG-2020 07:44:22
+Starting concurrent program FNDWFBG for concurrent request 16581555 (MODULE=FNDWFBG)
+
+14-AUG-2020 07:59:43
+Starting concurrent program RTC_BATCH_SCHEDULE for concurrent request 16581562 (MODULE=oracle.apps.xdo.oa.cp.JCP4XDODataEngine)
+
+14-AUG-2020 09:11:47
+Starting concurrent program RTCR_OEXOEACK_B for concurrent request 16581595 (MODULE=RTCR_OEXOEACK_B)
+
+14-AUG-2020 09:15:23
+Starting concurrent program FNDWFBG for concurrent request 16581594 (MODULE=FNDWFBG)
+
+14-AUG-2020 09:20:23
+Starting concurrent program FNDWFBG for concurrent request 16581596 (MODULE=FNDWFBG)
+
+14-AUG-2020 09:25:23
+Starting concurrent program FNDWFBG for concurrent request 16581598 (MODULE=FNDWFBG)
+
+14-AUG-2020 09:30:24
+Starting concurrent program FNDWFBG for concurrent request 16581600 (MODULE=FNDWFBG)
+
+14-AUG-2020 09:35:24
+Starting concurrent program FNDWFBG for concurrent request 16581604 (MODULE=FNDWFBG)
+
+14-AUG-2020 09:40:26
+Starting concurrent program FNDWFBG for concurrent request 16581605 (MODULE=FNDWFBG)
+
+14-AUG-2020 09:43:57
+Starting concurrent program RTCR_OEXOEACK_B for concurrent request 16581608 (MODULE=RTCR_OEXOEACK_B)
+
+14-AUG-2020 09:45:31
+Starting concurrent program FNDWFBG for concurrent request 16581607 (MODULE=FNDWFBG)
+
+14-AUG-2020 09:50:31
+Starting concurrent program FNDWFBG for concurrent request 16581609 (MODULE=FNDWFBG)
+
+14-AUG-2020 09:55:32
+Starting concurrent program FNDWFBG for concurrent request 16581612 (MODULE=FNDWFBG)
+
+14-AUG-2020 09:56:02
+Starting concurrent program FNDWFAASTATCC for concurrent request 16580741 (MODULE=FNDWFAASTATCC)
+
+14-AUG-2020 10:00:40
+Starting concurrent program FNDOAMCOL for concurrent request 16581610 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+14-AUG-2020 15:09:12
+Starting concurrent program FNDWFBG for concurrent request 16581719 (MODULE=FNDWFBG)
+
+14-AUG-2020 15:30:42
+Starting concurrent program FNDWFBG for concurrent request 16581743 (MODULE=FNDWFBG)
+
+14-AUG-2020 15:45:43
+Starting concurrent program FNDWFBG for concurrent request 16581749 (MODULE=FNDWFBG)
+
+14-AUG-2020 16:08:13
+Starting concurrent program FNDOAMCOL for concurrent request 16581754 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+14-AUG-2020 20:19:45
+Starting concurrent program FNDOAMCOL for concurrent request 16581833 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+15-AUG-2020 02:06:18
+Starting concurrent program FNDOAMCOL for concurrent request 16581946 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+15-AUG-2020 02:10:19
+Starting concurrent program FNDWFBG for concurrent request 16581948 (MODULE=FNDWFBG)
+
+15-AUG-2020 02:15:20
+Starting concurrent program FNDWFBG for concurrent request 16581950 (MODULE=FNDWFBG)
+
+15-AUG-2020 02:25:20
+Starting concurrent program FNDWFBG for concurrent request 16581954 (MODULE=FNDWFBG)
+
+15-AUG-2020 03:00:20
+Starting concurrent program FNDWFBG for concurrent request 16581964 (MODULE=FNDWFBG)
+
+15-AUG-2020 03:10:21
+Starting concurrent program FNDWFBG for concurrent request 16581968 (MODULE=FNDWFBG)
+
+15-AUG-2020 03:20:21
+Starting concurrent program FNDWFBG for concurrent request 16581972 (MODULE=FNDWFBG)
+
+15-AUG-2020 03:30:21
+Starting concurrent program FNDWFBG for concurrent request 16581975 (MODULE=FNDWFBG)
+
+15-AUG-2020 03:35:21
+Starting concurrent program FNDWFBG for concurrent request 16581976 (MODULE=FNDWFBG)
+
+15-AUG-2020 03:40:23
+Starting concurrent program FNDWFBG for concurrent request 16581979 (MODULE=FNDWFBG)
+
+15-AUG-2020 05:46:24
+Starting concurrent program FNDOAMCOL for concurrent request 16582017 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+15-AUG-2020 06:28:26
+Starting concurrent program FNDOAMCOL for concurrent request 16582030 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+15-AUG-2020 06:38:28
+Starting concurrent program FNDOAMCOL for concurrent request 16582033 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+15-AUG-2020 06:57:37
+Starting concurrent program FNDWFLSC for concurrent request 16581519 (MODULE=WFLOCALBS)
+
+15-AUG-2020 07:00:20
+Starting concurrent program FNDWFBG for concurrent request 16582042 (MODULE=FNDWFBG)
+
+15-AUG-2020 07:05:20
+Starting concurrent program FNDWFBG for concurrent request 16582046 (MODULE=FNDWFBG)
+
+15-AUG-2020 07:10:21
+Starting concurrent program FNDWFBG for concurrent request 16582047 (MODULE=FNDWFBG)
+
+15-AUG-2020 07:15:21
+Starting concurrent program FNDWFBG for concurrent request 16582050 (MODULE=FNDWFBG)
+
+15-AUG-2020 07:20:21
+Starting concurrent program FNDWFBG for concurrent request 16582051 (MODULE=FNDWFBG)
+
+15-AUG-2020 07:25:21
+Starting concurrent program FNDWFBG for concurrent request 16582052 (MODULE=FNDWFBG)
+
+15-AUG-2020 07:30:21
+Starting concurrent program FNDWFBG for concurrent request 16582054 (MODULE=FNDWFBG)
+
+15-AUG-2020 07:35:22
+Starting concurrent program FNDWFBG for concurrent request 16582056 (MODULE=FNDWFBG)
+
+15-AUG-2020 07:40:24
+Starting concurrent program FNDWFBG for concurrent request 16582058 (MODULE=FNDWFBG)
+
+15-AUG-2020 09:45:26
+Starting concurrent program FNDWFBG for concurrent request 16582097 (MODULE=FNDWFBG)
+
+15-AUG-2020 09:50:27
+Starting concurrent program FNDWFBG for concurrent request 16582098 (MODULE=FNDWFBG)
+
+15-AUG-2020 10:05:27
+Starting concurrent program FNDWFBG for concurrent request 16582106 (MODULE=FNDWFBG)
+
+15-AUG-2020 10:50:57
+Starting concurrent program FNDOAMCOL for concurrent request 16582119 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+15-AUG-2020 13:10:29
+Starting concurrent program FNDWFBG for concurrent request 16582163 (MODULE=FNDWFBG)
+
+15-AUG-2020 13:20:30
+Starting concurrent program FNDWFBG for concurrent request 16582167 (MODULE=FNDWFBG)
+
+15-AUG-2020 13:30:30
+Starting concurrent program FNDWFBG for concurrent request 16582170 (MODULE=FNDWFBG)
+
+15-AUG-2020 13:45:30
+Starting concurrent program FNDWFBG for concurrent request 16582175 (MODULE=FNDWFBG)
+
+15-AUG-2020 14:05:31
+Starting concurrent program FNDWFBG for concurrent request 16582181 (MODULE=FNDWFBG)
+
+15-AUG-2020 14:09:01
+Starting concurrent program FNDWFBG for concurrent request 16582165 (MODULE=FNDWFBG)
+
+15-AUG-2020 14:10:31
+Starting concurrent program FNDWFBG for concurrent request 16582182 (MODULE=FNDWFBG)
+
+15-AUG-2020 14:25:32
+Starting concurrent program FNDWFBG for concurrent request 16582187 (MODULE=FNDWFBG)
+
+15-AUG-2020 14:35:32
+Starting concurrent program FNDWFBG for concurrent request 16582190 (MODULE=FNDWFBG)
+
+15-AUG-2020 14:45:32
+Starting concurrent program FNDWFBG for concurrent request 16582193 (MODULE=FNDWFBG)
+
+15-AUG-2020 14:52:32
+Starting concurrent program FNDOAMCOL for concurrent request 16582194 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+15-AUG-2020 16:27:04
+Starting concurrent program FNDOAMCOL for concurrent request 16582225 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+15-AUG-2020 19:15:36
+Starting concurrent program FNDWFBG for concurrent request 16582279 (MODULE=FNDWFBG)
+
+15-AUG-2020 19:25:37
+Starting concurrent program FNDWFBG for concurrent request 16582282 (MODULE=FNDWFBG)
+
+15-AUG-2020 19:45:37
+Starting concurrent program FNDWFBG for concurrent request 16582288 (MODULE=FNDWFBG)
+
+15-AUG-2020 19:55:37
+Starting concurrent program FNDWFBG for concurrent request 16582291 (MODULE=FNDWFBG)
+
+15-AUG-2020 20:07:37
+Starting concurrent program FNDOAMCOL for concurrent request 16582293 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+15-AUG-2020 21:20:39
+Starting concurrent program FNDWFBG for concurrent request 16582319 (MODULE=FNDWFBG)
+
+15-AUG-2020 21:31:39
+Starting concurrent program FNDOAMCOL for concurrent request 16582321 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 00:00:12
+Starting concurrent program MRCSCW1 for concurrent request 16582374 (MODULE=/u01/apps/apps_st/appl/mrp/12.0.0/bin/MRCSCW)
+
+16-AUG-2020 00:40:01
+Starting concurrent program FNDOAMCOL for concurrent request 16582384 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 00:50:39
+Starting concurrent program FNDOAMCOL for concurrent request 16582387 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 01:01:11
+Starting concurrent program FNDOAMCOL for concurrent request 16582391 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 01:43:13
+Starting concurrent program FNDOAMCOL for concurrent request 16582404 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 05:08:46
+Starting concurrent program FNDWFBG for concurrent request 16582455 (MODULE=FNDWFBG)
+
+16-AUG-2020 07:45:21
+Starting concurrent program FNDWFBG for concurrent request 16582522 (MODULE=FNDWFBG)
+
+16-AUG-2020 07:55:21
+Starting concurrent program FNDWFBG for concurrent request 16582525 (MODULE=FNDWFBG)
+
+16-AUG-2020 08:01:21
+Starting concurrent program FNDOAMCOL for concurrent request 16582526 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 09:35:29
+Starting concurrent program FNDOAMCOL for concurrent request 16582555 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 10:17:31
+Starting concurrent program FNDOAMCOL for concurrent request 16582574 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 11:00:33
+Starting concurrent program FNDWFBG for concurrent request 16582591 (MODULE=FNDWFBG)
+
+16-AUG-2020 11:05:33
+Starting concurrent program FNDWFBG for concurrent request 16582593 (MODULE=FNDWFBG)
+
+16-AUG-2020 11:30:34
+Starting concurrent program FNDWFBG for concurrent request 16582602 (MODULE=FNDWFBG)
+
+16-AUG-2020 11:50:34
+Starting concurrent program FNDWFBG for concurrent request 16582608 (MODULE=FNDWFBG)
+
+16-AUG-2020 12:00:34
+Starting concurrent program FNDWFBG for concurrent request 16582611 (MODULE=FNDWFBG)
+
+16-AUG-2020 12:13:04
+Starting concurrent program FNDOAMCOL for concurrent request 16582613 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 13:15:36
+Starting concurrent program FNDWFBG for concurrent request 16582635 (MODULE=FNDWFBG)
+
+16-AUG-2020 13:25:36
+Starting concurrent program FNDWFBG for concurrent request 16582638 (MODULE=FNDWFBG)
+
+16-AUG-2020 13:45:37
+Starting concurrent program FNDWFBG for concurrent request 16582644 (MODULE=FNDWFBG)
+
+16-AUG-2020 13:55:37
+Starting concurrent program FNDWFBG for concurrent request 16582647 (MODULE=FNDWFBG)
+
+16-AUG-2020 14:05:37
+Starting concurrent program FNDWFBG for concurrent request 16582650 (MODULE=FNDWFBG)
+
+16-AUG-2020 15:25:38
+Starting concurrent program FNDWFBG for concurrent request 16582675 (MODULE=FNDWFBG)
+
+16-AUG-2020 15:33:08
+Starting concurrent program FNDOAMCOL for concurrent request 16582676 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 16:45:40
+Starting concurrent program FNDWFBG for concurrent request 16582701 (MODULE=FNDWFBG)
+
+16-AUG-2020 19:08:40
+Starting concurrent program FNDWFBG for concurrent request 16582728 (MODULE=FNDWFBG)
+
+16-AUG-2020 19:34:41
+Starting concurrent program FNDOAMCOL for concurrent request 16582752 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+16-AUG-2020 23:04:43
+Starting concurrent program FNDOAMCOL for concurrent request 16582817 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+17-AUG-2020 00:00:15
+Starting concurrent program FNDWFBG for concurrent request 16582837 (MODULE=FNDWFBG)
+
+17-AUG-2020 00:10:15
+Starting concurrent program FNDWFBG for concurrent request 16582853 (MODULE=FNDWFBG)
+
+17-AUG-2020 00:25:15
+Starting concurrent program FNDWFBG for concurrent request 16582859 (MODULE=FNDWFBG)
+
+17-AUG-2020 00:45:16
+Starting concurrent program FNDWFBG for concurrent request 16582865 (MODULE=FNDWFBG)
+
+17-AUG-2020 01:00:16
+Starting concurrent program FNDWFBG for concurrent request 16582869 (MODULE=FNDWFBG)
+
+17-AUG-2020 01:15:16
+Starting concurrent program FNDWFBG for concurrent request 16582874 (MODULE=FNDWFBG)
+
+17-AUG-2020 01:35:16
+Starting concurrent program FNDWFBG for concurrent request 16582880 (MODULE=FNDWFBG)
+
+17-AUG-2020 01:52:17
+Starting concurrent program FNDOAMCOL for concurrent request 16582884 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+17-AUG-2020 02:35:19
+Starting concurrent program FNDWFBG for concurrent request 16582899 (MODULE=FNDWFBG)
+
+17-AUG-2020 02:44:49
+Starting concurrent program FNDOAMCOL for concurrent request 16582900 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+17-AUG-2020 03:35:21
+Starting concurrent program FNDWFBG for concurrent request 16582918 (MODULE=FNDWFBG)
+
+17-AUG-2020 03:45:21
+Starting concurrent program FNDWFBG for concurrent request 16582922 (MODULE=FNDWFBG)
+
+17-AUG-2020 03:55:21
+Starting concurrent program FNDWFBG for concurrent request 16582925 (MODULE=FNDWFBG)
+
+17-AUG-2020 04:05:21
+Starting concurrent program FNDWFBG for concurrent request 16582928 (MODULE=FNDWFBG)
+
+17-AUG-2020 04:15:22
+Starting concurrent program FNDWFBG for concurrent request 16582932 (MODULE=FNDWFBG)
+
+17-AUG-2020 04:25:22
+Starting concurrent program FNDWFBG for concurrent request 16582935 (MODULE=FNDWFBG)
+
+17-AUG-2020 04:40:24
+Starting concurrent program FNDWFBG for concurrent request 16582939 (MODULE=FNDWFBG)
+
+17-AUG-2020 06:45:57
+Starting concurrent program FNDOAMCOL for concurrent request 16582977 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+17-AUG-2020 06:56:28
+Starting concurrent program FNDOAMCOL for concurrent request 16582982 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+17-AUG-2020 06:57:30
+Starting concurrent program OE_24_48_ALERT for concurrent request 16582506 (MODULE=OE_24_48_ALERT)
+
+17-AUG-2020 06:59:12
+Starting concurrent program RTCR_OEXOEACK_B for concurrent request 16582991 (MODULE=RTCR_OEXOEACK_B)
+
+17-AUG-2020 07:00:16
+Starting concurrent program FNDWFBG for concurrent request 16582986 (MODULE=FNDWFBG)
+
+17-AUG-2020 07:02:16
+Starting concurrent program RTCR_OEXOEACK_B for concurrent request 16582993 (MODULE=RTCR_OEXOEACK_B)
+
+17-AUG-2020 07:15:20
+Starting concurrent program FNDWFBG for concurrent request 16582999 (MODULE=FNDWFBG)
+
+17-AUG-2020 07:25:20
+Starting concurrent program FNDWFBG for concurrent request 16583002 (MODULE=FNDWFBG)
+
+17-AUG-2020 07:35:20
+Starting concurrent program FNDWFBG for concurrent request 16583005 (MODULE=FNDWFBG)
+
+17-AUG-2020 07:45:21
+Starting concurrent program FNDWFBG for concurrent request 16583009 (MODULE=FNDWFBG)
+
+17-AUG-2020 07:50:21
+Starting concurrent program FNDWFBG for concurrent request 16583010 (MODULE=FNDWFBG)
+
+17-AUG-2020 07:55:21
+Starting concurrent program FNDWFBG for concurrent request 16583012 (MODULE=FNDWFBG)
+
+17-AUG-2020 08:00:21
+Starting concurrent program FNDWFBG for concurrent request 16583013 (MODULE=FNDWFBG)
+
+17-AUG-2020 08:05:22
+Starting concurrent program FNDWFBG for concurrent request 16583015 (MODULE=FNDWFBG)
+
+17-AUG-2020 08:50:22
+Starting concurrent program FNDWFBG for concurrent request 16583029 (MODULE=FNDWFBG)
+
+17-AUG-2020 08:55:22
+Starting concurrent program FNDWFBG for concurrent request 16583030 (MODULE=FNDWFBG)
+
+17-AUG-2020 09:00:22
+Starting concurrent program FNDWFBG for concurrent request 16583032 (MODULE=FNDWFBG)
+
+17-AUG-2020 09:02:53
+Starting concurrent program FNDOAMCOL for concurrent request 16583031 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+17-AUG-2020 09:23:54
+Starting concurrent program FNDOAMCOL for concurrent request 16583038 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+17-AUG-2020 10:50:26
+Starting concurrent program FNDWFBG for concurrent request 16583069 (MODULE=FNDWFBG)
+
+17-AUG-2020 12:45:27
+Starting concurrent program FNDWFBG for concurrent request 16583106 (MODULE=FNDWFBG)
+
+17-AUG-2020 13:08:57
+Starting concurrent program FNDWFBG for concurrent request 16583095 (MODULE=FNDWFBG)
+
+17-AUG-2020 13:55:29
+Starting concurrent program FNDWFBG for concurrent request 16583129 (MODULE=FNDWFBG)
+
+17-AUG-2020 14:08:59
+Starting concurrent program FNDWFBG for concurrent request 16583116 (MODULE=FNDWFBG)
+
+17-AUG-2020 14:25:29
+Starting concurrent program FNDWFBG for concurrent request 16583139 (MODULE=FNDWFBG)
+
+17-AUG-2020 14:35:30
+Starting concurrent program FNDWFBG for concurrent request 16583142 (MODULE=FNDWFBG)
+
+17-AUG-2020 14:40:32
+Starting concurrent program FNDWFBG for concurrent request 16583143 (MODULE=FNDWFBG)
+
+17-AUG-2020 15:45:34
+Starting concurrent program FNDWFBG for concurrent request 16583169 (MODULE=FNDWFBG)
+
+17-AUG-2020 15:50:34
+Starting concurrent program FNDWFBG for concurrent request 16583171 (MODULE=FNDWFBG)
+
+17-AUG-2020 15:52:04
+Starting concurrent program FNDOAMCOL for concurrent request 16583170 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+17-AUG-2020 19:00:37
+Starting concurrent program FNDWFBG for concurrent request 16583230 (MODULE=FNDWFBG)
+
+17-AUG-2020 19:11:37
+Starting concurrent program FNDOAMCOL for concurrent request 16583232 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+17-AUG-2020 23:23:39
+Starting concurrent program FNDOAMCOL for concurrent request 16583313 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+17-AUG-2020 23:25:11
+Starting concurrent program FNDWFBG for concurrent request 16583315 (MODULE=FNDWFBG)
+
+17-AUG-2020 23:40:12
+Starting concurrent program FNDWFBG for concurrent request 16583320 (MODULE=FNDWFBG)
+
+18-AUG-2020 03:30:46
+Starting concurrent program FNDWFBES_CONTROL_QUEUE_CLEANUP for concurrent request 16583166 (MODULE=FNDWFBES_CONTROL_QUEUE_CLEANUP)
+
+18-AUG-2020 03:45:16
+Starting concurrent program FNDWFBG for concurrent request 16583408 (MODULE=FNDWFBG)
+
+18-AUG-2020 03:55:16
+Starting concurrent program FNDWFBG for concurrent request 16583411 (MODULE=FNDWFBG)
+
+18-AUG-2020 04:05:17
+Starting concurrent program FNDWFBG for concurrent request 16583414 (MODULE=FNDWFBG)
+
+18-AUG-2020 04:30:17
+Starting concurrent program RTCEXTSOMV for concurrent request 16583427 (MODULE=/u01/apps/apps_st/appl/xbol/12.0.0/bin/RTCEXTSOMV)
+
+18-AUG-2020 04:30:17
+Starting concurrent program FNDRSSTG for concurrent request 16583426 (MODULE=FNDRSSTG)
+
+18-AUG-2020 04:30:17
+Starting concurrent program FNDRSSUB for concurrent request 16583424 (MODULE=FNDRSSUB)
+
+18-AUG-2020 04:30:17
+Starting concurrent program FNDRSSTG for concurrent request 16583428 (MODULE=FNDRSSTG)
+
+18-AUG-2020 04:30:17
+Starting concurrent program RTC_850_IN_GENTRAN for concurrent request 16583429 (MODULE=/u01/apps/apps_st/appl/xbol/12.0.0/bin/RTC_850_IN_GENTRAN)
+
+18-AUG-2020 04:30:18
+Starting concurrent program FNDRSSTG for concurrent request 16583428 (MODULE=FNDRSSTG)
+
+18-AUG-2020 04:30:18
+Starting concurrent program FNDRSSUB for concurrent request 16583424 (MODULE=FNDRSSUB)
+
+18-AUG-2020 04:30:18
+Starting concurrent program FNDRSSTG for concurrent request 16583430 (MODULE=FNDRSSTG)
+
+18-AUG-2020 04:50:18
+Starting concurrent program FNDWFBG for concurrent request 16583443 (MODULE=FNDWFBG)
+
+18-AUG-2020 04:59:49
+Starting concurrent program FNDOAMCOL for concurrent request 16583444 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+18-AUG-2020 05:20:20
+Starting concurrent program FNDWFBG for concurrent request 16584338 (MODULE=FNDWFBG)
+
+18-AUG-2020 05:25:21
+Starting concurrent program FNDWFBG for concurrent request 16584341 (MODULE=FNDWFBG)
+
+18-AUG-2020 05:30:21
+Starting concurrent program FNDWFBG for concurrent request 16584343 (MODULE=FNDWFBG)
+
+18-AUG-2020 05:35:21
+Starting concurrent program FNDWFBG for concurrent request 16584345 (MODULE=FNDWFBG)
+
+18-AUG-2020 05:40:23
+Starting concurrent program FNDWFBG for concurrent request 16584348 (MODULE=FNDWFBG)
+
+18-AUG-2020 06:33:54
+Starting concurrent program FNDOAMCOL for concurrent request 16584368 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+18-AUG-2020 09:10:57
+Starting concurrent program FNDOAMCOL for concurrent request 16584420 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+18-AUG-2020 09:53:28
+Starting concurrent program FNDWFWITSTATCC for concurrent request 16583051 (MODULE=FNDWFWITSTATCC)
+
+18-AUG-2020 10:02:32
+Starting concurrent program FNDOAMCOL for concurrent request 16584437 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+18-AUG-2020 13:08:35
+Starting concurrent program FNDWFBG for concurrent request 16584491 (MODULE=FNDWFBG)
+
+18-AUG-2020 21:15:08
+Starting concurrent program FNDWFBG for concurrent request 16584671 (MODULE=FNDWFBG)
+
+18-AUG-2020 21:20:08
+Starting concurrent program FNDWFBG for concurrent request 16584680 (MODULE=FNDWFBG)
+
+18-AUG-2020 21:21:38
+Starting concurrent program FNDSCURS for concurrent request 16584684 (MODULE=FNDSCURS)
+
+18-AUG-2020 21:45:11
+Starting concurrent program FNDWFBG for concurrent request 16584693 (MODULE=FNDWFBG)
+
+18-AUG-2020 21:50:11
+Starting concurrent program FNDWFBG for concurrent request 16584695 (MODULE=FNDWFBG)
+
+18-AUG-2020 21:55:11
+Starting concurrent program FNDWFBG for concurrent request 16584696 (MODULE=FNDWFBG)
+
+18-AUG-2020 22:00:11
+Starting concurrent program FNDWFBG for concurrent request 16584697 (MODULE=FNDWFBG)
+
+18-AUG-2020 22:05:11
+Starting concurrent program FNDWFBG for concurrent request 16584699 (MODULE=FNDWFBG)
+
+18-AUG-2020 22:08:42
+Starting concurrent program FNDWFBG for concurrent request 16584672 (MODULE=FNDWFBG)
+
+18-AUG-2020 22:10:12
+Starting concurrent program FNDWFBG for concurrent request 16584700 (MODULE=FNDWFBG)
+
+18-AUG-2020 22:20:12
+Starting concurrent program FNDWFBG for concurrent request 16584704 (MODULE=FNDWFBG)
+
+18-AUG-2020 22:30:13
+Starting concurrent program FNDWFBG for concurrent request 16584707 (MODULE=FNDWFBG)
+
+18-AUG-2020 22:40:14
+Starting concurrent program FNDWFBG for concurrent request 16584710 (MODULE=FNDWFBG)
+
+18-AUG-2020 23:19:45
+Starting concurrent program FNDOAMCOL for concurrent request 16584723 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+18-AUG-2020 23:45:17
+Starting concurrent program FNDWFBG for concurrent request 16584732 (MODULE=FNDWFBG)
+
+18-AUG-2020 23:50:17
+Starting concurrent program FNDWFBG for concurrent request 16584734 (MODULE=FNDWFBG)
+
+18-AUG-2020 23:55:17
+Starting concurrent program FNDWFBG for concurrent request 16584735 (MODULE=FNDWFBG)
+
+19-AUG-2020 02:07:48
+Starting concurrent program FNDOAMCOL for concurrent request 16584797 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 02:39:20
+Starting concurrent program FNDOAMCOL for concurrent request 16584807 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 03:41:59
+Starting concurrent program FNDOAMCOL for concurrent request 16584828 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 03:52:30
+Starting concurrent program FNDOAMCOL for concurrent request 16584831 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 04:03:02
+Starting concurrent program FNDOAMCOL for concurrent request 16584834 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 04:40:09
+Starting concurrent program FNDWFBG for concurrent request 16584848 (MODULE=FNDWFBG)
+
+19-AUG-2020 05:05:41
+Starting concurrent program FNDOAMCOL for concurrent request 16584854 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 06:50:13
+Starting concurrent program FNDWFBG for concurrent request 16584888 (MODULE=FNDWFBG)
+
+19-AUG-2020 07:54:13
+Starting concurrent program FNDOAMCOL for concurrent request 16584909 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 08:55:15
+Starting concurrent program FNDWFBG for concurrent request 16584931 (MODULE=FNDWFBG)
+
+19-AUG-2020 09:05:15
+Starting concurrent program FNDWFBG for concurrent request 16584934 (MODULE=FNDWFBG)
+
+19-AUG-2020 09:10:16
+Starting concurrent program FNDWFBG for concurrent request 16584935 (MODULE=FNDWFBG)
+
+19-AUG-2020 09:30:16
+Starting concurrent program FNDWFBG for concurrent request 16584943 (MODULE=FNDWFBG)
+
+19-AUG-2020 09:50:16
+Starting concurrent program FNDWFBG for concurrent request 16584949 (MODULE=FNDWFBG)
+
+19-AUG-2020 10:00:16
+Starting concurrent program FNDWFBG for concurrent request 16584955 (MODULE=FNDWFBG)
+
+19-AUG-2020 10:30:17
+Starting concurrent program FNDWFBG for concurrent request 16584973 (MODULE=FNDWFBG)
+
+19-AUG-2020 10:42:17
+Starting concurrent program FNDOAMCOL for concurrent request 16584976 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 11:45:20
+Starting concurrent program FNDOAMCOL for concurrent request 16585002 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 12:50:22
+Starting concurrent program FNDWFBG for concurrent request 16585038 (MODULE=FNDWFBG)
+
+19-AUG-2020 13:45:22
+Starting concurrent program FNDWFBG for concurrent request 16585055 (MODULE=FNDWFBG)
+
+19-AUG-2020 13:51:22
+Starting concurrent program FNDOAMCOL for concurrent request 16585056 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 14:54:24
+Starting concurrent program FNDOAMCOL for concurrent request 16585075 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 16:05:26
+Starting concurrent program FNDWFBG for concurrent request 16585100 (MODULE=FNDWFBG)
+
+19-AUG-2020 16:25:26
+Starting concurrent program FNDWFBG for concurrent request 16585107 (MODULE=FNDWFBG)
+
+19-AUG-2020 17:35:27
+Starting concurrent program FNDWFBG for concurrent request 16585128 (MODULE=FNDWFBG)
+
+19-AUG-2020 17:52:27
+Starting concurrent program FNDOAMCOL for concurrent request 16585132 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+19-AUG-2020 19:05:29
+Starting concurrent program FNDWFBG for concurrent request 16585156 (MODULE=FNDWFBG)
+
+19-AUG-2020 19:15:29
+Starting concurrent program FNDWFBG for concurrent request 16585160 (MODULE=FNDWFBG)
+
+19-AUG-2020 19:20:29
+Starting concurrent program FNDWFBG for concurrent request 16585161 (MODULE=FNDWFBG)
+
+19-AUG-2020 19:35:29
+Starting concurrent program FNDWFBG for concurrent request 16585166 (MODULE=FNDWFBG)
+
+19-AUG-2020 20:45:30
+Starting concurrent program FNDWFBG for concurrent request 16585187 (MODULE=FNDWFBG)
+
+19-AUG-2020 21:05:30
+Starting concurrent program FNDWFBG for concurrent request 16585193 (MODULE=FNDWFBG)
+
+19-AUG-2020 21:08:31
+Starting concurrent program FNDWFBG for concurrent request 16585177 (MODULE=FNDWFBG)
+
+19-AUG-2020 21:35:31
+Starting concurrent program FNDWFBG for concurrent request 16585203 (MODULE=FNDWFBG)
+
+19-AUG-2020 22:08:31
+Starting concurrent program FNDWFBG for concurrent request 16585196 (MODULE=FNDWFBG)
+
+19-AUG-2020 22:36:32
+Starting concurrent program FNDOAMCOL for concurrent request 16585221 (MODULE=oracle.apps.fnd.oam.concprogs.dashboard.CollectionProg)
+
+20-AUG-2020 01:05:04
+Starting concurrent program FNDWFBG for concurrent request 16585289 (MODULE=FNDWFBG)
+
+20-AUG-2020 01:15:04
+Starting concurrent program FNDWFBG for concurrent request 16585293 (MODULE=FNDWFBG)
+
+20-AUG-2020 01:18:34
+Starting concurrent program FNDSCURS for concurrent request 16585296 (MODULE=FNDSCURS)
