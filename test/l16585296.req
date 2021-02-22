@@ -1,0 +1,67 @@
++---------------------------------------------------------------------------+
+Application Object Library: Version : 12.1
+
+Copyright (c) 1998, 2013, Oracle and/or its affiliates. All rights reserved.
+
+FNDSCURS: Active Users
++---------------------------------------------------------------------------+
+
+Current system time is 20-AUG-2020 01:18:34
+
++---------------------------------------------------------------------------+
+
+
++-----------------------------
+| Starting concurrent program execution...
++-----------------------------
+
+
+ APPLLCSP Environment Variable set to :
+
+ Current NLS_LANG, NLS_NUMERIC_CHARACTERS and NLS_SORT Environment Variables are :
+American_America.UTF8
+
+'.,'
+
+BINARY
+
+Enter Password: 
+
+Report Builder: Release 10.1.2.3.0 - Production on Thu Aug 20 01:18:35 2020
+
+Copyright (c) 1982, 2005, Oracle.  All rights reserved.
+
+
++---------------------------------------------------------------------------+
+Start of log messages from FND_FILE
++---------------------------------------------------------------------------+
++---------------------------------------------------------------------------+
+End of log messages from FND_FILE
++---------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------+
+Executing request completion options...
+
+Output file size: 
+200708
+
++--------- 1) POST-PROCESSING  ---------+
+Beginning post-processing of request 16585296 on node TRNIUSUXT016 at 20-AUG-2020 01:18:37.
+-- Delivering output
+Emailing output to tmekala@torani.com
+ 
+ 
+Post-processing of request 16585296 completed at 20-AUG-2020 01:18:37.
+ 
+CONC-POST-PROCESSING RESULTS
++---------------------------------------+
+
+
+Finished executing request completion options.
+
++---------------------------------------------------------------------------+
+Concurrent request completed successfully
+Current system time is 20-AUG-2020 01:18:37
+
++---------------------------------------------------------------------------+
