@@ -1,4 +1,4 @@
-[7/23/20 2:03:09 AM] [main] Starting GSF service with concurrent process id = 552555.
+hk[7/23/20 2:03:09 AM] [main] Starting GSF service with concurrent process id = 552555.
 [7/23/20 2:03:09 AM] [main] Initialization Parameters: oracle.apps.fnd.cp.opp.OPPServiceThread:2:0:max_threads=5
 [7/23/20 2:03:09 AM] [Thread-28] Service thread starting up.
 [7/23/20 2:03:09 AM] [Thread-29] Service thread starting up.
